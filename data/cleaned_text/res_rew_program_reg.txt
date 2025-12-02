@@ -1,0 +1,217 @@
+
+
+===== PAGE 1 =====
+1 | P a g e 
+3.4.3 RESEARCH REWARD PROGRAM 
+AND REGULATIONS 
+
+1. Purpose 
+ 
+ADA University aims to encourage its faculty to pursue research excellence and to contribute to the 
+further enhancement of the University’s international reputation as a center of excellence in research. 
+As part of this objective, ADA University offers a reward program for publications that correspond to high 
+international standards. The purpose of this document is to outline the specific rules of this reward 
+program. 
+
+2. Scope and Recommendations 
+ 
+This regulation covers academic books and articles that comply with specific publication standards and 
+that were published by full-time faculty members of ADA University. 
+ 
+Faculty members of ADA University are strongly recommended to consult the reward program’s 
+eligibility requirements before publishing the results of their research. 
+
+3. Definitions 
+ 
+The Research Reward Program is a reward mechanism established by ADA University. It is intended to 
+create incentives for faculty to actively and continuously engage in research activities and to reward 
+them for publications that fulfill high international standards. 
+ 
+The Impact Factor (IF) of a journal is the average number of times articles from that journal have been 
+cited in a particular year. This calculation takes into account articles that were published in the two years 
+preceding the year for which the Impact Factor is computed. The Impact Factor is used as an indication 
+of the relative importance of an academic journal within its field. 
+ 
+The Median Impact Factor (MIF) is the middle (median) value of all journal Impact Factors within a 
+certain field (discipline). 
+
+4. Research Reward Program 
+ 
+4.1 Program Timeframe and Eligibility Requirements 
+a. Beginning with the Fall semester of 2020, the reward program is effective for the period of one 
+academic year. After having been reviewed and potentially amended, it will be renewed each 
+academic year. 
+b. Only full-time faculty of ADA University may apply for the rewards provided by the program. 
+c. Monetary remuneration may only be granted for research output that was not sponsored by the 
+University’s Faculty Research and Development Fund. 
+d. For each publication, authors are expected to clearly state ADA University as their affiliation. 
+e. Publications may only be rewarded if they fulfill one of the following criteria:
+
+
+===== PAGE 2 =====
+2 | P a g e 
+(1) Research article published in a journal indexed in SSCI (Social Sciences Citation Index), 
+SCI (Science Citation Index), or SCIE (Science Citation Index Expanded). 
+(2) Book published with one of the publishing houses listed in category A or B below (see 
+chapter 5). 
+ 
+4.2 Publication Rewards for Single Authors 
+a. Books falling into category A will be rewarded with 2,500 AZN each. Books falling into category 
+B will be rewarded with 1,500 AZN each. 
+b. Each article that is published in an indexed journal as defined above in 4.1.e will be rewarded 
+based on the following formula: Reward = (IF/MIF)1.5 x 1,000 AZN. A reward calculator that 
+automatically determines the reward resulting from this formula can be obtained from the Office 
+of Faculty Affairs and Academic Administration. 
+c. The maximum reward for one journal publication is 5,000 AZN. 
+d. The formula defined in 4.2.b is based on the following principles: 
+(1) Each reward is dependent on the impact factor of the journal in which an article is published. 
+The higher the impact factor of a journal, the higher the reward. 
+(2) Journal impact factors are to be considered in the context of disciplines. A journal’s impact 
+factor is thus put in relationship to (and adjusted based on) the median impact factor of that 
+journal’s discipline. The larger the difference between the journal’s impact factor and the 
+discipline’s median impact factor (with IF≥MIF), the higher the reward. 
+(3) The exponent (1.5) is part of the reward mechanism and must not negatively affect the 
+reward. In cases where the adjusted impact factor (IF/MIF) is lower than 1, the exponent is 
+thus removed from the formula. 
+ 
+4.3 Rewards for Co-Authored Journal Publications 
+a. The rewards stipulated in chapter 4.2 are adjusted for co-authored journal articles. The reason 
+for these adjustments is to adequately address and reward the contribution of each author to 
+the respective publication. 
+b. If 2 or more authors from ADA University publish jointly, the reward initially resulting from the 
+formula defined in 4.2.b is increased by 50%. The resulting adjusted reward is divided equally 
+between all the authors of a publication. In the case of 2 authors, each author accordingly 
+receives an amount that is equivalent to 75% of the initially calculated reward; in the case of 3 
+authors, the reward for each author will be 50% of the initially calculated reward. This formula 
+will be applied for any number of authors. 
+c. If 1 author from ADA University publishes together with more than 1 non-member of the 
+University, the reward initially resulting from the formula defined in 4.2.b will be decreased by 
+10% for each additional author. In the case of 2 authors that are non-members of ADA 
+University, the deduction is accordingly 10%; in the case of 3 such authors, the deduction will 
+be 20%. This formula will be applied for any number of authors that are non-members of the 
+University. 
+d. A reward calculator that automatically determines the rewards resulting from the regulations 
+defined in 4.3.b and 4.3.c can be obtained from the Office of Faculty Affairs and Academic 
+Administration.
+
+
+===== PAGE 3 =====
+3 | P a g e 
+5. Ranking of Academic Publishing Houses 
+ 
+5.1 The following categories of academic publishers are based on the rankings developed by the 
+SENSE Research School, which have been adapted to reflect the research conducted at ADA 
+University. 
+5.2 Category A comprises the following top international publishing houses: 
+ 
+Cambridge University Press 
+Oxford University Press 
+
+Columbia University Press 
+Princeton University Press 
+
+Harvard University Press 
+Stanford University Press 
+
+Johns Hopkins University Press 
+University of Chicago Press 
+
+MIT Press Cambridge (MA) 
+Yale University Press 
+ 
+5.3 Category B comprises the following good international publishers: 
+ 
+Academic Press (imprint of Elsevier) 
+Martinus Nijhoff Publishers 
+
+Allen & Unwin 
+Methuen 
+
+American Chemical Society (ACS) 
+Nomos 
+
+Aspen Publishing 
+Palgrave Macmillan 
+
+Australian National University Press 
+Pergamon Press 
+
+Avebury / Ashgate 
+Permanent Black / Orient Blackswan 
+
+Basic Books 
+Pluto Press 
+
+Blackwell 
+Polity Press 
+
+Bloomsbury Academic 
+Praeger 
+
+Brill Publishers 
+Psychology Press (part of Taylor & Francis) 
+
+Bruylant 
+Random House 
+
+Cameron May 
+Routledge 
+
+Clarendon Press 
+Rowman & Littlefield 
+
+Cornell University Press 
+Royal Society of Chemistry 
+
+CRC Press (part of Taylor & Francis) 
+SAGE Publishing 
+
+Curzon Press 
+SETAC Press
+
+
+===== PAGE 4 =====
+4 | P a g e 
+Duke University Press 
+Springer 
+
+Earthscan 
+Springer VS 
+
+Edward Elgar Publishing 
+St. Martin’s Press 
+
+Elsevier Science 
+State University of New York Press 
+
+Frank Cass Publishers 
+Sweet & Maxwell (part of Thomson Reuters) 
+
+HarperCollins 
+Taylor & Francis 
+
+Hart Publishing 
+T&T Clark 
+
+Heinemann 
+University of California Press 
+
+IWA Publishing 
+University of Michigan Press 
+
+James Currey 
+University of Pennsylvania Press 
+
+Karthala 
+University of Texas Press 
+
+Kluwer Academic Publishers 
+Verso 
+
+Kluwer Law International 
+Westview Press 
+
+Lynne Rienner Publishers 
+Wiley 
+
+Macmillan

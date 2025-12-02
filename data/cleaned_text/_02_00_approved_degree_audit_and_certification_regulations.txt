@@ -1,0 +1,150 @@
+
+
+===== PAGE 1 =====
+Doc No: QA-QAA-16 
+Version: 02.00 
+Date Effective: 29 May 2025 
+ 
+DEGREE AUDIT AND CERTIFICATION 
+REGULATIONS 
+
+1. Purpose 
+ 
+ADA University strives to ensure the high quality and integrity of its degrees. This requires that the 
+performance and progress of students are reviewed regularly and that degrees are audited in a 
+uniform manner according to the University’s Undergraduate Degree Regulations and Graduate De-
+gree Regulations as well as further requirements defined for a specific program. The purpose of this 
+document is to outline ADA University’s degree audit processes. 
+
+2. Scope and Recommendations 
+ 
+These regulations apply to all students enrolled in an undergraduate or graduate degree program at 
+ADA University. They outline rules and procedures for the regular audit of student progress and 
+degree completion conducted by the Office of Admissions and Student Records and by Academic 
+Advisors. 
+ 
+Those members of ADA University responsible for monitoring and evaluating student progress and 
+degree completion are expected to be thoroughly familiar with this document and with ADA Univer-
+sity’s Undergraduate Degree Regulations and Graduate Degree Regulations. 
+ 
+Students are strongly advised to monitor their progress towards degree completion on a regular 
+basis. 
+
+3. Definitions 
+ 
+A Degree Audit is a formal analysis of a student’s progress towards degree completion. It further-
+more serves to evaluate whether a student has fulfilled all program requirements before being 
+awarded a degree. 
+ 
+The Term Grade Point Average (TGPA) indicates a student’s academic performance during a spe-
+cific semester or term. It is calculated in the following manner: (1) For each unit of study considered, 
+grade points earned are multiplied by credit hours attempted. (2) The resulting values for all the units 
+of study considered are added up. (3) The resulting sum is then divided by the credit hours attempted 
+that semester or term. The term GPA does not cover units of study evaluated on a Pass/Fail basis, 
+and it only includes the highest grade earned in a repeated course. 
+ 
+The Cumulative GPA (CGPA) indicates a student’s overall academic performance in a degree pro-
+gram. It is calculated in the same manner as the Term Grade Point Average, but includes all units 
+of study attempted by the time of calculation. Grades from approved transfer courses taken at an-
+other institution do not count towards a student’s cumulative GPA at ADA University. Neither do 
+units of study evaluated on a Pass/Fail basis. The cumulative GPA only includes the highest grade 
+earned in a repeated course. 
+ 
+The Banner Student Information System (Banner SIS) is an electronic database of student records 
+and further relevant student information. It is used for data collection, reporting, and for managing 
+day-to-day academic operations at ADA University.
+
+
+===== PAGE 2 =====
+2 | P a g e 
+Curriculum Advising and Program Planning (CAPP) is a tool available in Banner SIS that allows for 
+the digital representation of degree program requirements. It enables students as well as academic 
+and administrative staff members to monitor and evaluate a student’s progress towards the comple-
+tion of these requirements. 
+ 
+MyADA is a centralized portal available to students, faculty and staff that provides access to major 
+electronic services offered at ADA University. 
+
+4. Degree Audit Procedures and Requirements 
+ 
+4.1 The progress of students towards degree completion must be monitored regularly and as spec-
+ified below. The University furthermore conducts degree evaluation processes prior to the grad-
+uation of students and the processing of degrees. 
+4.2 Degree audits consist of formal and systematic assessments of a student’s progress and level 
+of attainment, and of informal processes of a student’s self-evaluation. 
+4.3 Degree audits fulfill the following purposes: 
+a. They support the retention of students by monitoring their progress towards degree comple-
+tion. 
+b. They serve to ensure that students are able to graduate on time. 
+c. They ensure that degrees are awarded only to students who have fulfilled all requirements 
+of their respective degrees on at least a satisfactory level. 
+4.4 ADA University uses the Curriculum Advising and Program Planning (CAPP) tool available in 
+Banner SIS to create digital representations of program requirements. Each degree program’s 
+CAPP includes courses, credits, and minimum passing grades. Students, Academic Advisors, 
+and designated members of a student’s School (such as Deans and Associate Deans) have 
+access to relevant student information via MyADA. They are thus able to monitor and assess a 
+student’s performance against degree requirements and his/her progress towards degree com-
+pletion. 
+4.5 Academic Advisors regularly assess their designated students’ results and academic perfor-
+mance in order to provide assistance during the semester as well as before and during course 
+registration for the following semester. This is to ensure that students continue to fulfill all re-
+quirements of their respective degree programs and are able to graduate on time. 
+4.6 In order to progress towards degree completion (“good academic standing”), undergraduate 
+students must maintain a cumulative GPA of 2.00, graduate students a cumulative GPA of 2.75. 
+4.7 Undergraduate students must repeat courses with a grade below D (the courses Writing and 
+Information Literary I and Writing and Information Literary II must be repeated if students re-
+ceive a grade below C-). Students of the English for Academic and Professional Purposes 
+(EAPP) Program must usually repeat a level with an overall grade below C (for details on the 
+EAPP Program, see ADA University’s English for Academic and Professional Purposes Regu-
+lations). Graduate students must repeat courses with a grade below C. 
+4.8 An undergraduate student is placed on academic probation if the student’s cumulative GPA 
+falls below 2.00 at the end of a semester. Students who achieve a cumulative GPA of at least 
+2.00 are restored to good academic standing. Undergraduate students on academic probation 
+are required to adhere to the following rules: 
+a. They are strongly recommended to take one course less than their standard course load for 
+the respective semester(s). 
+b. They are strongly recommended to repeat failed courses as early as possible, provided that 
+the courses are offered. 
+c. They must regularly meet with their Academic Advisor. 
+d. They must participate in a student success program.
+
+
+===== PAGE 3 =====
+3 | P a g e 
+4.9 A graduate student is placed on academic probation if the student’s cumulative GPA falls below 
+2.75 at the end of a semester. Students who achieve a cumulative GPA of at least 2.75 are 
+restored to good academic standing. 
+4.10 As part of the objective to ensure the high quality and integrity of ADA University’s degrees, 
+and before a degree may be awarded, the Office of Admissions and Student Records evaluates 
+a student’s overall academic performance against the requirements set forth in the Undergrad-
+uate Degree Regulations or Graduate Degree Regulations and in the program description of 
+the student’s degree program. 
+4.11 For graduation, students must have completed all the requirements of their respective degree 
+programs. 
+4.12 For graduation, undergraduate students must have completed at least 240 credit hours with a 
+cumulative GPA of 2.00 or better (some undergraduate programs may require more than 240 
+credit hours for the completion of all requirements). Graduate students must complete at least 
+90 credit hours with a cumulative GPA of 2.75 or better (some graduate programs may require 
+a different number of credit hours for the completion of all requirements). 
+4.13 In order to fulfill ADA University’s degree regulations, the University requires that students ac-
+quire 210 credits (undergraduate programs) or 72 credits (graduate programs) in residence 
+(some graduate programs may require a different number of credits to be completed in resi-
+dence). Students may accordingly transfer a maximum of 30 credits (undergraduate programs) 
+or of 18 credits (graduate programs) to ADA University (for details, see the Undergraduate 
+Degree Regulations and Graduate Degree Regulations). 
+4.14 The integrity of ADA University’s degrees also requires that plagiarism and academic cheating 
+are prevented or sanctioned (should they occur). As stated in its Honor Code, the University 
+aims to foster an attitude of honesty and integrity in all its students. To this end, students are 
+trained in proper academic conduct. Violations of the principles of academic honesty and integ-
+rity may result in failed courses and written warnings, in a temporary suspension from classes, 
+or in permanent expulsion from the University. 
+
+5. Degree Certification 
+ 
+5.1 Upon the successful completion of all degree requirements, and thus upon graduation, a stu-
+dent will receive a degree certificate (diploma) that is issued by the Ministry of Science and 
+Education of the Republic of Azerbaijan and signed by the Rector of ADA University. This cer-
+tificate provides information on the name and level of the degree program completed by the 
+student. 
+5.2 A student will also be issued a transcript of records by the University that provides an overview 
+of all attended courses (and of the grades achieved) by the student during his/her studies.

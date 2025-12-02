@@ -1,0 +1,246 @@
+
+
+===== PAGE 1 =====
+1 | P a g e 
+1.4.6 CURRICULUM STRUCTURE 
+AND REGULATIONS 
+
+1. Purpose 
+ 
+ADA University strives to ensure the coherence, breadth and high quality of its degree programs. This 
+requires that all programs adhere to a set of curriculum regulations and to a corresponding curriculum 
+structure. The curriculum structure may differ across different Schools and programs, but the design 
+and delivery of all degree programs and curricula must follow certain minimum requirements. This 
+ensures that all students enrolled in degree programs at ADA University are educated through similarly 
+structured, comprehensive curricula and are able to achieve pre-defined learning outcomes. The 
+purpose of this document is to outline ADA University’s curriculum structure and regulations. 
+
+2. Scope and Recommendations 
+ 
+This regulation applies to all undergraduate and graduate degree programs at ADA University. 
+ 
+Schools are expected to follow the curriculum structure and regulations outlined in this document as 
+well as ADA University’s Undergraduate Degree Regulations, Graduate Degree Regulations and 
+Degree Program Development and Modification Policy when launching new degree programs and/or 
+modifying current degree programs. 
+
+3. Definitions 
+ 
+General Education: This encompasses courses offered to all students enrolled in undergraduate degree 
+programs at ADA University. The purpose of the General Education component is to cultivate a well-
+rounded person in foundational areas such as the Humanities, Social Sciences, Natural Sciences and 
+Quantitative Reasoning; Writing and Information Literacy; and Leadership and Communication. 
+ 
+Major Core: Courses labeled as Major Core offer a fundamental understanding of subjects covered by 
+a student’s main field of specialization. Major Core courses are a mandatory part of a degree program. 
+ 
+Technical Electives: These are courses in advanced topics covered by a student’s main field of 
+specialization. Students are offered a range of Technical Electives to choose from. 
+ 
+Free Electives: Any credit-bearing course can be considered a Free Elective if the respective course is 
+not an integral part of a student’s degree program. Free Electives can be chosen from any other degree 
+program offered at ADA University. 
+ 
+Functional Enablers: These are courses that aim to develop core study- and work-related skills. 
+Functional Enablers cover IT skills, but also internships and career strategies.
+
+
+===== PAGE 2 =====
+2 | P a g e 
+4. Curriculum Regulations 
+ 
+4.1 Undergraduate Curriculum Regulations 
+a. All undergraduate degree programs at ADA University have a General Education component 
+which usually consists of 60 credits or 10 courses. The General Education requirements are 
+similar across all programs, but they may differ depending on the nature of the degree. For 
+details on the General Education component, see ADA University’s General Education 
+Regulations. 
+b. All undergraduate degree programs at ADA University have a Major Core component consisting 
+of a minimum 120 credits or 20 courses. Some programs may include more than the minimum 
+requirement for the Major Core component. 
+c. All undergraduate degree programs at ADA University have a Technical Elective component 
+consisting of 24 credits or 4 courses. 
+d. Most undergraduate degree programs at ADA University have a Free Elective component 
+consisting of 24 credits or 4 courses. Some programs may require fewer credits allocated to the 
+Free Elective component. The Bachelor of Laws program at ADA University does not include a 
+Free Elective component. 
+e. Most undergraduate degree programs at ADA University have a Functional Enabler component 
+consisting of 12 credits or 2 courses. The Bachelor of Laws program and the Bachelor of 
+Science in Mathematics program at ADA University include only 6 credits for the Functional 
+Enabler component. 
+f. Further degree requirements are outlined in ADA University’s Undergraduate Degree 
+Regulations. 
+ 
+4.2 Graduate Curriculum Regulations 
+a. All graduate degree programs at ADA University have a Major Core component and a Technical 
+Elective component. 
+b. The Major Core component usually covers 72 credits (for 90 credit programs) or 52 credits (for 
+70 credit programs). 
+c. A graduate degree program usually requires no more than 18 credits or 3 courses for the 
+Technical Elective component. 
+d. All graduate degree programs at ADA University include an Independent Study requirement. 
+Students must complete either a Capstone Project or a Master Thesis. The program Master of 
+Business Administration requires either a Business Consultancy Project, a Business Plan or a 
+Master Thesis to complete the Independent Study requirement. In all graduate degree 
+programs, the Independent Study requirement is considered to be part of the Major Core 
+component and usually covers 18 credits. 
+e. The specific allocation of courses and credits for each component depends on the nature of the 
+degree program. 
+f. Further degree requirements are outlined in ADA University’s Graduate Degree Regulations. 
+
+5. Curriculum Structure 
+ 
+5.1 General Provisions 
+a. The specific curriculum structure at both the undergraduate and the graduate level may differ 
+across Schools and programs. 
+b. Curricula must adhere to the regulations delineated in 4.1 or 4.2 respectively. They must be 
+structured coherently and provide for a logical sequence of courses.
+
+
+===== PAGE 3 =====
+3 | P a g e 
+c. The following charts exemplify the typical curriculum structure of most of ADA University’s 
+undergraduate and graduate degree programs. 
+ 
+5.2 Undergraduate Curriculum Structure 
+ 
+Year 
+Semester 
+Course 1 
+Course 2 
+Course 3 
+Course 4 
+Course 5 
+1 
+1 
+MC 
+MC 
+GE 
+GE 
+GE 
+2 
+MC 
+MC 
+GE 
+GE 
+GE 
+ 
+Summer 
+ 
+2 
+3 
+MC 
+MC 
+MC 
+GE 
+GE 
+4 
+MC 
+MC 
+MC 
+GE 
+GE 
+ 
+Summer 
+ 
+3 
+5 
+MC 
+MC 
+MC 
+FE 
+EN 
+6 
+MC 
+MC 
+MC 
+FE 
+EN 
+ 
+Summer 
+ 
+Internship 
+ 
+4 
+7 
+MC 
+MC 
+TE 
+TE 
+FE 
+8 
+MC 
+MC 
+TE 
+TE 
+FE 
+ 
+Component 
+Code 
+Credit Hours 
+General Education 
+GE 
+60 
+Major Core 
+MC 
+120 
+Technical Elective 
+TE 
+24 
+Free Elective 
+FE 
+24 
+Functional Enabler 
+EN 
+12 
+Total 
+ 
+240 
+ 
+5.3 Graduate Curriculum Structure 
+ 
+Year 
+Semester 
+Course 1 
+Course 2 
+Course 3 
+Course 4 
+1 
+1 
+MC 
+MC 
+MC 
+ 
+2 
+MC 
+MC 
+MC 
+
+Summer 
+TE
+2 
+3 
+MC 
+MC 
+MC 
+IS 
+4 
+TE 
+TE 
+IS 
+
+Component 
+Code 
+Credit Hours 
+Major Core 
+MC 
+54 
+Technical Elective 
+TE 
+18 
+Independent Study 
+IS 
+18 
+Total 
+ 
+90

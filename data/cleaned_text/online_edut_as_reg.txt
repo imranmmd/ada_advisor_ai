@@ -1,0 +1,441 @@
+
+
+===== PAGE 1 =====
+1 | P a g e 
+2.4.3 ONLINE EDUCATION AND ASSESSMENT 
+REGULATIONS 
+
+1. Purpose 
+ 
+ADA University aims to ensure excellence in online education and assessment. The online format poses 
+specific challenges due to the lack of physical proximity between teachers and students. It requires not 
+only a certain technological infrastructure, but also adjustments of didactic practices and of assessment 
+methods. The purpose of this document is to outline specific regulations for the design and conduct of 
+online education and assessment. It is intended to supplement ADA University’s Statement on Teaching 
+and Learning and its Student Assessment Regulations. 
+
+2. Scope and Recommendations 
+ 
+This regulation applies to (1) all undergraduate and graduate programs and courses that are delivered 
+in an online format and to (2) all online components of undergraduate and graduate programs and 
+courses that are delivered in a blended format. 
+ 
+It also applies to all face-to-face programs and courses that are only temporarily delivered in an online 
+or blended format. This may occur in the context of (international or national) collaborations. It may also 
+occur in situations of force majeure, during a pandemic situation, or in the case of any other event that 
+is beyond the control of the University. 
+ 
+This regulation furthermore applies to all remote exams at ADA University that are (1) synchronous and 
+proctored and (2) either computer-based, paper-based or conducted orally. 
+ 
+Rules and proceedings for asynchronous take-home exams are delineated in ADA University’s Student 
+Assessment Regulations. 
+ 
+Students and teachers engaged in online education and assessment are expected to be thoroughly 
+familiar with the regulations set forth in this document. They are strongly recommended to read this 
+document in conjunction with ADA University’s Student Assessment Regulations. Teachers are 
+furthermore expected to consult the University’s Statement on Teaching and Learning. 
+
+3. Definitions 
+ 
+Entire degree programs or individual courses offered in the Online (Distance) format are based 
+exclusively on remote forms of teaching and learning. 
+ 
+Entire degree programs or individual courses offered in the Blended (Hybrid) format combine classroom-
+based and online teaching and learning activities. 
+ 
+Entire degree programs or individual courses offered Face-to-Face are classroom-based. They make 
+use of the online mode only for additional student support and to share teaching and learning materials.
+
+
+===== PAGE 2 =====
+2 | P a g e 
+Synchronous Teaching and Learning describes constellations in which teachers and students engage 
+with specific course content at the same time. It usually refers to scheduled class time during which 
+activities are guided by the teacher. If conducted online, synchronous teaching and learning requires 
+the use of appropriate communication and/or teaching and learning software. 
+ 
+Asynchronous Teaching and Learning describes constellations in which students engage with specific 
+course content according to their own schedule. This includes recorded lessons during which students 
+are instructed and guided by the teacher, but also various forms of projects and independent or 
+collaborative learning activities during which students engage with a specific topic with little or no support 
+from their teacher. If conducted online, asynchronous teaching and learning requires the use of 
+appropriate communication and/or teaching and learning software. 
+ 
+Online Exams are assignments that are conducted using the internet. They can be (1) conducted in 
+class or remotely, (2) synchronous or asynchronous, (3) proctored or non-proctored, (4) written 
+(computer-based or paper-based) or oral. 
+ 
+A Remote Exam is an assignment that a student completes while being in a location other than the 
+physical classroom and for which the student needs to use the internet. 
+ 
+A Synchronous Exam is an assignment that all students of a course need to complete at the same time 
+and during a designated and limited period of time. 
+ 
+An Asynchronous Exam is an assignment that students do not need to complete at the same time and 
+for whose submission students are usually allowed a longer period of time. 
+ 
+A Proctored Exam is an assignment that students complete while being supervised by one or several 
+teachers and/or proctors. 
+ 
+A Non-Proctored Exam is an assignment that students complete without being supervised by a teacher 
+or proctor. 
+ 
+A Computer-Based Exam is a written assignment that students complete using a technical device. 
+ 
+A Paper-Based Exam is an assignment that students complete using pen and paper. Paper-based 
+exams can also be conducted remotely. 
+
+4. Online Education Regulations 
+ 
+4.1 General Provisions 
+a. Programs and courses at ADA University are predominantly delivered face-to-face. Any 
+program and/or course that is delivered (temporarily or permanently) in a blended or online 
+mode must correspond to the regulations outlined below. 
+b. The requirements for the design of curricula and courses delineated in ADA University’s 
+Curriculum and Course Development Policy also apply to programs and courses delivered in 
+the blended or online format. 
+c. The requirements for the specification of learning outcomes delineated in ADA University’s Core 
+Competence and Learning Outcome Specification Policy also apply to programs and courses 
+delivered in the blended or online format.
+
+
+===== PAGE 3 =====
+3 | P a g e 
+d. The requirements for the delivery of courses are outlined in chapter 5.1 of ADA University’s 
+Curriculum and Course Development Policy. 
+ 
+4.2 Directives for Online Education 
+a. Equivalence: Similar courses offered in different formats (online, blended, or face-to-face) vary 
+in their mode of delivery and assessment, and they may require adjustments of various 
+components (such as learning outcomes, instructional methods and learning activities, course 
+content, teaching and learning materials, or assessment methods). This notwithstanding, they 
+must ensure equivalence in terms of course level and quality and in terms of the level of student 
+performance. 
+b. Attainability: Intended learning outcomes must be appropriate for the online or blended format 
+and must thus be attainable by students. 
+c. Alignment: Instructional methods and learning activities must be aligned with learning outcomes 
+and assessment methods and selected so that students can achieve the previously defined 
+learning outcomes. 
+d. Variety: Courses must provide opportunities for both synchronous and asynchronous learning 
+and thus engage students in various forms of activities intended to achieve different learning 
+outcomes. 
+e. Innovation: Teachers must include new and innovative methods of online teaching and learning 
+in their courses. 
+f. Participation: The selection of instructional methods and learning activities must ensure a high 
+level of student engagement and collaboration. 
+g. Relevance: The content of courses must be meaningful and should, whenever possible, reflect 
+real-life contexts and scenarios as well as the conditions and requirements of professional 
+environments. 
+h. Comprehensiveness: Teachers must use the University’s LMS platform (Blackboard Learn) 
+extensively and creatively during the process of teaching and learning. 
+i. Information: Teachers must ensure that all information relevant to a course is made available to 
+students prior to the beginning of the course. This must include technical issues related to 
+Blackboard Learn and its use in the respective course. 
+j. Feedback: Teachers must provide students (individually and/or as a group) with regular 
+information on their performance and progress and potentially with advice on how they may 
+improve. 
+k. Support: ADA University’s Blackboard Administrator must provide students and teachers with 
+technical support and thus facilitate the online teaching and learning process. 
+ 
+4.3 Course Enrollment 
+a. The maximum number of participants for online or blended courses corresponds to the number 
+of students that can be enrolled in face-to-face courses. This number takes into account the 
+number of students that are required to take a course in the respective semester. 
+b. Schools and the Office of Admissions and Student Records must ensure that students are able 
+to attend all of the courses required by their respective degree programs without compromising 
+the effectiveness of the teaching and learning process. 
+c. Students enroll in courses via Banner. 
+ 
+4.4 Contact Hours and Additional Requirements 
+a. ADA University’s Credit Regulations also apply to all programs and courses offered in an online 
+or blended format.
+
+
+===== PAGE 4 =====
+4 | P a g e 
+b. The duration of lessons delivered in the online or blended mode corresponds to the duration of 
+face-to-face lessons. Based on the University’s Credit Regulations, 1 contact hour consists of 
+37.5 minutes. 
+c. Teachers are expected to provide students with opportunities for asynchronous learning by 
+regularly recording and/or pre-recording lessons. Each recording is supposed to be 30-40 
+minutes in length and to be uploaded on Blackboard Learn. 
+d. Teachers are expected to supplement regular online lessons with weekly question and answer 
+sessions and/or office hours of at least 60 minutes per course. 
+ 
+4.5 Training for Teachers and Students 
+a. The University regularly offers trainings that serve to equip teachers and students with the 
+knowledge and skills required in an online teaching and learning environment. The organization 
+and delivery of these trainings is the responsibility of the Office of Faculty Affairs and Academic 
+Administration and of the University’s Information Technology Services. 
+b. Mandatory trainings for teachers consist of a two-day Blackboard Orientation Workshop, a 
+subsequent Peer Support Program, and an ensuing and extended E-Teacher Program. These 
+trainings serve to progressively familiarize teachers with the usage of Blackboard Learn and 
+with the innovative use of teaching and learning technology. Teachers may also and additionally 
+request individual advisory sessions, and they are strongly recommended to share new and 
+innovative practices with their peers. 
+c. Students are required to attend an Orientation Session in which they are introduced to the usage 
+of Blackboard Learn. This session aims to ensure that students are proficient in the use and 
+navigation of the LMS platform and are thus able to successfully attend classes delivered in the 
+online or blended format without being impeded by a lack of technical knowledge and skills. 
+
+5. Remote Exam Regulations 
+ 
+5.1 General Provisions 
+a. The following rules and proceedings serve as a supplement to ADA University’s Student 
+Assessment Regulations. They are intended to ensure that remote exams are conducted 
+smoothly and that the risk of cheating in exams is minimized. 
+b. Before choosing the option of a remote exam, teachers are requested to consider alternative 
+assessment formats. Remote exams are not recommended for high-stake assessments. 
+c. Students are expected to act with integrity during remote exams and to comply with the following 
+regulations. Failure to comply with any or several of these regulations will be treated as a 
+violation of the University’s Honor Code. 
+d. The teacher of a course may define examination rules and proceedings in addition to those 
+delineated below. In case these additional rules and proceedings contradict ADA University’s 
+official examination rules and proceedings, the latter will always prevail. 
+e. Rules for the excused or unexcused absence from an exam are delineated in ADA University’s 
+Student Assessment Regulations. 
+ 
+5.2 Technological Requirements 
+a. Students must comply with the following hardware and internet requirements: 
+(1) They must ensure that the required technological equipment (such as computer, camera, 
+microphone, internet connection) is available and working. This rule is based on the 
+principle that while in-class exams presuppose the physical presence of students, remote 
+exams require a certain technological infrastructure.
+
+
+===== PAGE 5 =====
+5 | P a g e 
+(2) They are strongly recommended to have a reliable backup internet connection (such as a 
+mobile hotspot). 
+(3) They must have two external webcams and a desk webcam stand available. 
+b. Students must comply with the following software requirements: 
+(1) They must ensure that the following software required for remote exams as well as updates 
+are properly installed on the computer or device used for an exam. 
+(2) Software that has been approved by ADA University for remote exams and proctoring are 
+Respondus LockDown Browser and Respondus Monitor, both of which are compatible with 
+the LMS platform (Blackboard Learn) used by the University as well as with Microsoft 
+Teams and Zoom Video Conferencing. While Respondus LockDown Browser prevents 
+students from using additional applications and functions on their computers, Respondus 
+Monitor uses their cameras and microphones to record each candidate and his/her 
+environment and to flag any potentially suspicious behavior. An introduction to Respondus 
+LockDown Browser can be found at web.respondus.com/lockdownbrowser-student-video/. 
+(3) Remote exams are usually conducted using Blackboard Learn. At the teacher’s discretion, 
+Microsoft Teams or Zoom Video Conferencing may be used for oral exams. 
+c. Teachers and proctors must ensure that all the relevant software as well as updates are installed 
+and working on their computers or devices. They are strongly recommended to have a reliable 
+backup internet connection (such as a mobile hotspot). 
+ 
+5.3 Information Requirements and Technical Support 
+a. Teachers are expected to provide students with all the information relevant to a specific remote 
+exam. This requirement also covers technical issues related to the software applications 
+mentioned in 5.2 and the pre-exam checklist delineated in 5.4. 
+b. Students are expected to be thoroughly familiar with the technology and software required for 
+an exam and with all the relevant examination procedures. In case of technical problems, they 
+are strongly recommended to contact the teacher of the respective course and/or the 
+University’s Blackboard Administrator well ahead of examination dates. Students may also use 
+the Help Center of Respondus LockDown Browser to try and troubleshoot technical issues with 
+their computer and to check their webcams and microphone prior to an exam. 
+c. Teachers are expected to contact the University’s Blackboard Administrator in case they need 
+support with any technical problem they or any of their students may face. 
+d. Teachers are recommended to conduct a test-run prior to the first remote exam of a course. 
+This test-run should be designed so that it utilizes all the technology and software required for 
+exams. By doing so, potential technical problems can be identified and solved prior to the first 
+exam. 
+ 
+5.4 Pre-Exam Checklist 
+a. Students must have their ADA Student ID Card at hand and be able to present it to the camera 
+before, during or after an exam. 
+b. Students must ensure that no other person can use their credentials to access any of the 
+software applications used for remote exams. 
+c. Students must ensure that they will not be interrupted by any other person during an exam. 
+Contact with other persons during the exam will be considered as cheating. 
+d. Students should take remote exams in a well-lit room, but they must ensure that the camera 
+(when properly positioned) does not face an unshaded window or any other main source of light. 
+e. Students are not to wear any kind of headdress that shades or covers their faces. 
+f. Students must clear the desk or table used for an exam of all materials (such as books and 
+papers) not permitted for the exam.
+
+
+===== PAGE 6 =====
+6 | P a g e 
+g. Students must ensure that all devices other than the computer or device used for an exam are 
+switched off and placed well out of their reach. This includes (but is not limited to) mobile phones, 
+smart devices and watches as well as additional computers. They must be put face/screen 
+down, or their screens must be turned away from the student. 
+h. Students must ensure that the computer or device used for an exam is placed on a firm surface 
+(such as a desk or table). It must not be kept on the lap, and it must not be moved during an 
+exam. 
+i. The camera used for an exam must be mounted on a desk webcam stand. It must be placed 
+sideways at a 90-degree angle from the student so that it shows a student’s head and part of 
+the face, the torso (whilst seated in front of the computer or device), the desk or table surface, 
+as well as the keyboard and mouse (if one is being used). It must also provide a sideways view 
+of the screen. Any materials permitted for an exam must be placed on the desk or table and be 
+within the camera view throughout the entire exam. After having positioned the camera 
+accordingly, students may only adjust the camera position and angle during an exam if asked 
+to do so by the teacher or the proctor of the exam. An instructional video on the adequate 
+placement of the camera can be found at: www.youtube.com/watch?v=BoeXRLfpYv4. If 
+students wish to use their mobile phone as an external webcam, they must ensure that it is put 
+to silent mode (with vibration deactivated) and that all other applications are inactive during an 
+exam. An instructional video on how to use a mobile phone as webcam can be found at: 
+www.youtube.com/watch?v=J7iXt9fLI2U. 
+j. If students intend to use any technological equipment for an exam that is different from the one 
+used during a test-run or previous exam, they must ensure that it is properly and reliably working 
+prior to the exam. 
+ 
+5.5 Proctoring and Duration of Exams 
+a. All synchronous exams at ADA University that are conducted remotely are proctored. 
+b. The duration of synchronous exams that are conducted remotely should not exceed two hours. 
+ 
+5.6 Conduct of Examinations 
+a. Right before the beginning of an exam, students must start the Respondus LockDown Browser. 
+While Respondus LockDown Browser launches from any standard browser, students cannot 
+access remote exams with their preferred browser without having launched Respondus 
+LockDown Browser. When using Respondus LockDown Browser, students will be unable to exit 
+an exam until all questions have been completed and/or submitted. 
+b. Both the camera and the microphone must be switched on during the entire duration of an exam 
+or until a student has completed and submitted the exam. 
+c. Students must remain in front of their computers or devices for the entire duration of an exam 
+or until they have completed and submitted the exam. 
+d. Students are expected to be prepared for and promptly comply with any requests made by the 
+teacher or by the proctor of an exam. They may (for example) be requested to activate a second 
+camera; provide a 360-degree view of their surroundings before, during or after an exam; or 
+submit screenshots of the computer or device used for the exam. 
+e. Written remote exams must be conducted as Blackboard Tests. In order to ensure the integrity 
+and high quality of exams, teachers must use the following options on Blackboard Learn: 
+(1) Test Description: This option allows teachers to provide students with all the information 
+relevant to an exam (including purpose, duration, or question types). 
+(2) Display After: This option allows teachers to select the date and time at which the exam 
+will begin and thus be available to students.
+
+
+===== PAGE 7 =====
+7 | P a g e 
+(3) Displaying Until: This option allows teachers to select the date and time at which an exam 
+will end and close on Blackboard Learn. The time allowed should be appropriate for the 
+exam and thus prevent students from consulting unauthorized materials and from 
+communicating with others. 
+(4) Randomize Questions: This option ensures that different questions are selected in a 
+different order each time an exam is taken. It thus also aims to ensure that different students 
+will not get the same questions in the same order. 
+(5) One at a Time: This option allows students to see no more than one question at a time. It 
+may or may not be combined with the option Prohibit Backtracking (see below in 5.6.f). 
+(6) Show Test Results and Feedback to Students: In this menu, teachers must choose either 
+the option After Due Date or the option After Availability End Date. This will ensure that 
+correct and incorrect answers are only displayed to students after the end of an exam. 
+Students will thus be prevented from cheating by exchanging relevant information gathered 
+from the exam while it is still in progress. 
+f. Teachers may additionally choose some of the following options on Blackboard Learn when 
+conducting written remote exams: 
+(1) Password: This option allows teachers to set a password for the exam. Students will need 
+this password in order to access the exam. 
+(2) Prohibit Backtracking: This option prevents students from returning to questions they have 
+already completed. Teachers should inform students beforehand if this option is enabled. 
+(3) Multiple Attempts: This option allows students to take an exam several times. Teachers 
+must select which attempt is to be counted from the Score Attempts Using menu. To avoid 
+that students are able to repeatedly complete the same or a similar set of questions, the 
+Multiple Attempts option should only be chosen if there is a large pool of questions and if 
+questions are selected randomly. When choosing this option, teachers must ensure that 
+students will not make use of the additional time required to complete an exam several 
+times to cheat by consulting unauthorized materials or by communicating with others. This 
+option is not compatible with the Force Completion option. 
+(4) Force Completion: This option allows students to take an exam only once, and they are 
+required to complete it in one sitting. They may not exit and re-enter the exam. This option 
+is not compatible with the Multiple Attempts option. 
+(5) Set Timer: This option forces students to complete an exam within a specific period of time. 
+Set Timer is redundant in synchronous remote exams in which Display After and Display 
+Until must be selected (see above in 5.6.e). Yet, if the timer is set to Auto-Submit, it ensures 
+that the exam of each student is automatically submitted once the timer has run out. 
+g. Some assessment tasks present students with technical difficulties when conducted virtually 
+since they may (for example) require them to solve equations or to develop charts and 
+illustrations. In such cases, teachers may opt for a pen and paper exam. Such paper-based 
+remote exams will be conducted in Blackboard Learn according to the following rules and 
+proceedings: 
+(1) Prior to the beginning of an exam, students must prepare blank sheets of white paper (A4 
+format) with their name on each page. 
+(2) At the beginning of the exam, students will open the assignment on Blackboard Learn and 
+see the tasks and/or questions on their screen. 
+(3) Students will complete the exam using pen and paper. 
+(4) After having completed the exam, students must show all pages to the camera for 
+confirmation purposes. Pages that are not thus displayed will not count towards the exam 
+grade.
+
+
+===== PAGE 8 =====
+8 | P a g e 
+(5) After having thus confirmed their exam sheets, students are strictly forbidden to make any 
+changes to their exams. They must scan all the exam sheets and create or combine them 
+into one PDF file, using the application specified by the course’s teacher. Students will then 
+upload the PDF file via a separate Blackboard Learn assignment that will close 15 minutes 
+after the end of an exam. Failure to upload the PDF file during this period may result in an 
+Academic Fail (F or FZ) grade for the exam. 
+h. Teachers may also opt for a combined examination format in which a paper-based element 
+supplements the computer-based component. In this case, the regulations delineated in 5.6.e 
+to 5.6.g will apply as appropriate. 
+i. Teachers may consider allowing some additional time for a remote exam in order to compensate 
+for potential connectivity issues. Since this can create additional opportunities for cheating (as 
+indicated above in 5.6.e), they must ensure that it does not compromise the integrity of the 
+exam. 
+ 
+5.7 Verification Exams and Deferred Exams 
+a. Teachers have the right to take further steps to evaluate a student’s performance. This includes 
+(but is not limited to) additional oral exams that serve to verify the results of previously completed 
+(written) assignments. Such verification exams will be conducted online by the teacher of the 
+respective course, and they will be recorded. They may be conducted regardless of a student’s 
+previous performance. Teachers must ensure that the content and level of verification exams 
+correspond to the content and level of the previous assignment for which the result is to be 
+verified. 
+b. If students are unable to take an exam at the scheduled time due to medical, technical or other 
+compelling reasons, they may be eligible for a deferred exam. At the respective teacher’s 
+discretion, the deferred exam will be conducted either remotely or on campus. Deferred exams 
+must differ from the original exam, but they must be on the same level of assessment. 
+
+6. Contingency Regulations 
+ 
+6.1 Contingency Situations 
+a. The University must ensure that it promptly and comprehensively implements all regulations 
+issued by the Government of the Republic of Azerbaijan in exceptional and unforeseen 
+situations (such as force majeure or a pandemic). Such regulations may (for example) require 
+a temporary suspension of educational activities or a complete or partial shift to online 
+education. 
+b. In case of any contingency that requires that some or all programs and courses be temporarily 
+delivered in the online or blended mode, teachers and Schools must ensure that the regulations 
+outlined in this document are promptly and comprehensively implemented for all programs and 
+courses affected. 
+c. The prompt and comprehensive implementation of the regulations mentioned in 6.1.a and 6.1.b 
+will be supervised by the Vice Rector of Academic Affairs. It is the Vice Rector’s responsibility 
+to take appropriate steps in case of delayed or incomplete implementation. 
+d. Access to the campus and the usage of the University’s physical facilities may be entirely or 
+partially restricted during contingency situations. 
+ 
+6.2 Contingency Measures 
+a. Any situation in which the regular teaching and learning process is severely disrupted (as 
+indicated in 6.1.a and 6.1.b) may require measures to mitigate its impact on students. Such
+
+
+===== PAGE 9 =====
+9 | P a g e 
+measures may temporarily adjust regulations pertaining to (for example) class attendance or 
+student assessment. 
+b. Contingency measures should be intended to facilitate the fulfillment of program requirements 
+without compromising the integrity of the University’s degrees. 
+c. Contingency measures can be proposed by any group of faculty members or by members of 
+the senior management of ADA University. 
+d. Proposals shall be submitted to the Vice Rector of Academic Affairs, and they need to be 
+evaluated positively by the Vice Rector and two other members of the senior management. The 
+members of the senior management involved may reject the proposal or request adjustments 
+before submitting it to the University’s bodies mentioned in 6.2.e. These steps become 
+redundant if the Vice Rector and/or any other member or members of the senior management 
+initiated the proposal. 
+e. Each proposal needs the approval (1) of the Committee of Faculty Affairs and the Deans’ 
+Council (who will convene together) and (2) of the University Senate. The Vice Rector of 
+Academic Affairs must ensure that these bodies will convene without delay and at the earliest 
+possible date. The decision of the Senate becomes redundant if a proposal is rejected by the 
+combined majority of the Committee and Council members. 
+f. Unless otherwise decided by the University Senate, approved contingency measures shall 
+become effective on the day of their approval by the Senate. The Vice Rector of Academic 
+Affairs must ensure that they are immediately made available to all members of ADA University 
+and that they are posted on the University’s homepage. 
+g. Contingency measures must be implemented promptly and comprehensively by the actors 
+specified in the respective document. It is the Vice Rector’s responsibility to take appropriate 
+steps in case of delayed or incomplete implementation.

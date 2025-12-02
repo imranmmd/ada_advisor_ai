@@ -1,0 +1,947 @@
+
+
+===== PAGE 1 =====
+1 | P a g e 
+ 
+2.4.2 STUDENT ASSESSMENT REGULATIONS 
+
+1. Purpose 
+ 
+Student assessment is an essential component of the educational process. The purpose of this 
+document is to outline specific rules and proceedings for the design of assessments, the conduct of 
+examinations, and for the assessment of student academic performance at ADA University. 
+ 
+2. Scope and Recommendations 
+ 
+This regulation applies to all undergraduate and graduate degree programs (as well as to all non-degree 
+programs and to the English for Academic and Professional Purposes Program) offered face-to-face, or 
+in a blended or online format at ADA University. It provides a framework for the evaluation of student 
+performance and of the achievement of learning outcomes on the level of courses and programs. 
+ 
+Students and teachers as well as administrative staff involved in the process of student assessment are 
+expected to be thoroughly familiar with the rules and proceedings delineated in this document. 
+ 
+Students and teachers are strongly recommended to consult ADA University’s Online Education and 
+Assessment Regulations for courses and programs offered in the blended or online format and/or for 
+assessments that are conducted online. 
+ 
+Students are expected to be thoroughly familiar with ADA University’s Honor Code. They are 
+recommended to consult ADA University’s Student Appeal and Grievance Policy for any complaints or 
+disagreements over academic matters that cannot be resolved among the involved parties. 
+
+3. Definitions 
+ 
+Assessment Criteria delineate precise requirements for the achievement of learning outcomes. These 
+requirements are clearly defined statements of what a student is expected to demonstrate during or at 
+the end of a process of learning in order to have partly or fully achieved a specific learning outcome. 
+They thus provide detailed guidelines for the evaluation of assessment tasks. 
+ 
+Assessment Tasks are assignments that serve to determine the level on which students have achieved 
+specific learning outcomes in a course or unit of study. 
+ 
+Assessment Types are categories of assignments that serve different purposes during the educational 
+process. 
+ 
+The term Assessment Method comprises both assessment tasks and assessment types. 
+ 
+A Capstone Project is an independent group study assignment that is to be completed in the second 
+year of a Master degree program.
+
+
+===== PAGE 2 =====
+2 | P a g e 
+ 
+Academic Integrity is a fundamental guiding principle according to which every educational and research 
+activity is to be conducted in an honest, responsible and altogether ethical manner. Most importantly, 
+this principle precludes any kind of cheating and plagiarism as well as the awarding of grades and 
+degrees based on anything else but the performance of students and their attainment of course learning 
+outcomes and program requirements. 
+ 
+Contract Cheating represents a breach of academic integrity. It is a form of academic dishonesty in 
+which an assessment task that was supposedly completed by one student (or a group of students) and 
+that has been submitted for evaluation was instead (fully, substantially, or to a significant degree) 
+prepared by a third party. It applies to all cases in which a third party was involved, and this regardless 
+of the third party’s relationship to the student (or group of students) and whether the third party received 
+any sort of remuneration from the student (or group of students). It also applies to cases in which 
+someone other than a student sits (or attempts to sit) an exam on behalf of that student. 
+ 
+The Grade Scale Percentage is a numerical expression of a student’s performance in an assessment 
+task. 
+ 
+Grade Points are a numerical equivalent to the Grade Scale Percentage achieved by a student in an 
+assessment task. They furthermore serve to express the overall performance of student in a course or 
+unit of study. As such, they are calculated in the following manner: (1) For each assessment task, grade 
+points are assigned. (2) The grade points for each assessment task are multiplied by its percentage 
+weight (which is the relative contribution of an assessment task to the overall grade of a course or unit 
+of study). (3) The resulting products are added up to produce the final grade assigned to a student in a 
+course or unit of study. 
+ 
+Grade Descriptors are terms that serve to express a student’s level of performance in a specific 
+assessment task, course or unit of study. 
+ 
+Grade Descriptions provide definitions of grade descriptors. Grade descriptions are based on the level 
+on which learning outcomes are achieved. This level of achievement is indicated by the extent to which 
+assessment criteria are fulfilled. The latter presupposes that learning outcomes and assessment 
+methods are aligned (for details, see ADA University’s Curriculum and Course Development Policy and 
+its Core Competence and Learning Outcome Specification Policy). 
+ 
+A Grading Rubric is a scoring guide that allows for the precise evaluation of student performance in a 
+specific assignment. It further specifies (subdivides) grade descriptors and thus explicates the 
+achievement of grade scale percentages and the allocation of grade points. 
+ 
+The Term Grade Point Average (TGPA) indicates a student’s academic performance during a specific 
+semester or term. It is calculated in the following manner: (1) For each unit of study considered, grade 
+points earned are multiplied by credit hours attempted. (2) The resulting values for all the units of study 
+considered are added up. (3) The resulting sum is then divided by the credit hours attempted that 
+semester or term. The term GPA does not cover units of study evaluated on a Pass/Fail basis, and it 
+only includes the highest grade earned in a repeated course. 
+ 
+The Cumulative GPA (CGPA) indicates a student’s overall academic performance in a degree program. 
+It is calculated in the same manner as the Term Grade Point Average, but includes all units of study 
+attempted by the time of calculation. Grades from approved transfer courses taken at another institution
+
+
+===== PAGE 3 =====
+3 | P a g e 
+ 
+do not count towards a student’s cumulative GPA at ADA University. Neither do units of study evaluated 
+on a Pass/Fail basis. The cumulative GPA only includes the highest grade earned in a repeated course. 
+ 
+A Student Transcript is a standardized document that serves as an official record of a student’s 
+performance. It includes all the credits and grades earned by a student for a specific degree program. 
+
+4. Assessment: Purposes, Types, Directives 
+ 
+4.1 Purposes of Assessment 
+a. Student assessment at ADA University is a deliberate process that must serve specific and well- 
+defined purposes. 
+b. Assessment of Learning serves the purpose of evaluating the attainment of learning outcomes 
+and of measuring the level on which students have achieved specific learning outcomes. This 
+purpose can be accomplished by a wide range of formative and summative assessment tasks. 
+c. Assessment for Learning serves the purpose of providing teachers with reliable evidence on the 
+learning progress of their students. It can thus inform the teaching and learning process in a 
+course or unit of study and allow teachers to determine subsequent teaching and learning 
+activities. This purpose is mainly accomplished by diagnostic and formative assessment tasks. 
+d. Assessment as Learning serves the purpose of supporting students to reflect upon their own 
+learning progress and approaches to learning. It can thus enable students to adjust their learning 
+strategies and become more self-reliant, goal-oriented and successful in their learning. This 
+purpose is mainly accomplished by formative and ipsative assessment tasks. 
+e. Assessment for Accountability and for Certification serves two purposes. Firstly, it serves to 
+provide evidence to the public in general and to the public administration in particular that the 
+University fulfills its mission. Secondly, it serves to document that the University fulfills the 
+requirements of national and international accrediting agencies and of similar certifying 
+organizations. This purpose can best be accomplished by means of aggregate data on student 
+performance at the program, School and institutional level. 
+ 
+4.2 Types of Assessment 
+a. A variety of assessment types are used at ADA University in order to support and evaluate the 
+learning progress of students. Students must furthermore have the opportunity to demonstrate 
+acquired competencies in different forms of assessment tasks. These rules apply to all courses 
+offered face-to-face or via a blended or online learning format. 
+b. Criterion-Referenced Assessment: This type of assessment compares the performance of 
+students to pre-defined criteria. All courses or units of study and all assignments at ADA 
+University are criterion-referenced in that they base the evaluation of a student’s performance 
+on clearly defined assessment criteria. These criteria as well as appropriate assessment tasks 
+are delineated in the course description of each course. A multitude of assessment tasks serve 
+the purpose of criterion-based assessment, ranging from quizzes and multiple choice question 
+tests to written and oral examinations and to individual study projects. 
+c. Diagnostic Assessment: This type of assessment is conducted at the beginning of a process of 
+learning. It evaluates the current performance of students (their strengths and weaknesses) in a 
+particular field and thus allows for an adjustment of the teaching and learning process at the 
+outset of a course. Diagnostic assessments can also be used before and after a process of 
+learning in order to evaluate the (individual and collective) learning progress of students in a 
+course or unit of learning. Assessment tasks that serve this purpose include quizzes, mind
+
+
+===== PAGE 4 =====
+4 | P a g e 
+ 
+maps, in-class discussions, written exams, learning diaries and other forms of individual 
+reflection. 
+d. Formative Assessment: This type of assessment is conducted during a process of learning. It 
+provides insights into the learning progress of students, and it thus allows for an adjustment of 
+the teaching and learning process in order to improve student performance and the attainment 
+of learning outcomes. Assessment tasks that serve this purpose include quizzes, in-class 
+discussions, presentations, essays, peer feedback activities, group projects, learning diaries, or 
+portfolios. 
+e. Summative Assessment: This type of assessment is conducted at the end of a process of 
+learning. It evaluates the attainment of learning outcomes at the conclusion of a course or unit 
+of study. Assessment tasks that serve this purpose include multiple choice question tests, 
+unseen written exams, open book exams, oral exams, term papers, or group projects. 
+f. Ipsative assessment: This type of assessment can be used at any stage of the learning process. 
+It is a self-referential type of assessment that compares a student’s previous performance 
+(grades or achievements in a specific field) with his/her current performance, thus allowing for 
+an evaluation of the individual student’s learning progress. Ipsative assessments can be used 
+to induce students to focus on their own performance and improvements instead of comparing 
+themselves to other students. Assessment tasks that serve this purpose include portfolios, 
+individual projects, learning diaries and other forms of individual reflection. 
+ 
+4.3 Directives for Assessment 
+a. Academic Freedom: It is the prerogative and responsibility of faculty to define assessment types 
+and tasks for all courses or units of study and to establish appropriate assessment criteria. 
+b. Purpose: Assessment tasks must be designed purposefully. They must allow for the evaluation 
+of student performance and/or provide evidence on the learning progress of students and/or 
+enable them to improve their learning. 
+c. Alignment: Assessment tasks must be aligned with learning activities and with the intended 
+learning outcomes of a course or unit of study. Learning outcomes and assessment criteria must 
+be aligned throughout a degree program and allow for a gradual learning progress of students 
+(for details, see ADA University’s Core Competence and Learning Outcome Specification 
+Policy). 
+d. Validity: Assessment tasks and assessment criteria must clearly address the intended learning 
+outcomes of a course or unit of study. They must thus effectively measure student achievement 
+of these learning outcomes. 
+e. Equivalence: Similar courses offered in different modes (face-to-face, blended, or online) may 
+vary in their chosen assessment tasks, but they must ensure equivalence in terms of 
+assessment criteria and in terms of the evaluation of the attainment of learning outcomes. 
+f. Disclosure: Assessment tasks and assessment criteria must be clearly specified and defined in 
+each course description or in an equivalent document (such as the Master Thesis and Capstone 
+Project Handbook). 
+g. Reliability: Assessment tasks must reflect the teaching and learning process within a course or 
+unit of study. The evaluation of assessments must be consistent and be based on clearly defined 
+assessment criteria. 
+h. Variety: A range of assessment methods must be employed in order to cover different learning 
+outcomes and/or levels of learning outcomes. 
+i. Authenticity: Assessment tasks must be meaningful and should, whenever possible, reflect real- 
+life contexts and scenarios as well as the conditions and requirements of professional 
+environments. 
+j. Clarity: Assessment tasks must be phrased in an unambiguous and intelligible manner.
+
+
+===== PAGE 5 =====
+5 | P a g e 
+ 
+k. Adequacy: Assessment tasks must be appropriate in length and correspond to the level of 
+courses and students. 
+l. Inclusiveness: Assessment tasks should be equitable and not disadvantage any group of 
+students (as far as this is possible without compromising course or program requirements). In 
+order to embrace the diversity of students, a range of assessment tasks should be employed, 
+and assignments should (whenever appropriate) incorporate choice. 
+m. Support: Assessment tasks are intended to guide the learning activities of students towards the 
+attainment of learning outcomes. They furthermore serve to diagnose weaknesses in student 
+performance that can thus be effectively addressed during the teaching and learning process. 
+n. Guidance: Students must be provided with timely and effective feedback on their performance 
+in assessments. This allows them to potentially adjust their learning activities and thus to 
+improve their attainment of learning outcomes as well as their performance in subsequent 
+assessment tasks. 
+o. Integrity: Assignments must be designed and conducted in a manner that minimizes the risk of 
+plagiarism and other kinds of cheating (including contract cheating). Students must be provided 
+with clear instructions on how to avoid breaches of academic integrity. 
+
+5. Conduct of Examinations 
+ 
+5.1 Final Examination Regulations 
+a. Final examinations take place at the end of the Fall semester (January), at the end of the Spring 
+semester (May), and at the end of the Summer term (July). In the program Master of Business 
+Administration, courses run for 7 weeks, and final exams are conducted accordingly. 
+b. Final examinations are scheduled by the Office of Admissions and Student Records. 
+c. Students with two exams scheduled at the same time, and students with three or more exams 
+on one day should submit a request to reschedule exams to the Dean’s Office of their respective 
+School. This request must be submitted via email no later than 3 days after the announcement 
+of the examination schedule. 
+d. Provided that rescheduling is possible, the exam from the course with the lowest enrollment will 
+be rescheduled. All efforts must be made by the Office of Admissions and Student Records and 
+by the Dean’s Offices of all the Schools involved to resolve schedule conflicts. Rescheduled 
+exams must take place during the respective examination period. 
+e. An unexcused absence during a final exam may result in an Academic Fail (F or FZ) grade for 
+the respective course and/or in similar sanctions. Students who can offer a compelling reason 
+for their absence during a final exam may be eligible for a deferred exam. Deferred exams must 
+differ from the original exam, but they must be on the same level of assessment. They take place 
+either during or shortly after the respective examination period or by the end of the following 
+semester. Students who are eligible for a deferred exam will be assigned an Incomplete (I or IP) 
+grade, which must be replaced by a valid grade by the end of the following semester or be 
+converted into an Academic Fail (F or FZ) grade. 
+f. Students must adhere to any additional rules and proceedings issued by their respective School. 
+In case these additional rules and proceedings contradict ADA University’s official examination 
+rules and proceedings, the latter will always prevail. 
+ 
+5.2 In-Class Examination Rules and Proceedings 
+a. The following rules and proceedings apply to all in-class examinations at the undergraduate and 
+graduate level.
+
+
+===== PAGE 6 =====
+6 | P a g e 
+ 
+b. Students must be on time for all in-class examinations. Students who arrive late for an exam 
+may be admitted to the examination room, but they will not be given any additional time to 
+compensate for their delay. 
+c. Students are not permitted to wear coats, scarves, hats, or any outdoor clothing during 
+examinations. Teachers and proctors will request students to remove such clothing for the 
+duration of the exam. No clothing may be kept on desks during examinations. 
+d. All mobile phones and smart devices (including smart watches) must be switched off or to silent 
+mode (with vibration deactivated) during examinations. They must be put face/screen down on 
+the teacher’s or proctor’s desk. Failure to comply with this rule will be treated as a violation of 
+the University’s Honor Code. 
+e. Students must bring their own pens, pencils, and any other equipment required for each exam. 
+f. Students are not allowed to bring any kind of paper to exams. Exam sheets will be provided by 
+the University. 
+g. For examinations requiring the use of a calculator, only non-programmable, non-text storing 
+calculators are permitted (unless specified otherwise by the teacher). 
+h. Talking or communicating in any way with other students is forbidden during an exam. Failure 
+to comply with this rule will be treated as a violation of the University’s Honor Code. 
+i. The teacher and proctor have the authority to assign and reassign seats to students prior and 
+during an exam. 
+j. Students are strictly forbidden to be in possession of any kind of notes, documents or other 
+unauthorized material during examinations. Failure to comply with this rule will be treated as a 
+violation of the University’s Honor Code. 
+k. In open-book exams, students are not allowed to bring any materials other than those permitted 
+by the teacher of the respective course. The teacher will provide students with a list of permitted 
+materials prior to the exam. 
+l. To avoid disruptions of the examination process, students are not allowed to bring food into the 
+examination room (unless medical authorization is provided). Water may be consumed during 
+examinations. 
+m. In case of questions or any issues students wish to point out during an exam (including potential 
+errors in the exam paper), they are to raise their hand and wait for the teacher or proctor to 
+approach them. They are not allowed to communicate with anyone else. 
+n. Students are only allowed to leave the examination room upon the completion of their exam. In 
+exceptional circumstances they may be permitted to leave the room under the conditions set by 
+the teacher or proctor. Students are not allowed to leave the examination room during the first 
+30 minutes of an exam. 
+o. Students are to stop writing immediately when told to do so by the teacher or proctor at the end 
+of an exam. 
+p. Students bear full responsibility for the consequences of illegible writing. What cannot be read 
+will be considered to be incorrect. 
+q. Students are expected to be familiar with the Honor Code of ADA University and with all 
+documents relevant to the conduct of examinations. 
+r. In case of any suspected violation of the Honor Code during an exam, a student will be given a 
+first oral warning, and he/she may be allocated a new seat. With the second warning, the exam 
+will be taken away, and the student’s examination result will be annulled. The student’s name 
+will be reported to the administration, and the case will be referred to ADA University’s Honor 
+Committee. Penalties for misconduct will be (1) zero points for the exam, (2) an Administrative 
+Fail (FX) grade for the entire course, and/or (3) further disciplinary action taken by the Honor 
+Committee. In case the student is in his/her first semester at ADA University (Forgiveness
+
+
+===== PAGE 7 =====
+7 | P a g e 
+ 
+Period), and if it is his/her first violation of the Honor Code, the student will only be assigned 
+zero points for the respective exam without any further consequences. 
+s. The teacher of a course may define examination rules and proceedings in addition to those 
+delineated in 5.2.b to 5.2.r. In case these additional rules and proceedings contradict ADA 
+University’s official examination rules and proceedings, the latter will always prevail. 
+ 
+5.3 Take-Home Examination Rules and Proceedings 
+a. The following rules and proceedings apply to all take-home examinations at the undergraduate 
+and graduate level. They cover all independent assignments that are to be completed (either 
+individually or as a group work) outside of class (further rules for Master Theses and Capstone 
+Projects are delineated below in 6.11). 
+b. Students are to avoid any kind of cheating and plagiarism. It is the teacher’s or supervisor’s 
+responsibility to inform students about the rules and proceedings applying to a specific take- 
+home exam. 
+c. Students must submit take-home examinations electronically, using software-assisted 
+plagiarism detection. This rule applies regardless of a teacher’s hardcopy requirements. It is the 
+teacher’s responsibility to provide students with all the information relevant to the proper 
+submission of take-home examinations. Students are expected to contact the University’s IT 
+Service Desk for assistance in case of any technical problems when trying to submit 
+assignments electronically. 
+d. If a student fails to submit a take-home exam in the manner described in 5.3.c, and if the student 
+can state a compelling reason for his/her failure to do so, the teacher must ensure that the 
+respective take-home exam is checked by plagiarism detection software. 
+e. All submitted take-home exams must include the following (dated and signed) Declaration of 
+Academic Integrity: “I hereby confirm that this assignment is my own work and that I have 
+acknowledged all sources used in its preparation. I am conscious that the incorporation of any 
+material from other works (including the work of other students and/or persons) without 
+acknowledgement will be treated as plagiarism and be subject to the regulations outlined in ADA 
+University’s Honor Code and its Student Assessment Regulations. I furthermore confirm that 
+this assignment (in whole or in part) has not been submitted for assessment to any other course 
+at ADA University or at any other institution of higher education.” 
+f. In case of any suspected violation of the Honor Code in a take-home exam, the student’s name 
+will be reported to the administration, and the case will be referred to ADA University’s Honor 
+Committee. Penalties for misconduct will be (1) zero points for the assignment, (2) an 
+Administrative Fail (FX) grade for the entire course, and/or (3) further disciplinary action taken 
+by the Honor Committee. In case the student is in his/her first semester at ADA University 
+(Forgiveness Period), and if it is his/her first violation of the Honor Code, the student will only be 
+assigned zero points for the respective assignment without any further consequences. 
+g. Any assessment task submitted after the respective submission deadline is considered as a late 
+submission. The penalty for the late submission of an assignment consists of a reduction of the 
+original grade that would have been allocated in case of the assignment’s timely submission. 
+Starting with the first minute after the submission deadline, and for every 24-hour interval during 
+which the assignment is late (including weekends and holidays), 10% of the original Grade Scale 
+Percentage will be deduced. This rule will be applied until the assignment is submitted or until 
+the Grade Scale Percentage has reached zero (00). In cases where an extension has been 
+granted by the course’s teacher, this rule applies once the extension deadline has expired. An 
+extension may be granted only for compelling reasons. In no case will assignments be accepted 
+for submission after those assignments that had been handed in on time have been graded and 
+returned to students
+
+
+===== PAGE 8 =====
+8 | P a g e 
+ 
+5.4 Oral Examination Rules and Proceedings 
+a. The following rules and proceedings apply to all oral examinations at the undergraduate and 
+graduate level. Specific rules for the oral defense of Master Theses are delineated below in 6.11. 
+b. Oral examinations may be chosen as a form of student assessment if so provided for in a degree 
+program’s description. 
+c. Oral examinations last between 15 and 25 minutes. The precise duration of an oral exam must 
+be specified in a course’s description. 
+d. Oral examinations are to be conducted individually, assessing one student at a time. They are 
+closed to the public, and no student other than the candidate may be present in the examination 
+room during an oral exam. 
+e. Students must be on time for all oral examinations. Students who arrive late for an oral exam 
+may (at the teacher’s discretion) be denied the opportunity to take the exam. 
+f. All mobile phones and smart devices (including smart watches) must be switched off or to silent 
+mode (with vibration deactivated) during examinations. They must be put face/screen down on 
+the teacher’s desk. Students are strictly forbidden to record oral exams. Failure to comply with 
+any or all of these rules will be treated as a violation of the University’s Honor Code. 
+g. During oral examinations, students are not allowed to use any materials other than those 
+permitted by the teacher of the respective course. The teacher will provide students with a list 
+of permitted materials prior to the exam. 
+h. It is the teacher’s responsibility to ensure a sufficient scope of the tasks allocated to students. 
+This is meant to minimize the opportunity for students to exchange relevant information outside 
+of the examination room and thus to influence examination results. 
+i. Oral examinations are recorded by the examining teacher, using University equipment. All 
+recordings will be retained by the teacher and the respective School’s administration and may 
+only be deleted after a student’s graduation. 
+j. The teacher will assign a grade upon the completion of each individual exam. Students may only 
+receive their grades and any kind of feedback on their performance once all candidates from the 
+respective course have been examined. 
+k. In case of any suspected violation of the Honor Code during an exam, the respective individual 
+exam will be terminated with immediate effect, and no grade will be assigned. The student’s 
+name will be reported to the administration, and the case will be referred to ADA University’s 
+Honor Committee. Penalties for misconduct will be (1) zero points for the exam, (2) an 
+Administrative Fail (FX) grade for the entire course, and/or (3) further disciplinary action taken 
+by the Honor Committee. In case the student is in his/her first semester at ADA University 
+(Forgiveness Period), and if it is his/her first violation of the Honor Code, the student will only be 
+assigned zero points for the respective exam without any further consequences. 
+l. At their discretion, teachers may conduct additional oral exams in order to verify the results of 
+previously completed (written) assignments. They may be conducted regardless of a student’s 
+previous performance. Teachers must ensure that the content and level of verification exams 
+correspond to the content and level of the previous assignment for which the result is to be 
+verified. 
+ 
+5.5 Inclusiveness of the Examination Process 
+a. All possible and reasonable measures must be taken to ensure that students can participate 
+equitably in examinations. This rule applies to all in-class and take-home examinations. 
+b. It is the shared responsibility of teachers, Schools, ADA University’s Student Academic Support 
+Services, and the University’s Information Technology Services to create equal opportunities for
+
+
+===== PAGE 9 =====
+9 | P a g e 
+ 
+all students and to ensure that examinations are conducted in an inclusive and equitable 
+manner. 
+c. Measures that may be taken include (but are not limited to) extending the time allowed for the 
+completion of an examination; giving permission to students with special needs to use additional 
+technical devices; adjusting exam sheets to improve legibility; supporting students with special 
+needs to access the examination room; and supporting students with internet and/or hardware 
+problems. 
+d. Students with special needs or with chronic health issues are strongly recommended to contact 
+the University’s Student Academic Support Services well ahead of examination dates. Students 
+with recurring or permanent internet and/or hardware problems are strongly recommended to 
+contact the University’s IT Service Desk and/or the Blackboard Administrator well ahead of 
+examination dates. 
+e. The issues of inclusiveness and equity are further delineated in ADA University’s Equity, 
+Diversity and Non-Discrimination Policy. 
+
+6. Evaluation of Academic Performance 
+ 
+6.1 Grading, Grade Submission and Information Regulations 
+a. The evaluation of assessment tasks is the responsibility of faculty. It must be based on clearly 
+defined assessment criteria and on grading rubrics (for details, see chapter 7 of ADA University’s 
+Core Competence and Learning Outcome Specification Policy). 
+b. Blind grading is to be implemented whenever possible. For this purpose, student work is stripped 
+of all information that might reveal a student’s identity. 
+c. The evaluation of assessment tasks that require group work should recognize individual 
+contributions and assign individual marks to all members of the respective group. 
+d. Assessment tasks must be assigned a precise percentage weight. No single grading component 
+of a course taught at ADA University shall exceed 40% of the overall course grade. 
+e. All regulations related to the assessment of student performance (including assessment tasks, 
+assessment weighting, assessment criteria, and assessment submission) are to be clearly 
+delineated in each course’s description, which is to made available to students on the LMS 
+platform (Blackboard Learn) prior to the beginning of a course. Teachers are encouraged to 
+remind students of these regulations during the semester. 
+f. Any subsequent changes to the assessment regulations outlined in a course description require 
+the approval of the respective Program Director and will be permissible only in exceptional 
+cases. They must be clearly and promptly communicated to students in class and via Blackboard 
+Learn. 
+g. Student assessment should take place throughout the semester, and students should have the 
+opportunity to complete at least 30% of a course’s grading components (assessment tasks) 
+before the end of the withdrawal period (withdrawal deadlines for each term are announced in 
+the University’s Academic Calendar prior to the beginning of an academic year). 
+h. In order to enhance the effectiveness of teaching and learning, teachers must provide students 
+with regular and meaningful feedback on their performance in assessment tasks and on their 
+overall learning progress in a course. Feedback must be provided within 2 weeks after the 
+completion or submission deadline of an assessment task and prior to the submission date of 
+any subsequent assignment. It must offer guidance to students on how to improve the quality of 
+their work and their overall performance on a course. It should support students in identifying 
+their strengths as well as areas for improvement without undermining their confidence and 
+motivation. Teachers will furthermore post an interim grade on Blackboard Learn by the
+
+
+===== PAGE 10 =====
+10 | P a g e 
+ 
+beginning of the seventh week of classes (Fall semester and Spring semester) and no later than 
+mid-term (Summer term). 
+i. Students are expected to collect their graded work prior to any subsequent assessment task in 
+order to be able to reflect upon their performance and to benefit from the feedback provided by 
+the teacher. 
+j. Teachers are to keep a record of all grades assigned and feedback provided to students. 
+k. Teachers must enter all individual assessment grades on Blackboard Learn. They must ensure 
+that the grades for at least 30% of a course’s grading components (assessment tasks) are 
+available to students on Blackboard Learn by the midterm grade due date (midterm grade due 
+dates for each term are announced in the University’s Academic Calendar prior to the beginning 
+of an academic year). 
+l. After having entered all individual assessment grades on Blackboard Learn, teachers must 
+transfer the resulting final grades for a course to Banner and thus submit it to the Office of 
+Admissions and Student Records no later than 96 hours after the completion of a course’s final 
+exam. All final grades must thus be submitted before the final grade submission deadline (final 
+grade submission deadlines for each term are announced in the University’s Academic Calendar 
+prior to the beginning of an academic year). Students are entitled to receive their final grades no 
+later than 96 hours after the completion of the respective examination period. 
+m. All final grades are kept in Banner, and students are able to access these grades on Banner. 
+The Office of Admissions and Student Records maintains all grades and records them on each 
+student’s transcript. 
+n. All grades are strictly confidential and are only accessible to the individual student, to the Office 
+of Admissions and Student Records, to select administrative members of the student’s 
+respective School, to the Grievance Committee of that School (only in case of unresolved 
+complaints or disagreements over academic matters), or to ADA University’s Honor Committee 
+(only in case of any suspected violation of the Honor Code). In no case shall a grade be disclosed 
+to anyone else. Committees may only see those grades that are required to resolve complaints, 
+disagreements, or violations of the Honor Code. 
+ 
+6.2 Regrading of Assessment Tasks 
+a. Regrading of assessment tasks is only permissible if there is evidence that assessment criteria 
+were not applied adequately and/or equitably. 
+b. In cases where students assume that assessment criteria were not applied adequately and/or 
+equitably in the evaluation of an assignment, they are recommended to discuss the respective 
+grade with the course’s teacher. 
+c. If the teacher accepts the student’s complaint, he/she shall regrade the respective assignment 
+and allocate a new grade within 2 working days. 
+d. If the teacher rejects the student’s complaint, or if the student assumes that regrading has not 
+been undertaken adequately and/or equitably, the student may request mediation by the 
+respective Program Director. In cases where students feel hesitant to initially discuss the matter 
+with the course’s teacher, they may consult their Academic Advisor, who will submit the case 
+directly to the Program Director. 
+e. After having consulted both parties, and after having evaluated the case (including assignment, 
+assessment criteria, and grade), the Program Director will decide whether the assignment must 
+be regraded. If the Program Director accepts the student’s request for regrading, he/she shall 
+regrade the assignment within 2 working days. 
+f. If the Program Director rejects the student’s request for regrading, or if the student assumes that 
+regrading has not been undertaken adequately and/or equitably, the student may submit a 
+formal complaint to the Dean of the respective School (using the Student Appeal and Grievance
+
+
+===== PAGE 11 =====
+11 | P a g e 
+ 
+Form) within 3 working days of the request’s rejection. The Dean will forward the complaint to 
+the School’s Grievance Committee (together with all the information pertaining to the case), 
+which will make a final decision on whether the assignment shall be regraded or not. Both the 
+student and the teacher will be invited to attend the Committee’s meeting in order to state their 
+case and to address potential questions. 
+g. In cases where the Grievance Committee decides that the assignment must be regraded, it will 
+appoint a non-involved faculty member of the respective School, who shall regrade the 
+assignment within 2 working days. 
+h. Student appeal and grievance procedures are further delineated in ADA University’s Student 
+Appeal and Grievance Policy. 
+ 
+6.3 Class Attendance 
+a. Regular class attendance plays a significant role in the educational process. Students should 
+be absent only for compelling reasons and if the absence is unavoidable. 
+b. It is the teacher’s responsibility to record class attendance at the beginning of each class. 
+c. Absences may adversely affect a student’s grade. Students are required to catch up with and 
+complete all the coursework missed due to absence. If a student is unable to complete all the 
+required coursework by the end of the term, he/she may receive an Incomplete (I or IP) grade 
+at the teacher’s discretion. 
+d. Students are expected to be on time for classes. Students who are late by 5 minutes or more 
+(tardiness) may be allowed to join the class at the teacher’s discretion, but they will receive an 
+absent mark. 
+e. Students who miss more than twenty-five percent (25%) of classes will be assigned an 
+Administrative Fail (FX or ZX) grade. 
+f. In courses of the English for Academic and Professional Purposes (EAPP) Program, ten percent 
+(10%) of the total course grade will be based on class attendance. Depending on the number of 
+classes, students are allowed to be absent for up to two or four times in a 7.5-week session, and 
+for up to four or eight times in a 15-week session (see table below; for details on the EAPP 
+Program, see ADA University’s English for Academic and Professional Purposes Regulations). 
+For each additional absence, a student will lose 2.5% of the overall course grade. Four additional 
+absences will accordingly exhaust the ten percent of the overall grade allocated to class 
+attendance. 
+ 
+Weeks per Session 
+Number of Classes per Course 
+Number of Excused Absences 
+30 
+2 
+7.5 Weeks 
+30 / 38 
+2 
+52 
+4 
+45 
+4 
+15 Weeks 
+60 
+4 
+94 
+8 
+ 
+g. Individual teachers may have additional attendance requirements. It is the student’s 
+responsibility to be thoroughly familiar with these requirements and to consult the teacher in 
+case of questions.
+
+
+===== PAGE 12 =====
+12 | P a g e 
+ 
+6.4 Grading System 
+a. Grading at ADA University is based on the criterion-referenced grading systems commonly used 
+in the U.S. education system (see the following table and the table in 6.5). 
+ 
+Grade 
+Grade Points 
+Grade Scale Percentage 
+Grade Descriptor 
+A 
+4.00 
+94 – 100 
+Excellent 
+A- 
+3.67 
+90 – 93 
+B+ 
+3.33 
+87 – 89 
+B 
+3.00 
+83 – 86 
+Good 
+B- 
+2.67 
+80 – 82 
+C+ 
+2.33 
+77-79 
+C 
+2.00 
+73-76 
+Satisfactory 
+C- 
+1.67 
+70-72 
+D+ 
+1.33 
+67-69 
+Poor 
+D 
+1.00 
+60-66 
+F 
+0.00 
+00-59 
+Academic Fail 
+FX 
+0.00 
+00 
+Administrative Fail 
+ 
+b. The following grade descriptions serve to define the grade descriptors mentioned in the table 
+above. For each course, grade descriptions (including assessment criteria) are further specified 
+in the respective course description that is made available to students prior to the beginning of 
+the course. 
+c. Excellent indicates that a student has fully achieved all the intended learning outcomes of a 
+course. The student’s performance has completely fulfilled all of the assessment criteria of the 
+course. 
+d. Good indicates that a student has largely achieved most or all of the intended learning outcomes 
+of a course. The student’s performance has largely fulfilled most or all of the assessment criteria 
+of the course. 
+e. Satisfactory indicates that a student has partly achieved some or most of the intended learning 
+outcomes of a course. The student’s performance has partly fulfilled some or most of the 
+assessment criteria of the course. If only some of the assessment criteria are partly fulfilled, the 
+student’s performance may not be sufficient to pass the course. 
+f. Poor indicates that a student has partly achieved some of the intended learning outcomes of a 
+course. The student’s performance has only minimally fulfilled some of the assessment criteria 
+of the course and may thus not be sufficient to pass the course. 
+g. Academic Fail indicates that a student has largely or entirely failed to achieve the intended 
+learning outcomes of a course. The student’s performance has generally fallen short of the 
+minimum assessment criteria of the course. 
+h. Administrative Fail is assigned if a student did not satisfy the class attendance requirements 
+delineated in 6.3, and/or if the student violated the University’s Honor Code.
+
+
+===== PAGE 13 =====
+13 | P a g e 
+ 
+6.5 Further Grades 
+a. The following table provides an overview of further grades and grade descriptors used at ADA 
+University. 
+ 
+Grade 
+Grade Descriptor 
+N 
+No Grade / Invalid Grade 
+I 
+Incomplete 
+W 
+Withdrawal 
+P 
+Pass in Pass/Fail Course 
+FZ 
+Academic Fail in Pass/Fail Course 
+ZX 
+Administrative Fail in Pass/Fail Course 
+IP 
+Incomplete in Pass/Fail Course 
+O 
+Audit 
+ZO 
+Administrative Withdrawal from Audit 
+T 
+Transferred Grade 
+ 
+b. No Grade or Invalid Grade indicates that no valid grade has been submitted. This grading 
+symbol is assigned by the Office of Admissions and Student Records if a valid final grade has 
+not been received before the final grade submission deadline. The Office of Admissions and 
+Student Records must ensure that they obtain a valid final grade within one term or semester. 
+c. Incomplete (not included in TGPA and CGPA) indicates that a student has not fully completed 
+all the work required to finish a course. The Office of Admissions and Student Records must 
+ensure that they obtain a valid final grade no later than the end of the following term or semester. 
+d. Withdrawal from a course (not included in TGPA and CGPA) is assigned if a student pulls out of 
+a course after the add/drop period and before the end of the withdrawal period, or if he/she is 
+administratively removed before the end of the withdrawal period. Both the add/drop and the 
+withdrawal periods for each term are announced in the University’s Academic Calendar prior to 
+the beginning of an academic year. 
+e. Pass in Pass/Fail Course (not included in TGPA and CGPA) indicates a certain level of student 
+performance. The performance of undergraduate students must be equivalent to D or better if 
+they are to be assigned a Pass grade. The performance of graduate students must be equivalent 
+to C or better if they are to be assigned a Pass grade. 
+f. Academic Fail in Pass/Fail Course (not included in TGPA and CGPA) indicates that the level of 
+student performance was below D (undergraduate level) or below C (graduate level). 
+g. Administrative Fail in Pass/Fail Course (not included in TGPA and CGPA) is assigned if a 
+student did not satisfy the class attendance requirements delineated in 6.3, and/or if the student 
+violated the University’s Honor Code. 
+h. Incomplete in Pass/Fail Course (not included in TGPA and CGPA) indicates that a student has 
+not fully completed all the work required to finish a Pass/Fail course.
+
+
+===== PAGE 14 =====
+14 | P a g e 
+ 
+i. Audit (no credit and not included in TGPA and CGPA) is assigned if a student has attended a 
+course but does not wish to receive credit for this course. It presupposes that the student has 
+satisfied the class attendance requirements delineated in 6.3. Students who wish to audit a 
+course require the prior permission of the respective teacher. 
+j. Administrative Withdrawal from Audit (not included in TGPA and CGPA) is assigned if a student 
+fails to meet the class attendance requirements delineated in 6.3. 
+k. Transferred Grade (not included in TGPA and CGPA) indicates grades that are transferred to 
+ADA University. Each transferred grade is marked with the grading symbol T that precedes the 
+grade. 
+l. Grades and credits that are excluded from all GPA and credit calculations (such as waived 
+courses) are marked with an asterisk (*). 
+ 
+6.6 Calculation of Final Grades 
+a. Final numerical grades for courses are calculated to two decimal places and rounded to the 
+nearest whole number before the corresponding letter grade is assigned. 
+b. Grades are rounded according to the standard mathematical rounding system. Decimal parts 
+smaller than 0.5 will be rounded down; decimal parts equal to or greater than 0.5 will be rounded 
+up. A numerical grade of 93.45 will accordingly be rounded down to 93 and result in the letter 
+grade A-; a numerical grade of 93.50 will be rounded up to 94 and result in the letter grade A. 
+ 
+6.7 Incomplete Grades 
+a. An Incomplete (I or IP) grade may be assigned by a teacher before the end of a semester. It will 
+be submitted to the Office of Admissions and Student Records together will all the other final 
+grades for the course. 
+b. This grade may only be assigned if the student is prevented from completing the remaining 
+coursework for compelling reasons and if this coursework can reasonably be expected to be 
+completed before the end of the following semester. 
+c. The teacher must provide the student and the Office of Admissions and Student Records with a 
+written statement (using the Incomplete Grade Form) which details the requirements for the 
+completion of the course. These requirements must specify the work that needs to be completed 
+as well as the deadline for the completion of the remaining coursework. 
+d. If the student does not meet the requirements specified in the Incomplete Grade Form, and if 
+the teacher is thus unable to submit a valid final grade before the final grade submission deadline 
+of the following semester, the Office of Admissions and Student Records will convert the 
+Incomplete grade into an Academic Fail (F or FZ) grade. This also applies if a student is 
+separated from the University. 
+e. An Incomplete (I or IP) grade may only be removed by repeating a course once the Incomplete 
+has been converted into an Academic Fail (F or FZ) grade as delineated in 6.7.d. 
+f. Students may not withdraw from a course once an Incomplete grade has been submitted to the 
+Office of Admissions and Student Records. 
+g. An Incomplete cannot remain as a permanent grade and must be replaced by a valid final grade 
+before a student will be able to graduate. This may result in a delayed graduation date. 
+ 
+6.8 Pass/Fail Courses 
+a. Students may select a certain number of courses for which they will be assigned a Pass/Fail 
+grade. 
+b. Undergraduate students may select no more than two Pass/Fail courses during their studies. 
+c. Graduate students may select no more than one Pass/Fail course during their studies.
+
+
+===== PAGE 15 =====
+15 | P a g e 
+ 
+d. Functional Enablers, Master Theses and Capstone Projects are excluded from the rules 
+delineated in 6.8.a to 6.8.c. 
+ 
+6.9 Repetition of Courses 
+a. Students must repeat a course if they do not sufficiently fulfill the assessment criteria of the 
+course. In the case of Technical Elective, Free Elective and some General Education courses, 
+failed courses may also be replaced. 
+b. Undergraduate students must repeat (or replace) courses with a grade below D. 
+c. Graduate students must repeat (or replace) courses with a grade below C. 
+d. Students of the English for Academic and Professional Purposes (EAPP) Program must repeat 
+a level in case they receive an overall grade below C. 
+e. Students are strongly recommended to repeat (or replace) a course at the earliest opportunity 
+(usually in the subsequent semester, academic year, or EAPP session). 
+f. Any course can be repeated as many times as necessary to pass the course or as many times 
+as a student wishes (with the exception of EAPP courses). Students may thus improve the grade 
+of the respective course. 
+g. Students of the EAPP Program have two attempts to pass a level. They are not eligible for a 
+withdrawal. 
+h. Repeating (or replacing) courses may have academic implications for a student. Most 
+importantly, it may adversely affect a student’s progress towards degree completion. Students 
+must consult with their Academic Advisor in order to discuss potential implications of the 
+repetition (or replacement) of a course and to determine ways to improve their performance. 
+i. Students must also consult with the Office of Student Accounts to determine potential financial 
+implications of the repetition (or replacement) of a course. 
+j. Grades for each attempt of a course are recorded on the student’s transcript, but only the highest 
+grade and the credit associated with that course will count towards a student’s cumulative GPA. 
+Courses that are not identical in course title and course code will be recorded on the transcript, 
+and each grade and the credit associated with each course will count towards a student’s 
+cumulative GPA. 
+k. In cases where the replacement of a failed course is not permissible and its repetition not 
+possible due to the discontinuation of the course, a student may request to substitute this course 
+by another course (course substitution). The latter course must be of the same level and be 
+similar in content. Formal requests must be submitted to the student’s Academic Advisor by 
+using the University’s Course Substitution Form. Requests must be approved by the Academic 
+Advisor and by the Dean of the respective School. 
+l. In cases where the replacement of a failed course is not permissible and its repetition not 
+possible due to the discontinuation of the course and where a similar course is not available for 
+substitution, the required course might be waived upon the approval of the Academic Advisor 
+and the Dean of the respective School (course waiver). A course waiver does not reduce the 
+overall credit requirements of a degree program. Students must accordingly select and 
+successfully pass another course to fulfill all degree requirements. Students must consult with 
+their respective Academic Advisor before selecting another course. 
+m. Courses passed before separating from and reapplying to ADA University at the same level 
+(undergraduate or graduate) might also be waived. Students may share up to 30 credits or 5 
+courses from their previous and uncompleted program, provided that they have been passed 
+with a grade of C or better no more than 5 years prior to the semester for which the student is 
+reapplying to ADA University. All other courses are mandatorily waived. 
+n. Grades of failed courses that are subsequently substituted or waived are recorded on the 
+student’s transcript, but they are excluded from all GPA calculations.
+
+
+===== PAGE 16 =====
+16 | P a g e 
+ 
+o. Withdrawal from a course counts as a repetition of a course, but it is excluded from all GPA 
+calculations. A Withdrawal (W) cannot replace a grade assigned in any prior or later attempt of 
+the same course. 
+p. Students will not be able to graduate if they have not passed all the courses required by their 
+respective degree program. 
+ 
+6.10 Internships 
+a. All undergraduate degree programs include an internship component. With the exception of the 
+Bachelor of Laws program, the internship component consists of the course Career 
+Development Skills and Strategies, which is comprised of a first (and theoretical) part and of the 
+internship itself. The latter must cover at least 120 hours of work over a period of at least 4 to 6 
+weeks. 
+b. The internship component is evaluated on a Pass/Fail basis (P or FZ). 
+c. Undergraduate students must initially (in the Fall semester of their third year) and successfully 
+pass the first part of the course Career Development Skills and Strategies. After having passed 
+this first part of the course, students will receive an Incomplete (IP) grade. Students who fail the 
+first part of the course will receive an Academic Fail (FZ) grade and must retake it before being 
+eligible for the internship. Grades for each attempt are recorded on the student’s transcript. 
+d. Students must subsequently (in the Spring semester or Summer term of the same academic 
+year) and successfully complete an internship. The evaluation of the internship is the 
+responsibility of an assigned Career Advisor from ADA University’s Career Services. This 
+evaluation must also include an assessment by the student’s workplace supervisor. After having 
+successfully completed and passed the internship, students will receive a Pass (P) grade for the 
+entire course Career Development Skills and Strategies. Students who fail the internship must 
+retake it and retain the Incomplete (IP) grade until they have successfully completed and passed 
+the internship. 
+e. Regulations for the internship component of the Bachelor of Laws program are delineated in the 
+program’s description. 
+f. Graduate students may choose to take an internship (voluntary internship). This internship 
+would be taken as part of the Technical Elective component of the student’s program. 
+ 
+6.11 Master Theses and Capstone Projects 
+a. With the exception of the program Master of Business Administration (MBA), a Master Thesis 
+or Capstone Project is an integral part of the degree requirements of all graduate programs at 
+ADA University. The MBA program requires either a Master Thesis, a Business Consultancy 
+Project, or a Business Plan (detailed regulations are outlined in the MBA program description). 
+b. At the beginning of their second year, graduate students require a minimum cumulative GPA of 
+3.50 to be eligible to enroll in the course Master Thesis I. All other students will enroll in the 
+course Capstone I. Students who successfully complete the course Master Thesis I will write a 
+Master Thesis during their last semester. Students who successfully complete the course 
+Capstone I, and students who fail to pass the course Master Thesis I will complete a Capstone 
+Project during their last semester. Students who fail to complete the course Capstone I must 
+repeat the course. Graduate programs of the School of Business and the School of IT and 
+Engineering may have different regulations, which will be specified in the descriptions of the 
+respective programs. 
+c. Most of the University’s graduate programs require that Master Theses are graded on a 
+Pass/Fail basis (P or FZ; exceptions are specified in the descriptions of the respective 
+programs). Grades are assigned by the members of the Defense Committee (which includes the 
+supervisor of the thesis) for the written Master Thesis and for the oral defense of the thesis.
+
+
+===== PAGE 17 =====
+17 | P a g e 
+ 
+A student must pass both the Master Thesis and the oral defense in order to successfully 
+complete the entire Master Thesis project. The Defense Committee may request minor revisions 
+of the thesis before assigning a final grade, which will be assigned by the majority of the 
+Committee’s members. 
+d. Most of the University’s graduate programs require that Capstone Projects are graded on a 
+Pass/Fail basis (P or FZ; exceptions are specified in the descriptions of the respective 
+programs). Grades are assigned by the supervisor of the project. In most of the University’s 
+graduate programs, the Capstone Project consists of a group project (the MBA program requires 
+that students complete a final project that consists of an individual study assignment). At the 
+completion of the project (and notwithstanding the recommendation outlined in 6.1.c), all group 
+members are assigned the same grade. The supervisor may request minor revisions of the 
+(individual or group) project before assigning a final grade. The Capstone Project does not 
+require an oral defense. 
+e. Master Thesis and Capstone Project requirements and assessment criteria as well as 
+regulations pertaining to the role of the Defense Committee and of the supervisor are delineated 
+in ADA University’s Master Thesis and Capstone Project Handbook. 
+f. The grade for the Master Thesis or Capstone Project does not affect a student’s cumulative GPA 
+for most of the University’s graduate programs (exceptions are specified in the descriptions of the 
+respective programs), but the credits earned for the thesis or project will count towards the total 
+number of credits needed for graduation. 
+g. The supervisor may assign an Incomplete (I or IP) grade before the end of the semester in which 
+the Master Thesis or Capstone Project is due if a student, who could reasonably be expected to 
+complete and pass the thesis or project, is prevented from doing so during that semester for 
+compelling reasons. 
+h. An Incomplete cannot remain as a permanent grade and must be replaced by a valid final grade 
+before the end of the following semester. 
+i. The rules delineated in 6.11.g and 6.11.h presuppose that a student receives a permit to extend 
+his/her studies by one semester. For this purpose, the student must appeal to the Dean of his/her 
+School (using the Request for Extension Form). The Dean will forward the student’s request to 
+the Office of Admissions and Student Records, who may grant the extension and who will 
+subsequently record the Incomplete (I or IP) grade. 
+j. Before formally requesting an extension by one semester, students must consult with the Office 
+of Student Accounts to determine potential financial implications of this request. 
+k. An extension by one semester will result in a delayed graduation date. 
+l. Students who do not successfully pass their Master Thesis or Capstone Project will not be able 
+to graduate. 
+ 
+6.12 Latin Honors 
+a. Latin honors are awarded to students to recognize their excellent performance during an entire 
+undergraduate or graduate degree program. 
+b. ADA University awards the following Latin honors: Summa Cum Laude (“With Highest Honor”), 
+Magna Cum Laude (“With Great Honor”), Cum Laude (“With Honor”). 
+c. Latin honors are awarded based on students’ cumulative GPA. To be eligible for Latin honors 
+upon graduation, undergraduate and graduate students must achieve a certain minimum 
+cumulative GPA. Latin honors are awarded for the following achievements:
+
+
+===== PAGE 18 =====
+18 | P a g e 
+ 
+Latin Honors 
+Cumulative GPA 
+Summa Cum Laude 
+3.90 or higher 
+Magna Cum Laude 
+3.75 – 3.89 
+Cum Laude 
+3.50 – 3.74 
+ 
+d. Latin honors are recorded on the student’s transcript by the Office of Admissions and Student 
+Records upon graduation. 
+e. Graduates will receive a State Diploma with Honors (“fərqlənmə diplomu”) if their cumulative 
+GPA is 3.80 or higher. This applies to both the undergraduate and graduate level and to all 
+Bachelor and Master degree programs.

@@ -1,0 +1,445 @@
+
+
+===== PAGE 1 =====
+Doc No: QA-QAA-03 
+Version: 02.00 
+Date Effective: 29 May 2025 
+ 
+QUALITY ASSURANCE GOVERNANCE 
+
+1. Purpose 
+ 
+Quality assurance at ADA University is comprehensive and includes several stakeholders. The pur-
+pose of this document is to delineate the University’s quality assurance structure and the responsi-
+bilities of the actors involved in the process of quality assurance. 
+
+2. Scope and Recommendations 
+ 
+The structures and procedures set forth in this document govern the process of academic quality 
+assurance at the institutional and School level at ADA University. 
+ 
+This document should be read in conjunction with ADA University’s Academic Quality Assurance 
+Policy. 
+
+3. Definitions 
+ 
+Quality Assurance Governance describes the organizational structure of quality assurance, key ac-
+tors involved in the process of quality assurance, as well as their respective responsibilities. 
+ 
+Quality Assurance describes the regular and ongoing assessment (evaluation) and enhancement 
+(improvement) of structures, processes and documents designated to achieve and improve quality 
+as well as of their practical impact and outcomes. While Quality Assessment refers to the review of 
+structures, processes and documents and of their impact and outcomes, the Enhancement of Quality 
+covers the development and modification of such structures, processes and documents as well as 
+their implementation and the corresponding achievement of the intended impact and outcomes. 
+
+4. General Provisions 
+ 
+4.1 All members of the University are expected to strive for academic quality and the achievement 
+of excellence. 
+4.2 Primary responsibility for the process of quality assurance at ADA University rests with the 
+University’s Quality Assurance Committee, with School-level Curriculum and Quality Assurance 
+Committees, and with the Office of Quality Assurance and Accreditation. 
+4.3 Amendments to this document may be proposed by any member of the Quality Assurance 
+Committee, by senior management members, by any (academic or administrative) unit, or by 
+any decision-making body (such as the University Senate, Deans’ Council or Committee of 
+Faculty Affairs), or academic committee (such as a Curriculum and Quality Assurance Commit-
+tee) of the University. Proposers are required to seek feedback from the Office of Quality As-
+surance and Accreditation before submitting their final proposal to the Quality Assurance Com-
+mittee. Amendments need the approval of (1) the Quality Assurance Committee, (2) the Com-
+mittee of Faculty Affairs, (3) the Deans’ Council, and (4) the University Senate in order to be-
+come effective. If accepted by the Senate and approved by the Rector, the amended document 
+comes into effect at the date determined by the Senate.
+
+
+===== PAGE 2 =====
+2 | P a g e 
+5. Organizational Structure 
+ 
+5.1 Quality Assurance Committee 
+a. ADA University shall have a Quality Assurance Committee. This Committee shall consist of 
+the following 18 members, which ensures a wide representation of various and relevant 
+stakeholders: 
+(1) Vice Rector of Academic Affairs; 
+(2) Vice Rector of Strategy and Advancement; 
+(3) Vice Rector for Enrollment Management and Student Affairs; 
+(4) Vice Rector for Government and External Affairs; 
+(5) Director of Quality Assurance and Accreditation; 
+(6) 1 faculty member from each of the University’s Schools and from the Foundation Pro-
+gram and the English for Academic and Professional Purposes Program; 
+(7) 2 external members from well-reputed institutions of higher education; 
+(8) 1 undergraduate student representative and 1 graduate student representative. 
+b. The 5 members mentioned above in (1) to (5) shall be permanent members of the Quality 
+Assurance Committee as long as they hold their respective administrative positions. 
+c. The 9 members mentioned above in (6) shall be elected by the faculty of their respective 
+Schools or programs for the duration of two academic years. They may be reelected twice. 
+d. The 2 members mentioned above in (7) shall be appointed by the Vice Rector of Academic 
+Affairs after consultation with the Quality Assurance Committee and with the selected can-
+didates. They may come from the same or from different institutions of higher education and 
+shall be appointed for the duration of two academic years. They may be reappointed twice. 
+e. The 2 members mentioned above in (8) shall be elected by the ADA Student Government 
+for the duration of one academic year. The ADA Student Government will elect 2 of its mem-
+bers prior to or at the beginning of each academic year. Undergraduate students are only 
+eligible if they are at least in their third or fourth year of study at ADA University. Graduate 
+students are only eligible if they have studied for at least one academic year at ADA Univer-
+sity (either at the undergraduate or the graduate level). Both the undergraduate and the 
+graduate student representative may be elected for a maximum of 2 academic years. Stu-
+dents convicted of any violation of ADA University’s Honor Code and/or the Student Code 
+of Conduct at any stage of their study career may not become or remain a member of the 
+Quality Assurance Committee. 
+f. In case a member of the Quality Assurance Committee should withdraw from the Commit-
+tee, or if a member should no longer be eligible for membership, he/she will be replaced in 
+accordance with the regulations delineated in 5.1.b to 5.1.e. 
+g. The Quality Assurance Committee is chaired by the Vice Rector of Academic Affairs. In the 
+absence of the Vice Rector, meetings are chaired by one of the Committee members men-
+tioned above in (2) to (5). 
+h. Whenever appropriate, the Quality Assurance Committee may invite further members of 
+ADA University to participate in its meetings and to offer input, feedback and suggestions 
+on specific issues under discussion. 
+ 
+5.2 Curriculum and Quality Assurance Committees 
+a. Each School of ADA University (and including the Foundation Program and the English for 
+Academic and Professional Purposes Program) shall have at least one Curriculum and 
+Quality Assurance Committee. Schools may decide to have more than one such Committee 
+to cover different degree programs. 
+b. Each Curriculum and Quality Assurance Committee shall consist of at least 4 faculty mem-
+bers of the respective School. 
+c. Schools are recommended to include students in their Curriculum and Quality Assurance 
+Committee(s). The latter may also involve external members.
+
+
+===== PAGE 3 =====
+3 | P a g e 
+d. The procedures for the selection of Curriculum and Quality Assurance Committee members 
+shall be specified by each School. The latter are expected to ensure that the composition of 
+these Committees is assessed at regular and reasonable intervals. 
+e. The School’s representative on the Quality Assurance Committee shall be part of its Curric-
+ulum and Quality Assurance Committee (or of one of these Committees). 
+f. If not otherwise stipulated by a School, meetings of the respective Curriculum and Quality 
+Assurance Committee will be chaired by the School’s representative on the Quality Assur-
+ance Committee. 
+g. Whenever appropriate, Curriculum and Quality Assurance Committees may invite further 
+members of ADA University to participate in their meetings and to offer input, feedback and 
+suggestions on specific issues under discussion. 
+ 
+5.3 Office of Quality Assurance and Accreditation 
+a. The Office of Quality Assurance and Accreditation is a permanent administrative unit of ADA 
+University. 
+b. The Office is led by the Director of Quality Assurance and Accreditation. 
+c. The Office is independent of the Quality Assurance Committee and of Curriculum and Qual-
+ity Assurance Committees, but it shall continuously and substantially support these Com-
+mittees in their activities. 
+
+6. Committee Proceedings 
+ 
+6.1 Quality Assurance Committee 
+a. Meetings of the Quality Assurance Committee shall be held at least once a month and as 
+often as the fulfillment of its duties may require. The Committee’s Chairperson may call ex-
+traordinary meetings whenever necessary. The Committee is in recess during July and Au-
+gust. 
+b. Committee meetings shall be held in accordance with an agenda that is made available to 
+each Committee member at least one week prior to a meeting. It is the Chairperson’s re-
+sponsibility to prepare the agenda, which will be discussed, potentially adjusted, and agreed 
+on at the beginning of each meeting. Approval of an agenda requires the simple majority of 
+the Committee members present. 
+c. Decisions by the Quality Assurance Committee shall be taken by open voting and by a sim-
+ple majority of those voting members present at a meeting. 
+d. Decisions can be taken only if no less than two-thirds (2/3) of the Committee’s voting mem-
+bers are present at a meeting (quorum). 
+e. If the votes are evenly split, the Vice Rector of Academic Affairs has the casting vote. In 
+case of the Vice Rector’s absence, the final decision in such matters shall be deferred to the 
+following meeting. 
+f. The 2 external members of the Quality Assurance Committee have no vote, but they have 
+the right to be heard at any time and/or to submit a written statement on any item on the 
+Committee’s agenda. The Committee shall thoroughly consider any proposition made by 
+any of the 2 external Committee members before taking a vote on the respective matter. 
+g. The 2 student members of the Committee have the right to vote on matters concerning the 
+learning experience of students at ADA University. Broadly defined, these include (but are 
+not limited to) the evaluation of teaching, learning and assessment; the assessment, devel-
+opment and modification of programs, curricula and courses; and the review of credit and 
+degree regulations and of issues related to student admission and retention. The undergrad-
+uate member of the Committee may only vote on matters related to the undergraduate stu-
+dent experience, the graduate member of the Committee only on matters related to the 
+graduate student experience at the University.
+
+
+===== PAGE 4 =====
+4 | P a g e 
+6.2 Curriculum and Quality Assurance Committees 
+a. All Curriculum and Quality Assurance Committees shall meet as often as the fulfillment of 
+their duties may require. It is the Chairpersons’ responsibility to call meetings whenever 
+necessary. All Curriculum and Quality Assurance Committees are in recess during July and 
+August. 
+b. Committee meetings shall be held in accordance with an agenda that is made available to 
+each Committee member at least one week prior to a meeting. It is the Chairperson’s re-
+sponsibility to prepare the agenda, which will be discussed, potentially adjusted, and agreed 
+on at the beginning of each meeting. Approval of an agenda requires the simple majority of 
+those Committee members present. 
+c. Decisions by a Committee shall be taken by open voting and by a simple majority of those 
+members present at a meeting. 
+d. Decisions can be taken only if no less than two-thirds (2/3) of a Committee’s members are 
+present at a meeting (quorum). 
+e. If the votes are evenly split, the Chairperson has the casting vote. In case of the Chairper-
+son’s absence, the final decision in such matters shall be deferred to the following meeting. 
+
+7. Responsibilities 
+ 
+7.1 Quality Assurance Committee 
+a. The Quality Assurance Committee is at the center of the University’s quality assurance sys-
+tem. 
+b. The Committee bases its activities on the University’s Academic Quality Assurance Policy 
+and on reports and recommendations provided by the Curriculum and Quality Assurance 
+Committees and the Office of Quality Assurance and Accreditation. 
+c. To fulfill its responsibilities, the Committee may request additional reports from the Curricu-
+lum and Quality Assurance Committees and the Office of Quality Assurance and Accredita-
+tion whenever required. 
+d. The Quality Assurance Committee has primary responsibility for the quality assessment of 
+the University’s offerings and performance in the areas covered by the University’s Aca-
+demic Quality Assurance Standards and Guidelines and by other relevant manuals. 
+e. The Committee has primary responsibility for the assessment of structures, processes and 
+documents designated to achieve and improve quality at the University. 
+f. The Committee shall monitor the implementation of such documents as referred to above in 
+7.1.e. 
+g. The Quality Assurance Committee is no decision-making body of the University. Its main 
+task within the governing structure of the University is to develop recommendations for the 
+improvement of the University’s offerings and performance and of the structures, processes 
+and documents designated to achieve and improve quality. It shall regularly submit these 
+recommendations to the University’s major decision-making bodies (Deans’ Council and 
+University Senate) for further deliberation. 
+h. The Committee shall in particular fulfill the following responsibilities: 
+(1) It shall regularly review the University’s Academic Quality Assurance Policy and ensure 
+its implementation (see chapter 6.3.e of that policy). It shall develop an assessment 
+plan that covers all relevant areas and items to be evaluated as outlined in chapter 5 of 
+the policy mentioned. 
+(2) It shall regularly review the current document and ensure its implementation (see chap-
+ter 6.3.e of the Academic Quality Assurance Policy). It shall make suggestions to the 
+University Senate for the current document’s improvement (if any) to facilitate the as-
+sessment of the University’s quality assurance structures and processes as outlined in 
+chapter 8 below.
+
+
+===== PAGE 5 =====
+5 | P a g e 
+(3) It shall oversee the development and/or modification of degree programs (as outlined 
+in chapters 4.3 and 5.1 of the University’s Degree Program Development and Modifi-
+cation Policy), of curricula and courses (see chapter 4.1 of the Curriculum and Course 
+Development Policy), and of learning outcomes (see chapter 4.5 of the Core Compe-
+tence and Learning Outcome Specification Policy). 
+(4) It shall evaluate the results of the ongoing processes of program monitoring and of the 
+periodic review of programs and assess the implementation of improvements resulting 
+from these processes (see chapters 5.3, 6.2 and 6.3 of the Degree Program Monitoring 
+and Review Policy). 
+(5) It shall evaluate the effectiveness of the University’s mechanisms for the development, 
+assessment, improvement and approval of programs and the involvement of students 
+and faculty in these activities (see chapters 7.5 and 7.6 of the Academic Quality Assur-
+ance Policy). 
+(6) It shall evaluate the structure and meaningfulness of all the reports prepared by the 
+Office of Quality Assurance and Accreditation (see chapter 4.3 of the Data Manage-
+ment and Reporting Regulations). 
+(7) It shall assess the implementation of newly developed and of modified documents (see 
+chapters 4.6 and 5.4 of the Document Development and Modification Regulations). 
+(8) It elects the University’s Anti-Discrimination Officer (see chapter 5.2 of the Equity, Di-
+versity and Non-Discrimination Policy) and its Data Protection Officer (see chapter 4.4 
+of the Personal Data Usage and Public Information Policy). 
+(9) It shall assess reports received from the Anti-Discrimination Officer (see chapter 5.2 of 
+the Equity, Diversity and Non-Discrimination Policy) and from the Data Protection Of-
+ficer (see chapter 4.4 of the Personal Data Usage and Public Information Policy). 
+(10) It shall support the Anti-Discrimination Officer in the implementation of feedback and 
+suggestions received on the issues of equity, diversity and non-discrimination (see 
+chapter 4.4 of the Equity, Diversity and Non-Discrimination Policy). 
+i. The particular responsibilities of the individual Committee members are as follows: 
+(1) Any Committee member or members may propose measures to improve the quality of 
+the University’s offerings and performance and of relevant structures, processes and 
+documents whenever appropriate. 
+(2) The Vice Rector of Academic Affairs is responsible to coordinate the workings of the 
+Quality Assurance Committee and to ensure that it successfully fulfills its responsibili-
+ties as outlined in this document and in the University’s Academic Quality Assurance 
+Policy. 
+(3) The Vice Rector for Enrollment Management and Student Affairs is responsible to sup-
+port the Committee’s 2 student representatives and to ensure that student interests and 
+concerns are adequately represented on the Committee. The Vice Rector is available 
+to students who may submit feedback and suggestions for the improvement of the Uni-
+versity’s educational offerings. For this purpose, s/he will regularly make students 
+aware of the opportunity to contribute to the process of quality assurance by submitting 
+such feedback and suggestions via the Office of Admissions and Student Records and 
+the ADA Student Government. The Vice Rector furthermore ensures that the results 
+from surveys conducted with students and graduates on their learning experiences at 
+ADA University are thoroughly considered by the Quality Assurance Committee (for 
+details on the reports resulting from these surveys, see the University’s Data Manage-
+ment and Reporting Regulations). 
+(4) All Vice Rectors represent the areas they are overseeing. They are responsible to in-
+troduce concerns and propositions arising from these areas. They furthermore repre-
+sent the perspective of the University’s leadership and shall ensure that the work of the 
+Committee is aligned with the strategic goals and development of the University.
+
+
+===== PAGE 6 =====
+6 | P a g e 
+(5) The Director of Quality Assurance and Accreditation contributes the perspective and 
+interests of internal and external quality assurance. He/she is responsible to ensure 
+that the activities of the Quality Assurance Committee and the Office of Quality Assur-
+ance and Accreditation are aligned. The Director furthermore supports the Vice Rector 
+of Academic Affairs in the coordination of the workings of the Committee and is respon-
+sible to take and keep the Committee’s minutes. 
+(6) The 9 faculty members represent the perspective and interests of faculty. They are 
+responsible to introduce concerns and propositions made by Schools and their faculty. 
+They shall ensure that faculty interests and suggestions are heard by the Quality As-
+surance Committee. 
+(7) The 2 external members are responsible to provide an external perspective and in-
+formed advice on the issues discussed by the Quality Assurance Committee and 
+(whenever appropriate) on relevant institutional structures, processes and documents 
+designated to achieve and improve quality. 
+(8) The 2 student members on the Committee represent the perspective and interests of 
+students. They are responsible to introduce concerns and propositions made by stu-
+dents and the ADA Student Government. They shall closely cooperate with the latter 
+and ensure that student interests and suggestions are heard by the Quality Assurance 
+Committee. 
+j. In addition to what is outlined above in 7.1.g, the Quality Assurance Committee (represented 
+by its Chair) regularly reports to the Deans’ Council and the University Senate on the pro-
+ceedings and results of the Quality Assurance Committee. 
+k. The Quality Assurance Committee is accountable to the University Senate. The Committee 
+(represented by its Chair) provides a comprehensive report to the Senate at the end of each 
+academic year, covering the Committee’s key activities and accomplishments during that 
+year. This shall include key activities and results of the Curriculum and Quality Assurance 
+Committees (as outlined below in chapter 7.2). 
+ 
+7.2 Curriculum and Quality Assurance Committees 
+a. The Curriculum and Quality Assurance Committees support the Quality Assurance Commit-
+tee in the assessment and enhancement of the University’s offerings and performance and 
+of the structures, processes and documents designated to achieve and improve quality at 
+the University. 
+b. More specifically, the Curriculum and Quality Assurance Committees are responsible to as-
+sess the offerings and performance of their respective Schools (including the Foundation 
+Program and the English for Academic and Professional Purposes Program). 
+c. Curriculum and Quality Assurance Committees shall in particular (and at least) fulfill the 
+following responsibilities: 
+(1) They shall regularly monitor the programs offered at their respective Schools (including 
+the Foundation Program and the English for Academic and Professional Purposes Pro-
+gram) as outlined in chapter 5 of the University’s Degree Program Monitoring and Re-
+view Policy. This includes overseeing the implementation of suggestions for improve-
+ment resulting from the process of program monitoring. 
+(2) They shall monitor the implementation of improvement plans resulting from the periodic 
+review of degree programs (as outlined in chapter 6 of the Degree Program Monitoring 
+and Review Policy). 
+(3) They shall monitor the development of program descriptions and course syllabi (see 
+chapter 4.4 of the Curriculum and Course Development Policy). They may additionally 
+be allocated the tasks of designing and developing curricula and courses (see chapter 
+4.1 of the same policy), of specifying core competencies and learning outcomes on the 
+level of programs and courses (see chapter 4.2 of the Core Competence and Learning 
+Outcome Specification Policy), and of developing and modifying degree programs (see
+
+
+===== PAGE 7 =====
+7 | P a g e 
+chapters 4.3 and 5.1 of the Degree Program Development and Modification Policy). 
+This includes the Foundation Program (see chapter 4.1 of the Foundation Program 
+Regulations) and the EAPP Program (see chapter 5.1 of the English for Academic and 
+Professional Purposes Regulations). 
+(4) They shall regularly elicit feedback from students and faculty on the quality of the 
+School’s offerings and assess the feedback received. 
+d. The Chairperson of a Curriculum and Quality Assurance Committee is responsible to take 
+and keep the Committee’s minutes. 
+e. Each Curriculum and Quality Assurance Committee regularly provides reports on the results 
+of its activities to the Quality Assurance Committee. These reports need to include relevant 
+information on the respective School’s offerings and performance as well as recommenda-
+tions for the improvement of the School or University in relevant areas whenever appropri-
+ate. 
+f. It is the responsibility of a School’s representative on the Quality Assurance Committee to 
+present the reports mentioned above to the Committee. He/she shall furthermore ensure 
+that relevant information resulting from the meetings of the Committee are passed on to the 
+School’s Curriculum and Quality Assurance Committee(s) and to its faculty and administra-
+tive members. 
+g. The respective School’s representative on the Quality Assurance Committee shall in general 
+ensure that the work of the School’s Curriculum and Quality Assurance Committee(s) is 
+coordinated with the Quality Assurance Committee and that there is smooth and efficient 
+communication between the institutional and the School level. 
+h. Each Curriculum and Quality Assurance Committee (represented by its Chair) shall provide 
+a comprehensive report to the Quality Assurance Committee at the end of each academic 
+year, covering the Committee’s key quality assurance-related activities and accomplish-
+ments during that year. The Quality Assurance Committee may make suggestions for the 
+further improvement of each of the Curriculum and Quality Assurance Committee’s activi-
+ties. 
+ 
+7.3 Office of Quality Assurance and Accreditation 
+a. The Office of Quality Assurance and Accreditation provides continuous and substantial sup-
+port to the Quality Assurance Committee and the Curriculum and Quality Assurance Com-
+mittees. The Quality Assurance Committee may request the assistance of the Office when-
+ever necessary in order to fulfill its obligations effectively and efficiently. 
+b. The Office prepares reports that facilitate data-based decision making according to the re-
+quirements delineated in the University’s Data Management and Reporting Regulations. It 
+submits these reports to the Quality Assurance Committee, the Curriculum and Quality As-
+surance Committees, to the University’s decision-making bodies, and to other relevant 
+stakeholders. The Office furthermore gathers select data as outlined in the document men-
+tioned and adds this data to the University’s Academic Performance and Quality Assurance 
+Database. It monitors the implementation of the requirements outlined in the Data Manage-
+ment and Reporting Regulations. 
+c. The Office develops and improves documents designated to the achievement and enhance-
+ment of quality, or it coordinates and supports such activities (see the Document Develop-
+ment and Modification Regulations). It assists the Quality Assurance Committee in the iden-
+tification of potential deficits and gaps in the University’s Academic Quality Assurance 
+Standards and Guidelines and in further manuals. In case the Office is the document owner, 
+it is responsible to keep track of and file documents and ensure their publication and distri-
+bution as required by the Document Development and Modification Regulations and the 
+Document Format and Control Regulations.
+
+
+===== PAGE 8 =====
+8 | P a g e 
+d. The Office ensures that the University’s quality assurance mechanisms are aligned with 
+relevant international and national frameworks defining standards for academic quality, in-
+cluding the Standards and Guidelines for Quality Assurance in the European Higher Educa-
+tion Area (ESG) of 2015, and the national Evaluation Criteria for Institutional Accreditation 
+of Higher Education Institutions (Ali təhsil müəssisəsinin institusional akkreditasiyası üzrə 
+qiymətləndirmə meyarları). 
+e. The Office ensures that the University’s quality assurance mechanisms are coordinated with 
+the standards and requirements of relevant accrediting agencies and thus with ongoing and 
+envisaged accreditation projects. 
+f. The Office provides information on the frameworks, standards and requirements mentioned 
+above in 7.3.d and 7.3.e to relevant members of the University. 
+g. The Office coordinates, supervises and realizes all (national and international) accreditation 
+projects at the institutional level. It coordinates, supervises and supports such accreditation 
+projects at the program level. 
+h. The Office supports Schools and faculty in the design, development, evaluation and im-
+provement of programs, curricula and courses (as outlined in the University’s Degree Pro-
+gram Development and Modification Policy, its Curriculum and Course Development Policy, 
+and its Core Competence and Learning Outcome Specification Policy). This includes the 
+definition of learning outcomes and the development of program descriptions and course 
+syllabi. The Office is furthermore responsible to provide and regular review a Guide to Learn-
+ing Outcomes (see chapter 4.6 of the latter policy). 
+i. The Office supports Schools and faculty in their responsibility to monitor and review pro-
+grams as outlined in the Degree Program Monitoring and Review Policy. 
+j. The Office supports the further qualification of faculty by offering and/or organizing trainings 
+and workshops in areas relevant to teaching, learning and assessment. It coordinates such 
+activities with the University’s Department of Organization and Personnel where appropri-
+ate. 
+k. The Office provides information sessions to the University’s students, faculty and staff to 
+promote a wider understanding and endorsement of the University’s quality assurance sys-
+tem and its purposes. If required, the Office furthermore supports the organization of train-
+ings for units and members of the University affected by newly developed or modified doc-
+uments (as outlined in chapters 4.6 and 5.4 of the Document Development and Modification 
+Regulations). 
+l. The Office, in collaboration with the Vice Rector of Academic Affairs, regularly communi-
+cates relevant activities, developments and results in the areas of quality assurance and 
+accreditation to the ADA University community. 
+m. The Office, in collaboration with the Office of Marketing and Communications, ensures that 
+relevant data and information on the University’s performance is placed on the website (see 
+chapter 5.2 of the Personal Data Usage and Public Information Policy). 
+n. The Office supports the University’s Anti-Discrimination Officer and its Data Protection Of-
+ficer in the fulfillment of their responsibilities, which are outlined in the Equity, Diversity and 
+Non-Discrimination Policy and the Personal Data Usage and Public Information Policy. 
+o. The Office needs to ensure that there is an ongoing and substantial involvement of relevant 
+stakeholders in the University’s quality assurance and accreditation activities. 
+p. The Director of Quality Assurance and Accreditation regularly reports to the Vice Rector of 
+Academic Affairs and to the Quality Assurance Committee. 
+
+8. Assessment of Quality Assurance Structures and Processes 
+ 
+8.1 Assessing the appropriateness and effectiveness of the University’s quality assurance struc-
+tures and processes is the responsibility of the University Senate.
+
+
+===== PAGE 9 =====
+9 | P a g e 
+8.2 The Senate shall furthermore evaluate the annual report received from the Quality Assurance 
+Committee as outlined above in chapter 7.1.k. The Senate reserves the right to make recom-
+mendations on the Committee’s activities.
