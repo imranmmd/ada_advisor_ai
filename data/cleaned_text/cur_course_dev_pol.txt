@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
+=== PAGE 1 ===
 1.4.2 CURRICULUM AND COURSE 
 DEVELOPMENT POLICY 
 
@@ -48,10 +45,7 @@ consists of a coherent and well-structured series of individual sessions, and (3
 semester. Courses (as individual teaching and learning units) are part of coherently structured degree 
 programs. They can be taught face-to-face or in a blended or online format
 
-
-===== PAGE 2 =====
-2 | P a g e 
- 
+=== PAGE 2 ===
 4. Curriculum and Course Development 
  
 4.1 Responsibility for Curriculum and Course Development 
@@ -101,9 +95,7 @@ outcomes, program content and learning activities.
 (5) A systematic and comprehensive structure of courses as well as an initial outline of 
 individual courses must be developed. This includes the allocation of credits to courses (for
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 details, see ADA University’s Credit Regulations). The composition of courses must cover 
 the entire content of the program; it must be designed to allow for a smooth student 
 progression and for an integrated learning experience of students; and it must fully reflect 
@@ -152,9 +144,7 @@ defined learning outcomes, course content and learning activities.
 (5) Relevant and current teaching and learning materials must be selected. 
 (6) Syllabi for all courses must be designed, using ADA University’s Syllabus Form.
 
-
-===== PAGE 4 =====
-4 | P a g e 
+=== PAGE 4 ===
 e. The detailed drafts of all courses will be submitted to the faculty of each of the Schools involved 
 in the delivery of the degree program. The course developers must implement all feedback 
 received from and suggested modifications proposed by faculty. 
@@ -202,9 +192,7 @@ learning process as well as for efficient communication between teacher and cour
 participants. A general Blackboard Learn Course Template can be found in Appendix II of ADA 
 University’s Academic Quality Assurance Standards and Guidelines.
 
-
-===== PAGE 5 =====
-5 | P a g e 
+=== PAGE 5 ===
 4.7 Approval of Curriculum and Courses 
 a. After the finalization of the program’s curriculum and of all its courses, the curriculum and 
 courses will be made available to all the faculty members of the School that serves as the 
@@ -254,9 +242,7 @@ implementation of improvements rests with the faculty of the Schools involved in
 the respective degree program. All proposed improvements must fulfil the requirements for 
 curricula and courses delineated above.
 
-
-===== PAGE 6 =====
-6 | P a g e 
+=== PAGE 6 ===
 c. It is the Program Director’s responsibility to supervise this process, to potentially involve further 
 stakeholders of ADA University (such as its Information Technology Services), and to ensure 
 the timely delivery of appropriate results. 

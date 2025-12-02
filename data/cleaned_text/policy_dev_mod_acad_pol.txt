@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
+=== PAGE 1 ===
 2. POLICY ON THE DEVELOPMENT AND 
 MODIFICATION OF ACADEMIC POLICIES 
 
@@ -45,9 +42,7 @@ detailed steps for its implementation (Procedures).
 Procedures pertaining to academic matters define structured approaches to and detailed steps for the 
 implementation of academic policies.
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 4. Development of New Academic Policies 
  
 4.1 Initiation of the Development of a New Academic Policy 
@@ -98,9 +93,7 @@ Accreditation, which will ensure that it fully corresponds to relevant Quality S
 1 Sharing with the Vice Rector for Institutional Effectiveness and Development becomes redundant if (s)he is part of the group of 
 proposers. This also applies to the following parts of this policy.
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 Quality Guidelines set forth in ADA University’s Academic Quality Assurance Standards and 
 Guidelines as well as to the formal requirements outlined in its Document Format Regulations. 
 Potential adjustments will be implemented in close cooperation with the policy’s proposers. 
@@ -150,9 +143,7 @@ and Guidelines or the Academic Catalogue) and be included in the regular review 
 University. The Vice Rector for Institutional Effectiveness and Development will provide an 
 electronic copy of the new policy to all members of ADA University.
 
-
-===== PAGE 4 =====
-4 | P a g e 
+=== PAGE 4 ===
 4.5 Implementation of a New Academic Policy 
 a. Responsibility for the implementation of the new academic policy rests with the academic and / 
 or administrative unit(s) specified in the policy. 
@@ -201,9 +192,7 @@ a. The Vice Rector for Institutional Effectiveness and Development will submit t
 Deans’ Council (together with the description of the rationale behind the proposal and all 
 feedback letters received). At one of its next regular meetings, the Deans’ Council will discuss
 
-
-===== PAGE 5 =====
-5 | P a g e 
+=== PAGE 5 ===
 and take a vote on the proposal. Approval by the Deans’ Council is granted if the proposal is 
 accepted by the majority of its members. 
 b. If approved by the Deans’ Council, the policy proposal (together with the description of the 
@@ -253,9 +242,7 @@ involved in the process of policy suspension if the Vice Rector for Institutiona
 Development is part of the group of proposers). The proposal will be placed on the Senate’s 
 agenda, who will discuss and take a vote on the proposal at one of its next regular meetings.
 
-
-===== PAGE 6 =====
-6 | P a g e 
+=== PAGE 6 ===
 Proposers will be invited in order to present the proposal and address potential questions. 
 Approval by the University Senate is granted if the proposal is accepted by a majority as defined 
 in Article 3 of the Senate’s By-Laws. If accepted by the Senate and approved by the Rector, the 

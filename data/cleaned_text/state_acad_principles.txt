@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
+=== PAGE 1 ===
 3. STATEMENT OF ACADEMIC PRINCIPLES 
 
 1- Purpose 
@@ -46,9 +43,7 @@ to these circumstances. Equity, as opposed to equality, thus acknowledges differ
 individuals and aims at inclusiveness by facilitating access to these opportunities and providing 
 additional support for those that are disadvantaged so that they can develop their full potential.
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 4. Academic Principles 
  
 4.1 Academic Excellence: Teaching and research at ADA University are conducted according to high 

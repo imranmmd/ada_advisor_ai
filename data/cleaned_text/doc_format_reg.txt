@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
+=== PAGE 1 ===
 1. DOCUMENT FORMAT REGULATIONS 
 
 1. Purpose 
@@ -46,9 +43,7 @@ a. A quality standard formulates condensed descriptions of the norms that are in
 the implementation, assessment and enhancement of academic quality in the area covered by 
 the standard.
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 b. Quality guidelines further specify quality standards. They present a systematic, detailed and 
 comprehensive overview of quality requirements that are equally meant to inform the processes 
 of quality implementation, assessment and enhancement. Guidelines are introduced by a brief 

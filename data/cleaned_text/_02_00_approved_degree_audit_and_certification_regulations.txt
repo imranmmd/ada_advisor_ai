@@ -1,10 +1,4 @@
-
-
-===== PAGE 1 =====
-Doc No: QA-QAA-16 
-Version: 02.00 
-Date Effective: 29 May 2025 
- 
+=== PAGE 1 ===
 DEGREE AUDIT AND CERTIFICATION 
 REGULATIONS 
 
@@ -54,9 +48,7 @@ The Banner Student Information System (Banner SIS) is an electronic database of 
 and further relevant student information. It is used for data collection, reporting, and for managing 
 day-to-day academic operations at ADA University.
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 Curriculum Advising and Program Planning (CAPP) is a tool available in Banner SIS that allows for 
 the digital representation of degree program requirements. It enables students as well as academic 
 and administrative staff members to monitor and evaluate a student’s progress towards the comple-
@@ -108,9 +100,7 @@ the courses are offered.
 c. They must regularly meet with their Academic Advisor. 
 d. They must participate in a student success program.
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 4.9 A graduate student is placed on academic probation if the student’s cumulative GPA falls below 
 2.75 at the end of a semester. Students who achieve a cumulative GPA of at least 2.75 are 
 restored to good academic standing. 

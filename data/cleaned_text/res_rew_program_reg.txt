@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
+=== PAGE 1 ===
 3.4.3 RESEARCH REWARD PROGRAM 
 AND REGULATIONS 
 
@@ -47,9 +44,7 @@ University’s Faculty Research and Development Fund.
 d. For each publication, authors are expected to clearly state ADA University as their affiliation. 
 e. Publications may only be rewarded if they fulfill one of the following criteria:
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 (1) Research article published in a journal indexed in SSCI (Social Sciences Citation Index), 
 SCI (Science Citation Index), or SCIE (Science Citation Index Expanded). 
 (2) Book published with one of the publishing houses listed in category A or B below (see 
@@ -94,9 +89,7 @@ d. A reward calculator that automatically determines the rewards resulting from 
 defined in 4.3.b and 4.3.c can be obtained from the Office of Faculty Affairs and Academic 
 Administration.
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 5. Ranking of Academic Publishing Houses 
  
 5.1 The following categories of academic publishers are based on the rankings developed by the 
@@ -169,9 +162,7 @@ SAGE Publishing
 Curzon Press 
 SETAC Press
 
-
-===== PAGE 4 =====
-4 | P a g e 
+=== PAGE 4 ===
 Duke University Press 
 Springer 
 

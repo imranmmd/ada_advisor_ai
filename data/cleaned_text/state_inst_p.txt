@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
+=== PAGE 1 ===
 2. STATEMENT OF INSTITUTIONAL PURPOSES 
 
 1. Purpose 
@@ -47,9 +44,7 @@ citizens with a prior record of outstanding academic performance and with the po
 highly during their studies; (2) foreign citizens with a prior record of outstanding academic 
 performance and with the potential to perform highly during their studies; (3) Azerbaijani citizens
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 who are socially and financially disadvantaged; (4) Azerbaijani citizens from internally displaced 
 families and refugee families; (5) Azerbaijani citizens from families of martyrs and disabled war 
 veterans, and Azerbaijani citizens who serve or served in the armed forces; (6) Azerbaijani citizens 

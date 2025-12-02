@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-Page 1 
+=== PAGE 1 ===
 ADA University 
 Technology Resources Acceptable Use Policy 
 
@@ -9,9 +6,7 @@ Note: This policy document includes detailed Compliance Guidelines. Please
 ensure you read the entire document to understand all requirements and 
 responsibilities.
 
-
-===== PAGE 2 =====
-Page 2 
+=== PAGE 2 ===
 Contents 
 
 ADA University ........................................................................................................................................ 1 
@@ -42,9 +37,7 @@ Ownership of Intellectual Property Created Using University Technology Resources
 14. Conclusion ..................................................................................................................................... 8 
 Technology Resources Acceptable Use Policy Compliance Guidelines ................................................... 9
 
-
-===== PAGE 3 =====
-Page 3 
+=== PAGE 3 ===
 1. Introduction 
  
 This Acceptable Use Policy (AUP) for university technology resources outlines the acceptable and 
@@ -97,9 +90,7 @@ Engaging in electronic communication with other members of the university commun
 external organizations, and individuals on behalf of the university. This could include sending 
 emails, making phone calls, or participating in video conferences with external stakeholders
 
-
-===== PAGE 4 =====
-Page 4 
+=== PAGE 4 ===
 such as other educational institutions, government agencies and other organizations while 
 representing University. 
 • 
@@ -155,9 +146,7 @@ Security and Privacy
 Users of university technology resources are responsible for ensuring the security and privacy of 
 university data and resources. Users must:
 
-
-===== PAGE 5 =====
-Page 5 
+=== PAGE 5 ===
 • 
 Follow IT best practices and other applicable policies, guidelines and procedures introduced 
 by respective vendors (for example: Ellucian (Banner), Anthology (BlackBoard Learn)) and/or 
@@ -214,10 +203,7 @@ User Responsibilities
  
 Users of university technology resources are responsible for:
 
-
-===== PAGE 6 =====
-Page 6 
- 
+=== PAGE 6 ===
 • 
 Protecting university technology resources from unauthorized access, use, or disclosure. 
 • 
@@ -270,9 +256,7 @@ system performance and security. In instances where individuals may be suspected
 University technology resources, the contents of the individuals’ user files may also be inspected by 
 the university.
 
-
-===== PAGE 7 =====
-Page 7 
+=== PAGE 7 ===
 All information stored on or transmitted through the University’s technology resources is subject to 
 the University policies and regulations. The University has the legal right to access, preserve and 
 review all information stored on or transmitted through its technology resources. 
@@ -318,9 +302,7 @@ contractors, vendors, and visitors, violations will be handled in accordance wit
 policies and guidelines applicable to their status. Disciplinary actions for policy violations will be 
 determined based on the relevant policies and guidelines outlined in these respective documents.
 
-
-===== PAGE 8 =====
-Page 8 
+=== PAGE 8 ===
 12. Contacts 
  
 Users may contact the Information Technologies and Services department for assistance with 
@@ -356,14 +338,10 @@ university technology resources, as well as legal action if the violation involv
 For any questions or concerns about this AUP or its application, please contact the Information 
 Technologies and Services department (see Section 12 – Contacts).
 
-
-===== PAGE 9 =====
-Page 9 
+=== PAGE 9 ===
 Technology Resources Acceptable Use Policy Compliance Guidelines
 
-
-===== PAGE 10 =====
-Page 10 
+=== PAGE 10 ===
 Introduction 
  
 Compliance Guidelines are the supplementary document for the Technology Resources Acceptable 
@@ -410,9 +388,7 @@ Let's work together to keep our systems secure and our information safe.
  
 This will be discussed further in the document.
 
-
-===== PAGE 11 =====
-Page 11 
+=== PAGE 11 ===
 Important note: 
  
 Please note that the examples provided in this document are illustrative and not exhaustive. The 
@@ -462,9 +438,7 @@ Using university facilities to host events authorized by the university and its 
 Examples: 
 A student organization hosts a guest speaker event in a university auditorium.
 
-
-===== PAGE 12 =====
-Page 12 
+=== PAGE 12 ===
 A department hosts a conference in a university campus facility (classrooms and event halls). 
  
 Complying with applicable laws, regulations, and university policies: 
@@ -513,9 +487,7 @@ A group of students connect a gaming console to the TV in common space.
  
 Sending or storing illegal, threatening, discriminatory, harassing, or abusive messages or content:
 
-
-===== PAGE 13 =====
-Page 13 
+=== PAGE 13 ===
 Examples: 
 An employee sends a threatening email to a colleague. 
 A student stores illegal software on university provided storage space. 
@@ -566,9 +538,7 @@ Examples:
 An employee distributes copyrighted materials without permission. 
 A student downloads pirated movies using university internet.
 
-
-===== PAGE 14 =====
-Page 14 
+=== PAGE 14 ===
 Excessive use and its negative consequences, especially in prohibited use cases is described in the 
 examples below: 
  
@@ -618,9 +588,7 @@ A student uses strong, unique passwords for their university accounts to prevent
 access and password guessing, does not use university credentials (email address and password) to 
 register on Internet services and websites which are not related to learning process, especially for
 
-
-===== PAGE 15 =====
-Page 15 
+=== PAGE 15 ===
 personal non-university use (online shopping, multimedia streaming services like Netflix, Hulu and 
 others, social networks, government services and other online and offline services used personally. 
 However, a student can use university email to apply for summer internships, job search, graduate, 

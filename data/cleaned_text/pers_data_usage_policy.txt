@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
+=== PAGE 1 ===
 6.4.2 PERSONAL DATA USAGE AND 
 PUBLIC INFORMATION POLICY 
 
@@ -46,9 +43,7 @@ Data Pseudonymization requires that personal data is processed in such a manner 
 attributed to a data subject without additional information. Data subjects can still be re-identified by the 
 use of such additional information.
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 Data Anonymization describes a process in which personal data is permanently stripped of all 
 information that may lead to the identification of a data subject. 
  
@@ -97,9 +92,7 @@ c. Lack of Transparency: Data could be collected and used for purposes other tha
 communicated to data subjects. This would further infringe upon the right of informational self-
 determination and prevent any intervention on the part of data subjects.
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 d. Excessiveness of Data: The amount of data gathered could exceed the scope of what is needed 
 to fulfill well-founded, clearly defined and explicitly communicated purposes. This would result 
 in a further encroachment on the privacy and rights of the data subject. 
@@ -150,9 +143,7 @@ internal and/or external stakeholders and against the re-identification of data 
 aggregate data or from the combination of several datasets by anyone other than those 
 University member(s) having access to the respective datasets. It requires the unambiguous
 
-
-===== PAGE 4 =====
-4 | P a g e 
+=== PAGE 4 ===
 identification of those members of the University that have (partial or full) access to the 
 University’ Academic Performance and Quality Assurance Database and/or its physical archive 
 as well as the precise classification of data according to data privacy categories. Information 
@@ -202,9 +193,7 @@ Regulations).
 k. Positive Intervention: Data is expected to serve the major purpose of improving academic 
 processes and the performance of the University’s individual members. This implies that
 
-
-===== PAGE 5 =====
-5 | P a g e 
+=== PAGE 5 ===
 adverse effects should be minimized or altogether avoided. Such effects may result from (for 
 example) generalization or simplification when analyzing and using data. 
 l. Equitable and Conscious Data Usage: Positive intervention presupposes that data is used 
@@ -255,9 +244,7 @@ longer being able to provide education, employment and/or other services.
 o. Complaint Resolution: Individual members of the University may address the Data Protection 
 Officer if they suspect a violation of the requirements for data usage and protection outlined in
 
-
-===== PAGE 6 =====
-6 | P a g e 
+=== PAGE 6 ===
 this document in general and/or their right of informational self-determination in particular. The 
 Officer will investigate every suspected violation reported and (if verified) initiate a resolution 
 process as outlined below in chapter 4.5. All complaints must be treated with strict 
@@ -308,9 +295,7 @@ required by the respective member of the University to fulfill his/her duties. S
 needs to be confirmed by the Vice Rector for Institutional Effectiveness and Development 
 before becoming effective.
 
-
-===== PAGE 7 =====
-7 | P a g e 
+=== PAGE 7 ===
 b. Data privacy requires that the University has a Data Protection Officer. 
 (1) The Data Protection Officer is responsible to monitor and ensure compliance with the data 
 usage and protection requirements outlined in this document. 
@@ -361,9 +346,7 @@ performance, faculty evaluations, or graduate employment. Such personal data req
 the explicit and informed consent of the data subject to be gathered and used. It must be 
 processed in such a manner that it can no longer be attributed to a specific data subject.
 
-
-===== PAGE 8 =====
-8 | P a g e 
+=== PAGE 8 ===
 (3) Data classified as sensitive is confidential personal information that, if made available to a 
 larger audience, could have a significant negative impact on the data subject. This includes 
 information on the ethnic and/or sociocultural background of the data subject. Such 
@@ -413,9 +396,7 @@ continuous improvement of the University’s performance in key academic areas.
 c. In accordance with the legal regulations of the Republic of Azerbaijan, information is made 
 available to the Ministry of Science and Education and the Azerbaijan National Academy of
 
-
-===== PAGE 9 =====
-9 | P a g e 
+=== PAGE 9 ===
 Science. The official reports submitted to the Ministry and the Academy provide a regular 
 account of the University’s activities and performance in key academic areas. 
 d. Information is made available to the general public, to current and prospective students, and to 
@@ -465,9 +446,7 @@ data on (for example) student enrollment and retention, student performance and 
 the composition of the University’s student body, and on the University’s research projects and 
 output. Data will be identifiable or de-identified according to applicable legal requirements.
 
-
-===== PAGE 10 =====
-10 | P a g e 
+=== PAGE 10 ===
 Reporting to the Ministry and the Academy is the responsibility of the Office of Admissions and 
 Student Records and the Office of Faculty Affairs and Academic Administration. 
 h. Information for the general public, students, and other interested groups is published on the 

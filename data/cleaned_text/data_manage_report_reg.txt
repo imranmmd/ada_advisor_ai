@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
+=== PAGE 1 ===
 6.4.3 DATA MANAGEMENT AND REPORTING 
 REGULATIONS 
 
@@ -48,9 +45,7 @@ The Academic Performance and Quality Assurance Database serves to collect, organ
 the quantitative and qualitative information (raw data) required to assess the University’s performance 
 in all the areas relevant to the evaluation and improvement of academic quality.
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 4. Data Management and Reporting Regulations 
  
 4.1 General Provisions 
@@ -101,9 +96,7 @@ October and indicate (for each applicant) the degree program(s) for which he/she
 the school, institution of education or institution of higher education that the applicant 
 comes from; his/her gender, date of birth and citizenship; and (if applicable) his/her place
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 of origin in Azerbaijan (the district of Baku or Sumgait or the name of region). It must also 
 indicate (for each applicant) whether he/she applied via the State Examination Center 
 (SEC) and if so, his/her entry score from the SEC university admission test and whether 
@@ -154,9 +147,7 @@ student).
 (7) For each semester and term, the Office will ensure that the academic standing of each 
 student is up to date on Banner after the respective final grade submission deadline. For
 
-
-===== PAGE 4 =====
-4 | P a g e 
+=== PAGE 4 ===
 each student, this information must indicate his/her respective academic standing, namely 
 00 (assigned if a student is newly admitted and has no GPA); GS (assigned if a student’s 
 cumulative GPA is 2.00 and above for undergraduates or 2.75 and above for graduates); 
@@ -207,9 +198,7 @@ e. English for Academic and Professional Purposes (EAPP) Program:
 (1) The EAPP Program will provide the results of the English Proficiency Exam (EPE) 
 conducted in August to the Office of Quality Assurance and Accreditation by the end of the
 
-
-===== PAGE 5 =====
-5 | P a g e 
+=== PAGE 5 ===
 first teaching week of each academic year. For each student enrolled in the EAPP Program, 
 it must indicate whether he/she is expected to complete the Program within one semester 
 or one year. 
@@ -260,9 +249,7 @@ and graduate) student that received or retained a scholarship either as a result
 academic performance at ADA University or as a regular extension of the respective 
 scholarship. This information must include the type (merit, non-merit) and name of the
 
-
-===== PAGE 6 =====
-6 | P a g e 
+=== PAGE 6 ===
 scholarship and the amount of financial support provided by the scholarship for one 
 semester. 
 h. Schools, General Education Program, EAPP Program: 
@@ -312,9 +299,7 @@ program and/or the General Education Program and/or the EAPP Program) and on fur
 functions fulfilled in service to the University. This information must be submitted by the 
 middle of August to the Office of Admissions and Student Records.
 
-
-===== PAGE 7 =====
-7 | P a g e 
+=== PAGE 7 ===
 (8) For each semester and term, these academic units must provide the envisaged number of 
 students for each course to the Office of Admissions and Student Records. This information 
 must be submitted by the beginning of July, the beginning of November, and the beginning 
@@ -365,9 +350,7 @@ Accreditation on the work experience of the students that graduated from the Uni
 during the preceding academic year and that were seeking employment. This information 
 must be submitted by the end of January and the end of July of each academic year. For
 
-
-===== PAGE 8 =====
-8 | P a g e 
+=== PAGE 8 ===
 each graduate, this information must include his/her status (employed or unemployed), and 
 if employed, the name of the current employing entity; the type of employment (full-time, 
 part-time, self-employed, internship); the employment sector; the country of employment; 
@@ -418,9 +401,7 @@ explaining relevant terms and/or abbreviations, and (7) copyright information.
 c. All reports must be current and be based on the University’s Academic Performance and Quality 
 Assurance Database. They must provide a comprehensive and coherent overview of their
 
-
-===== PAGE 9 =====
-9 | P a g e 
+=== PAGE 9 ===
 respective areas, including all relevant data while omitting any superfluous information. More 
 specifically, they must cover all the (key) performance indicators that are delineated (for each 
 area and report) in chapters 4.3.g to 4.3.v below. Further performance indicators may be added 
@@ -471,9 +452,7 @@ accepted based on a scholarship or stipend and (divided into programs) the numbe
 percentage of accepted students for each scholarship and stipend type and for each individual 
 scholarship and stipend; the total number of accepted students with a special status and (divided
 
-
-===== PAGE 10 =====
-10 | P a g e 
+=== PAGE 10 ===
 into programs) the number and percentage of accepted students with a special status and for 
 different status groups; the number and percentage of accepted Azerbaijani and of accepted 
 international students (KPI); and (divided into different English language test types) the number 
@@ -524,9 +503,7 @@ l. For each semester and term, the Office will prepare an EAPP Performance Repor
 the current academic year and the four preceding years. For each of the semesters and terms 
 covered, the report must present information on the total number of students enrolled, the
 
-
-===== PAGE 11 =====
-11 | P a g e 
+=== PAGE 11 ===
 number of students newly enrolled, and the number of students enrolled that are late to 
 graduate; on the grade distribution (KPI) for each EAPP level (for details, see ADA University’s 
 English for Academic and Professional Purposes Regulations); on the number and percentage 
@@ -576,9 +553,7 @@ of regular and late graduation (graduation rate; KPI) for the University and for
 graduates for each additional semester required); and on the average final cumulative GPA 
 (KPI) per level and program for each of the academic years covered by the report.
 
-
-===== PAGE 12 =====
-12 | P a g e 
+=== PAGE 12 ===
 q. For each semester, the Office will prepare a Course and Faculty Evaluation Report that covers 
 the current semester and the corresponding Fall or Spring semester of the four preceding years. 
 For each of the semesters covered, the report must (for the entire University and divided into 
@@ -629,9 +604,7 @@ and nationally (including conference contributions), between different publicati
 each School, the General Education Program and the EAPP Program, the report must moreover 
 present information on the amount of external research funding acquired; on the total amount
 
-
-===== PAGE 13 =====
-13 | P a g e 
+=== PAGE 13 ===
 of funding as well as on the average amount of funding per full-time equivalent of faculty 
 received from the University’s Faculty Research and Development Fund; and (divided into 
 different publication formats and including conference contributions) on the number of 
@@ -682,9 +655,7 @@ academic year. The report must cover the previous academic year and the four pre
 For each of these years, and differentiating between levels (undergraduate or graduate), the 
 report must include at least the following information: the total number of graduates that obtained
 
-
-===== PAGE 14 =====
-14 | P a g e 
+=== PAGE 14 ===
 a degree from the University during these years; the number and percentage of graduates that 
 were seeking and the number and percentage of graduates that were not seeking employment; 
 the status (employed or unemployed; KPI), type of employment (full-time, part-time, self-

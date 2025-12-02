@@ -1,10 +1,4 @@
-
-
-===== PAGE 1 =====
-Doc No: QA-QAA-12 
-Version: 02.00 
-Date Effective: 29 May 2025 
- 
+=== PAGE 1 ===
 ENGLISH FOR ACADEMIC AND 
 PROFESSIONAL PURPOSES REGULATIONS 
 
@@ -53,9 +47,7 @@ lish language proficiency test score below those indicated above in 4.1.c must e
 successfully complete the English for Academic and Professional Purposes (EAPP) Pro-
 gram.
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 b. EAPP is a non-credit program and does thus not count towards the total of credits earned 
 in a degree program. Grades from EAPP courses do not count towards a student’s TGPA 
 and CGPA. 
@@ -69,20 +61,20 @@ CEFR Level
 EAPP Level 
 Group 
 
-Elementary (A1) 
-1 
+Elementary (A1)
+
 A 
 
-Pre-Intermediate (A2) 
-2 
+Pre-Intermediate (A2)
+
 B 
 
-Intermediate (B1) 
-3 
+Intermediate (B1)
+
 C 
 
-Upper-Intermediate (B2) 
-4 
+Upper-Intermediate (B2)
+
 D 
  
 d. The number of sessions and classes students need to attend in order to complete the EAPP 
@@ -94,26 +86,23 @@ Classes per Session
 Classes per Week 
 
 A 
-4 x 7.5 Weeks 
-120 
-16 
+4 x 7.5 Weeks
 
 B 
-2 x 7.5 Weeks 
-112 
-16 
-1 x 15 Weeks 
-199 
+2 x 7.5 Weeks
+
+1 x 15 Weeks
+
 13 – 14 
 
 C 
-2 x 15 Weeks 
-199 
+2 x 15 Weeks
+
 13 – 14 
 
 D 
-1 x 15 Weeks 
-199 
+1 x 15 Weeks
+
 13 – 14 
  
 e. Each session consists of 3 different courses (Listening and Speaking, Reading and Writing, 
@@ -136,9 +125,7 @@ demic years are dismissed from the University. Following their dismissal, and af
 mester or term, they may reapply for admission to ADA University by submitting one of the 
 following minimum English language proficiency test results: IELTS (6.0), TOEFL iBT (75),
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 PTE (50), or Duolingo (105). A student who is readmitted is governed by the academic and 
 financial requirements as well as by the Academic Catalogue in effect at the time of read-
 mission. 

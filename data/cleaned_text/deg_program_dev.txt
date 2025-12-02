@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
+=== PAGE 1 ===
 1.4.1 DEGREE PROGRAM DEVELOPMENT 
 AND MODIFICATION POLICY 
 
@@ -46,9 +43,7 @@ outcomes, leading to an academic degree at the undergraduate or graduate level.
 Entire degree programs or individual courses offered Face-to-Face are classroom-based. They make 
 use of the online mode only for additional student support and to share teaching and learning materials.
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 Entire degree programs or individual courses offered in the Blended (Hybrid) format combine classroom-
 based and online teaching and learning activities. 
  
@@ -98,9 +93,7 @@ external consultants as defined in 4.1.e, with the ADA Student Government, and w
 1 Sharing with the Vice Rector of Academic Affairs and the Dean(s) becomes redundant if they are part of the group of proposers. 
 This also applies to the following parts of this policy.
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 support units (such as, but not limited to, ADA Library, Information Technology Services, Office 
 of Admissions and Student Records, Office of Quality Assurance and Accreditation), all of whom 
 will give initial feedback on the draft (faculty feedback will consist of one comprehensive report 
@@ -151,9 +144,7 @@ be approved by the faculty of that School. Approval is granted if the proposal i
 majority of the School’s faculty. In the case of multidisciplinary program proposals, the proposal 
 needs to be independently approved by the faculty of each of the Schools involved.
 
-
-===== PAGE 4 =====
-4 | P a g e 
+=== PAGE 4 ===
 b. If approved by the School (or each of the Schools), the Dean of the School which would serve 
 as the program’s administrative home will submit the proposal (together with all the 
 accompanying documents mentioned in 4.3) to the Deans’ Council. 
@@ -202,9 +193,7 @@ process, the proposal will be returned to the faculty of the involved School or 
 updated and resubmitted according to the procedures detailed in 4.5.a to 4.5.e. Faculty must 
 thoroughly consider the reasons stated for the rejection of their proposal during this process.
 
-
-===== PAGE 5 =====
-5 | P a g e 
+=== PAGE 5 ===
 5. Modification of Degree Programs 
  
 5.1 Initiation, Preparation and Submission of a Proposal for Program Modification 
@@ -254,9 +243,7 @@ received). The latter step becomes redundant if the Dean is part of the group of
 a. The proposal for program modification needs to be approved by the faculty of the respective 
 School. Approval is granted if the proposal is accepted by a majority of the School’s faculty. In
 
-
-===== PAGE 6 =====
-6 | P a g e 
+=== PAGE 6 ===
 the case of a multidisciplinary program, the proposal needs to be independently approved by 
 the faculty of each of the Schools involved. 
 b. In case of minor modifications, the School’s (or Schools’) approval or rejection is the final 
@@ -306,9 +293,7 @@ decide whether they will uphold, modify or withdraw the proposal.
 d. Modification of the proposal will result in an updated statement on the rationale of the proposal 
 and/or in the compilation of additional supporting documents, all of which must be submitted to
 
-
-===== PAGE 7 =====
-7 | P a g e 
+=== PAGE 7 ===
 the stakeholders mentioned in 6.1.b, who will either uphold or adapt their previous feedback 
 letters. After appropriate consideration of the feedback letters received, the group of proposers 
 will make a final decision on whether they will uphold or withdraw the proposal. 
@@ -358,9 +343,7 @@ University’s Blackboard Course Facilitators.
 particular attention must be paid to the attainability of program objectives and/or stated learning 
 outcomes via an online or blended teaching, learning and assessment format. Proposers are
 
-
-===== PAGE 8 =====
-8 | P a g e 
+=== PAGE 8 ===
 strongly recommended to consult ADA University’s Online Education and Assessment Regulations 
 during the process of program or course development or modification. 
 

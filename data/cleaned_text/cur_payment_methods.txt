@@ -1,6 +1,4 @@
-
-
-===== PAGE 1 =====
+=== PAGE 1 ===
 NO. 4140 CURRENT PAYMENT METHODS 
  
 4141. Current Payment Methods ..............................................................................................2 
@@ -12,8 +10,6 @@ Effective Date: January 30, 2024
 ADA University 
 Policy and Procedures
 
-
-===== PAGE 2 =====
 4141. Current Payment Methods 
 1.1. Students have several options for making payments: 
 1.1.1. Students can make a payment through an online gateway. Gateway for online 
@@ -34,8 +30,6 @@ ADA University
 Policy and Procedures 
 Current Payment Methods
 
-
-===== PAGE 3 =====
 4142. Annex 1 – Bank Accounts of ADA University 
 
 BENEFICIARY: “ADA” University

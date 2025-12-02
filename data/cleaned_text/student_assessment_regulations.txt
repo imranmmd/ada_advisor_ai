@@ -1,8 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
- 
+=== PAGE 1 ===
 2.4.2 STUDENT ASSESSMENT REGULATIONS 
 
 1. Purpose 
@@ -47,10 +43,7 @@ The term Assessment Method comprises both assessment tasks and assessment types.
 A Capstone Project is an independent group study assignment that is to be completed in the second 
 year of a Master degree program.
 
-
-===== PAGE 2 =====
-2 | P a g e 
- 
+=== PAGE 2 ===
 Academic Integrity is a fundamental guiding principle according to which every educational and research 
 activity is to be conducted in an honest, responsible and altogether ethical manner. Most importantly, 
 this principle precludes any kind of cheating and plagiarism as well as the awarding of grades and 
@@ -100,10 +93,7 @@ The Cumulative GPA (CGPA) indicates a student’s overall academic performance i
 It is calculated in the same manner as the Term Grade Point Average, but includes all units of study 
 attempted by the time of calculation. Grades from approved transfer courses taken at another institution
 
-
-===== PAGE 3 =====
-3 | P a g e 
- 
+=== PAGE 3 ===
 do not count towards a student’s cumulative GPA at ADA University. Neither do units of study evaluated 
 on a Pass/Fail basis. The cumulative GPA only includes the highest grade earned in a repeated course. 
  
@@ -152,10 +142,7 @@ outset of a course. Diagnostic assessments can also be used before and after a p
 learning in order to evaluate the (individual and collective) learning progress of students in a 
 course or unit of learning. Assessment tasks that serve this purpose include quizzes, mind
 
-
-===== PAGE 4 =====
-4 | P a g e 
- 
+=== PAGE 4 ===
 maps, in-class discussions, written exams, learning diaries and other forms of individual 
 reflection. 
 d. Formative Assessment: This type of assessment is conducted during a process of learning. It 
@@ -206,10 +193,7 @@ life contexts and scenarios as well as the conditions and requirements of profes
 environments. 
 j. Clarity: Assessment tasks must be phrased in an unambiguous and intelligible manner.
 
-
-===== PAGE 5 =====
-5 | P a g e 
- 
+=== PAGE 5 ===
 k. Adequacy: Assessment tasks must be appropriate in length and correspond to the level of 
 courses and students. 
 l. Inclusiveness: Assessment tasks should be equitable and not disadvantage any group of 
@@ -258,10 +242,7 @@ rules and proceedings, the latter will always prevail.
 a. The following rules and proceedings apply to all in-class examinations at the undergraduate and 
 graduate level.
 
-
-===== PAGE 6 =====
-6 | P a g e 
- 
+=== PAGE 6 ===
 b. Students must be on time for all in-class examinations. Students who arrive late for an exam 
 may be admitted to the examination room, but they will not be given any additional time to 
 compensate for their delay. 
@@ -311,10 +292,7 @@ Committee. Penalties for misconduct will be (1) zero points for the exam, (2) an
 Fail (FX) grade for the entire course, and/or (3) further disciplinary action taken by the Honor 
 Committee. In case the student is in his/her first semester at ADA University (Forgiveness
 
-
-===== PAGE 7 =====
-7 | P a g e 
- 
+=== PAGE 7 ===
 Period), and if it is his/her first violation of the Honor Code, the student will only be assigned 
 zero points for the respective exam without any further consequences. 
 s. The teacher of a course may define examination rules and proceedings in addition to those 
@@ -365,10 +343,7 @@ extension may be granted only for compelling reasons. In no case will assignment
 for submission after those assignments that had been handed in on time have been graded and 
 returned to students
 
-
-===== PAGE 8 =====
-8 | P a g e 
- 
+=== PAGE 8 ===
 5.4 Oral Examination Rules and Proceedings 
 a. The following rules and proceedings apply to all oral examinations at the undergraduate and 
 graduate level. Specific rules for the oral defense of Master Theses are delineated below in 6.11. 
@@ -417,10 +392,7 @@ equitably in examinations. This rule applies to all in-class and take-home exami
 b. It is the shared responsibility of teachers, Schools, ADA University’s Student Academic Support 
 Services, and the University’s Information Technology Services to create equal opportunities for
 
-
-===== PAGE 9 =====
-9 | P a g e 
- 
+=== PAGE 9 ===
 all students and to ensure that examinations are conducted in an inclusive and equitable 
 manner. 
 c. Measures that may be taken include (but are not limited to) extending the time allowed for the 
@@ -470,10 +442,7 @@ their work and their overall performance on a course. It should support students
 their strengths as well as areas for improvement without undermining their confidence and 
 motivation. Teachers will furthermore post an interim grade on Blackboard Learn by the
 
-
-===== PAGE 10 =====
-10 | P a g e 
- 
+=== PAGE 10 ===
 beginning of the seventh week of classes (Fall semester and Spring semester) and no later than 
 mid-term (Summer term). 
 i. Students are expected to collect their graded work prior to any subsequent assessment task in 
@@ -524,10 +493,7 @@ f. If the Program Director rejects the student’s request for regrading, or if 
 regrading has not been undertaken adequately and/or equitably, the student may submit a 
 formal complaint to the Dean of the respective School (using the Student Appeal and Grievance
 
-
-===== PAGE 11 =====
-11 | P a g e 
- 
+=== PAGE 11 ===
 Form) within 3 working days of the request’s rejection. The Dean will forward the complaint to 
 the School’s Grievance Committee (together with all the information pertaining to the case), 
 which will make a final decision on whether the assignment shall be regraded or not. Both the 
@@ -563,30 +529,20 @@ attendance.
  
 Weeks per Session 
 Number of Classes per Course 
-Number of Excused Absences 
-30 
-2 
-7.5 Weeks 
-30 / 38 
-2 
-52 
-4 
-45 
-4 
-15 Weeks 
-60 
-4 
-94 
-8 
- 
+Number of Excused Absences
+
+=== PAGE 12 ===
+7.5 Weeks
+
+=== PAGE 13 ===
+15 Weeks
+
+=== PAGE 14 ===
 g. Individual teachers may have additional attendance requirements. It is the student’s 
 responsibility to be thoroughly familiar with these requirements and to consult the teacher in 
 case of questions.
 
-
-===== PAGE 12 =====
-12 | P a g e 
- 
+=== PAGE 15 ===
 6.4 Grading System 
 a. Grading at ADA University is based on the criterion-referenced grading systems commonly used 
 in the U.S. education system (see the following table and the table in 6.5). 
@@ -634,8 +590,9 @@ F
 00-59 
 Academic Fail 
 FX 
-0.00 
-00 
+0.00
+
+=== PAGE 16 ===
 Administrative Fail 
  
 b. The following grade descriptions serve to define the grade descriptors mentioned in the table 
@@ -661,10 +618,7 @@ minimum assessment criteria of the course.
 h. Administrative Fail is assigned if a student did not satisfy the class attendance requirements 
 delineated in 6.3, and/or if the student violated the University’s Honor Code.
 
-
-===== PAGE 13 =====
-13 | P a g e 
- 
+=== PAGE 17 ===
 6.5 Further Grades 
 a. The following table provides an overview of further grades and grade descriptors used at ADA 
 University. 
@@ -716,10 +670,7 @@ violated the University’s Honor Code.
 h. Incomplete in Pass/Fail Course (not included in TGPA and CGPA) indicates that a student has 
 not fully completed all the work required to finish a Pass/Fail course.
 
-
-===== PAGE 14 =====
-14 | P a g e 
- 
+=== PAGE 18 ===
 i. Audit (no credit and not included in TGPA and CGPA) is assigned if a student has attended a 
 course but does not wish to receive credit for this course. It presupposes that the student has 
 satisfied the class attendance requirements delineated in 6.3. Students who wish to audit a 
@@ -769,10 +720,7 @@ grade.
 b. Undergraduate students may select no more than two Pass/Fail courses during their studies. 
 c. Graduate students may select no more than one Pass/Fail course during their studies.
 
-
-===== PAGE 15 =====
-15 | P a g e 
- 
+=== PAGE 19 ===
 d. Functional Enablers, Master Theses and Capstone Projects are excluded from the rules 
 delineated in 6.8.a to 6.8.c. 
  
@@ -823,10 +771,7 @@ reapplying to ADA University. All other courses are mandatorily waived.
 n. Grades of failed courses that are subsequently substituted or waived are recorded on the 
 student’s transcript, but they are excluded from all GPA calculations.
 
-
-===== PAGE 16 =====
-16 | P a g e 
- 
+=== PAGE 20 ===
 o. Withdrawal from a course counts as a repetition of a course, but it is excluded from all GPA 
 calculations. A Withdrawal (W) cannot replace a grade assigned in any prior or later attempt of 
 the same course. 
@@ -877,10 +822,7 @@ Pass/Fail basis (P or FZ; exceptions are specified in the descriptions of the re
 programs). Grades are assigned by the members of the Defense Committee (which includes the 
 supervisor of the thesis) for the written Master Thesis and for the oral defense of the thesis.
 
-
-===== PAGE 17 =====
-17 | P a g e 
- 
+=== PAGE 21 ===
 A student must pass both the Master Thesis and the oral defense in order to successfully 
 complete the entire Master Thesis project. The Defense Committee may request minor revisions 
 of the thesis before assigning a final grade, which will be assigned by the majority of the 
@@ -927,10 +869,7 @@ c. Latin honors are awarded based on students’ cumulative GPA. To be eligible 
 upon graduation, undergraduate and graduate students must achieve a certain minimum 
 cumulative GPA. Latin honors are awarded for the following achievements:
 
-
-===== PAGE 18 =====
-18 | P a g e 
- 
+=== PAGE 22 ===
 Latin Honors 
 Cumulative GPA 
 Summa Cum Laude 

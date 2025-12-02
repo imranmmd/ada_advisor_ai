@@ -1,6 +1,4 @@
-
-
-===== PAGE 1 =====
+=== PAGE 1 ===
 NO. 4210 MERIT-BASED SCHOLARSHIPS FOR UNDERGRADUATE 
 STUDENTS 
  
@@ -15,8 +13,6 @@ Effective Date: September 1, 2022
 ADA University 
 Policy and Procedures
 
-
-===== PAGE 2 =====
 4211. Merit-Based Scholarships for Incoming Undergraduate Students 
 1.1. These scholarships are awarded to incoming undergraduate students for their 
 outstanding academic performance prior to being enrolled at ADA University. 
@@ -55,8 +51,6 @@ Policy and Procedures
 Merit Based Scholarships for 
 Undergraduate Students
 
-
-===== PAGE 3 =====
 2.9. Students are eligible to earn only one scholarship and/or exemption per semester. 
 The scholarship and/or exemption which provides the highest tuition waiver for a 
 student is awarded each semester. 
@@ -72,8 +66,6 @@ presented in Annex 2.
 ADA University 
 Policy and Procedures
 
-
-===== PAGE 4 =====
 4213. Annex 1 – Merit-Based Scholarships for Incoming Undergraduate Students
 Who are eligible?
 Amount
@@ -137,8 +129,9 @@ Board, no later than students register to the
 university
 Incoming undergraduate students to the Bachelor of Science in 
 Mathematics and Bachelor of Science in Economics programs who are 
-graduates of ADA School and have CGPA of 4.00 at the end of Grade 
-11
+graduates of ADA School and have CGPA of 4.00 at the end of Grade
+
+=== PAGE 2 ===
 100% 
 tuition 
 waiver 
@@ -193,8 +186,6 @@ Policy and Procedures
 Merit Based Scholarships for 
 Undergraduate Students
 
-
-===== PAGE 5 =====
 4214. Annex 2 – Merit-Based Scholarships for Returning Undergraduate 
 Students 
 Who are eligible?

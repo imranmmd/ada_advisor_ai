@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
+=== PAGE 1 ===
 3.4.2 FACULTY RESEARCH AND 
 DEVELOPMENT FUND AND REGULATIONS 
 
@@ -47,9 +44,7 @@ cover costs associated with:
 specialized software and/or databases, purchasing research-related materials and/or 
 supplies, collecting and analyzing data);
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 (2) publication (for example editing, proofreading, open access fees); 
 (3) conference presentations (travel and registration fees). Conference travel awards are 
 intended to defray the cost of travel to professional conferences dedicated to the field of a 
@@ -100,9 +95,7 @@ Research and Development Fund.
 4.5 Research Seminar Funds 
 a. Each School receives funding of 5,000 AZN per year for the organization of research seminars.
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 b. These funds can be used to invite faculty members from other universities in order to give a 
 research presentation or offer a lecture or workshop to students of ADA University and an 
 external audience. 
@@ -151,9 +144,7 @@ Vice Rector of Academic Affairs.
 5.5 The Evaluation Committee assesses and scores each application. The purpose of the evaluation 
 process is to assess applications in relation to the objectives mentioned in 5.2. For this purpose,
 
-
-===== PAGE 4 =====
-4 | P a g e 
+=== PAGE 4 ===
 each application is evaluated against a set of detailed selection criteria that will be included in each 
 call for applications. For each selection criterion, applications will receive a certain score. 
 5.6 Those applicants with the highest overall scores will receive the ERASMUS+ mobility grants that 

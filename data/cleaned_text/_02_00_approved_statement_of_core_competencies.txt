@@ -1,10 +1,4 @@
-
-
-===== PAGE 1 =====
-Doc No: QA-QAA-09 
-Version: 02.00 
-Date Effective: 01 Nov 2024 
- 
+=== PAGE 1 ===
 STATEMENT OF CORE COMPETENCIES 
 
 1. Purpose 
@@ -52,9 +46,7 @@ digital technologies. This competence furthermore involves employing digital tec
 ductively and in a deliberate, safe and ethical manner for purposes such as communication, 
 collaboration, or the creation of new content.
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 4.3 Competence 2: Critical Thinking describes the ability to independently evaluate information and 
 draw objective conclusions based on well-founded arguments and/or criteria. It involves inquir-
 ing into the accuracy and relevance of information, making reasoned judgements, and reflecting 

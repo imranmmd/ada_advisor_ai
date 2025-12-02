@@ -1,10 +1,4 @@
-
-
-===== PAGE 1 =====
-Doc No: QA-QAA-15 
-Version: 02.00 
-Date Effective: 29 May 2025 
- 
+=== PAGE 1 ===
 GRADUATE DEGREE REGULATIONS 
 
 1. Purpose 
@@ -53,9 +47,7 @@ enrollment for a specific graduate degree program at ADA University. Students ma
 tailor-make their own degree requirements by selecting and combining requirements from 
 different catalogues.
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 4.2 Program and Graduation Requirements 
 a. Students must complete at least 90 credit hours (in regular graduate degree programs) or 
 76 credit hours (in practice-based degree programs such as the MBA in Finance) with a 

@@ -1,6 +1,4 @@
-
-
-===== PAGE 1 =====
+=== PAGE 1 ===
 ADA University 
 Policy and Procedures 
 No. 4260 
@@ -10,15 +8,13 @@ Effective Date: June 13, 2025
 NO. 4260 HEROES TRIBUTE SCHOLARSHIP 
 4261. Heroes Tribute Scholarship ................................................................................................ 2
 
-
-===== PAGE 2 =====
 ADA University 
 Policy and Procedures 
 Heroes Tribute Scholarship 
 ADA University 
 Policy and Procedures 
 Heroes Tribute Scholarship 
- 
+=== PAGE 2 === 
 4261. Heroes Tribute Scholarship 
 1.1. Incoming and returning students can apply to Heroes Tribute Scholarship during their 
 tenure at ADA University. 
@@ -52,7 +48,5 @@ from the admission term by using Heroes Tribute Scholarship.
 1.7. In case of prolongation of the study for documented medical emergencies and/or other 
 personal issues out of students’ control, Heroes Tribute Scholarship may be awarded 
 for one additional term only.
-
-
-===== PAGE 3 =====
+=== PAGE 3 ===
 1.8. The summer term fee is not covered by Heroes Tribute Scholarship.

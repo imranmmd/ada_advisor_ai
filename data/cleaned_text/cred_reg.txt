@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
+=== PAGE 1 ===
 1.4.9 CREDIT REGULATIONS 
 
 1. Purpose 
@@ -47,9 +44,7 @@ to demonstrate upon the completion of a specific process of learning.
 3. Workload is defined as an estimation of the time a student typically needs to complete all learning 
 activities required to achieve expected learning outcomes. Learning activities include lectures and
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 seminars, projects, practical work and internships, as well as independent study activities and 
 examinations. Workload is therefore not calculated based on contact hours or class time alone. 
 4. Contact Hour or Class Time is defined as a specific period of time students spend on activities guided 
@@ -99,9 +94,7 @@ Project, which usually covers 18 credit hours. Exceptions are the MBA program, w
 1 Against the high-quality background of U.S. university degrees, ADA University usually accepts credits earned at U.S. institutions of 
 higher education based on a conversion rate of 1 U.S. semester credit hour being equivalent to 2 ECTS.
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 which requires 76 credit hours (including the Independent Study Project). Translated into the 
 U.S. semester credit hour system, a typical Master’s degree program at ADA University consists 
 of approximately 67.5 semester credit hours. Further requirements are detailed in ADA 
@@ -151,9 +144,7 @@ Undergraduate Degree Regulations) and may not exceed 30 credits (if they are to 
 from an international institution) or 12 credits (if they are to be transferred from an Azerbaijani 
 institution). Courses proposed for transfer must have been completed with a grade of C or better
 
-
-===== PAGE 4 =====
-4 | P a g e 
+=== PAGE 4 ===
 (after conversion to ADA University’s grading scale) and must have been completed no more 
 than 3 years prior to the beginning of the semester for which the student is seeking admission 
 to ADA University. 
@@ -204,9 +195,7 @@ b. Students may study for one semester at another institution if they wish to tr
 at that institution to ADA University. They may reapply for a second semester at an international 
 partner institution, but they will not be able to transfer credits earned during that period (for
 
-
-===== PAGE 5 =====
-5 | P a g e 
+=== PAGE 5 ===
 details on the transfer of credit, see chapter 5.5 below). This may result in a delayed graduation 
 date. Priority will be given to those students who have not yet taken part in an exchange 
 program. 
@@ -256,9 +245,7 @@ Agreement Form) in consultation with the student’s Academic Advisor and that m
 confirmed by the Office of Admissions and Student Records. Confirmation is required for each 
 course and for the number of credits proposed for transfer to ADA University. Students may
 
-
-===== PAGE 6 =====
-6 | P a g e 
+=== PAGE 6 ===
 additionally be requested to complete a second learning agreement from the partner institution 
 (this is obligatory for ERASMUS+ exchange programs). 
 n. After having received an acceptance letter from their prospective host institution, it is the 

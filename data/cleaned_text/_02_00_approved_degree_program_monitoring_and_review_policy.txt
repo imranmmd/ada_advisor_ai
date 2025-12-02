@@ -1,10 +1,4 @@
-
-
-===== PAGE 1 =====
-Doc No: QA-QAA-05 
-Version: 02.00 
-Date Effective: 29 May 2025 
- 
+=== PAGE 1 ===
 DEGREE PROGRAM MONITORING AND 
 REVIEW POLICY 
 
@@ -53,9 +47,7 @@ improvement of a degree program and of all its major components, aspects and out
 objective is to ensure that the program is up-to-date and thus continues (1) to offer education of high 
 quality, (2) to align with the University’s mission and strategic goals and with relevant institutional
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 and external requirements and standards, and (3) to address the needs of students, the labor 
 market, and society as a whole. 
 
@@ -107,9 +99,7 @@ decide to assess any component, aspect or outcome of a program whenever it deems
 necessary. Members of the respective School and/or program as well as further University 
 members referred to in chapter 5.1.a of the Degree Program Development and Modification
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 Policy may make suggestions to the Committee for the assessment of such components, 
 aspects or outcomes. 
 e. It is the responsibility of the Office of Quality Assurance and Accreditation to provide Schools 
@@ -162,9 +152,7 @@ inform the Vice Rector of Academic Affairs about the inititated review of the pr
 c. The Committee, and thus the process of program review, needs to incorporate an external 
 perspective, which consists of at least one faculty member from a well-reputed institution of
 
-
-===== PAGE 4 =====
-4 | P a g e 
+=== PAGE 4 ===
 higher education, at least one representative each from the public and the private sector, 
 and at least one graduate of the respective program. Further external and internal actors 
 (such as one or more academic staff members from a well-reputed institution of higher 
@@ -217,9 +205,7 @@ a. The results of program assessment must be presented in a comprehensive self-s
 b. The self-study report serves the purpose of outlining a program’s strengths and 
 weaknesses, and it includes a detailed plan for its improvement.
 
-
-===== PAGE 5 =====
-5 | P a g e 
+=== PAGE 5 ===
 c. The self-study report must cover the areas and aspects referred to above in 6.1.d to 6.1.f 
 and clearly specify all identified shortcomings. It must in particular reflect and specify the 
 input and feedback received from the external and internal reviewers referred to in 6.1.c. 
@@ -271,9 +257,7 @@ f. The implementation of the improvement plan may require to involve further uni
 University (such as the Office of Admissions and Student Records or the Student Academic 
 Support Services).
 
-
-===== PAGE 6 =====
-6 | P a g e 
+=== PAGE 6 ===
 g. The Office of Quality Assurance and Accreditation will continue its advisory function, and 
 Schools and/or programs may consult with the Office at any time during the process of 
 improvement plan implemenation. 

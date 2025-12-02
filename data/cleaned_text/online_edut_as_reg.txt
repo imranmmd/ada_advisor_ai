@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
+=== PAGE 1 ===
 2.4.3 ONLINE EDUCATION AND ASSESSMENT 
 REGULATIONS 
 
@@ -47,9 +44,7 @@ based and online teaching and learning activities.
 Entire degree programs or individual courses offered Face-to-Face are classroom-based. They make 
 use of the online mode only for additional student support and to share teaching and learning materials.
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 Synchronous Teaching and Learning describes constellations in which teachers and students engage 
 with specific course content at the same time. It usually refers to scheduled class time during which 
 activities are guided by the teacher. If conducted online, synchronous teaching and learning requires 
@@ -99,9 +94,7 @@ c. The requirements for the specification of learning outcomes delineated in ADA
 Competence and Learning Outcome Specification Policy also apply to programs and courses 
 delivered in the blended or online format.
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 d. The requirements for the delivery of courses are outlined in chapter 5.1 of ADA University’s 
 Curriculum and Course Development Policy. 
  
@@ -151,9 +144,7 @@ c. Students enroll in courses via Banner.
 a. ADA University’s Credit Regulations also apply to all programs and courses offered in an online 
 or blended format.
 
-
-===== PAGE 4 =====
-4 | P a g e 
+=== PAGE 4 ===
 b. The duration of lessons delivered in the online or blended mode corresponds to the duration of 
 face-to-face lessons. Based on the University’s Credit Regulations, 1 contact hour consists of 
 37.5 minutes. 
@@ -203,9 +194,7 @@ microphone, internet connection) is available and working. This rule is based on
 principle that while in-class exams presuppose the physical presence of students, remote 
 exams require a certain technological infrastructure.
 
-
-===== PAGE 5 =====
-5 | P a g e 
+=== PAGE 5 ===
 (2) They are strongly recommended to have a reliable backup internet connection (such as a 
 mobile hotspot). 
 (3) They must have two external webcams and a desk webcam stand available. 
@@ -256,9 +245,7 @@ e. Students are not to wear any kind of headdress that shades or covers their fa
 f. Students must clear the desk or table used for an exam of all materials (such as books and 
 papers) not permitted for the exam.
 
-
-===== PAGE 6 =====
-6 | P a g e 
+=== PAGE 6 ===
 g. Students must ensure that all devices other than the computer or device used for an exam are 
 switched off and placed well out of their reach. This includes (but is not limited to) mobile phones, 
 smart devices and watches as well as additional computers. They must be put face/screen 
@@ -308,9 +295,7 @@ relevant to an exam (including purpose, duration, or question types).
 (2) Display After: This option allows teachers to select the date and time at which the exam 
 will begin and thus be available to students.
 
-
-===== PAGE 7 =====
-7 | P a g e 
+=== PAGE 7 ===
 (3) Displaying Until: This option allows teachers to select the date and time at which an exam 
 will end and close on Blackboard Learn. The time allowed should be appropriate for the 
 exam and thus prevent students from consulting unauthorized materials and from 
@@ -360,9 +345,7 @@ see the tasks and/or questions on their screen.
 confirmation purposes. Pages that are not thus displayed will not count towards the exam 
 grade.
 
-
-===== PAGE 8 =====
-8 | P a g e 
+=== PAGE 8 ===
 (5) After having thus confirmed their exam sheets, students are strictly forbidden to make any 
 changes to their exams. They must scan all the exam sheets and create or combine them 
 into one PDF file, using the application specified by the course’s teacher. Students will then 
@@ -412,9 +395,7 @@ partially restricted during contingency situations.
 a. Any situation in which the regular teaching and learning process is severely disrupted (as 
 indicated in 6.1.a and 6.1.b) may require measures to mitigate its impact on students. Such
 
-
-===== PAGE 9 =====
-9 | P a g e 
+=== PAGE 9 ===
 measures may temporarily adjust regulations pertaining to (for example) class attendance or 
 student assessment. 
 b. Contingency measures should be intended to facilitate the fulfillment of program requirements 

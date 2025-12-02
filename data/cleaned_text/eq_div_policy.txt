@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
+=== PAGE 1 ===
 6.4.1 EQUITY, DIVERSITY AND 
 NON-DISCRIMINATION POLICY 
 
@@ -48,9 +45,7 @@ Inclusion describes the ongoing process of practicing equity and promoting diver
 Inclusiveness describes a responsive and welcoming environment in which all individuals are supported 
 according to their respective needs and thus have the opportunity to fully participate. Such an
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 environment also values diversity and difference and actively strives to integrate individuals from a 
 multitude of backgrounds and contexts. 
  
@@ -100,9 +95,7 @@ b. The principle of non-discrimination presupposes an environment in which every
 participate and develop their full potential. This also requires that everyone is free to express 
 their opinions without undue restrictions.
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 c. The principle of non-discrimination requires that every person is treated with respect. This 
 explicitly precludes harassing behavior, and the University prohibits any form of harassment on 
 its premises, including (but not limited to) sexual harassment and harassment motivated by race, 
@@ -153,9 +146,7 @@ Those members of the Department of Organization and Personnel involved in the in
 evaluation of applications must base their decisions solely on these requirements. The 
 Department will remove all sensitive personal information (such as gender, age, health, or
 
-
-===== PAGE 4 =====
-4 | P a g e 
+=== PAGE 4 ===
 nationality, as well as photos) from those application documents forwarded to the appropriate 
 academic and/or administrative unit(s), who will use these documents to select suitable 
 candidates for job interviews. This selection process, as well as the ensuing job interviews, must 
@@ -206,9 +197,7 @@ on the requirements and procedures outlined in this document.
 m. The University must provide an environment that is free of harassment. It must protect and 
 actively promote a culture of respect by offering trainings on equity, diversity and non-
 
-
-===== PAGE 5 =====
-5 | P a g e 
+=== PAGE 5 ===
 discrimination (see 4.4.b below) and by regularly communicating these values to the members, 
 partners and guests of the University (see 4.4.c below). Its Anti-Discrimination Officer must 
 actively assist those who are (or appear to be) harassed by others. 
@@ -259,9 +248,7 @@ the current policy and its implementation and (if necessary) develop plans for f
 be taken in order to improve its procedures and outcomes. This must take into consideration 
 qualitative and quantitative information received from students, faculty, staff, partners and
 
-
-===== PAGE 6 =====
-6 | P a g e 
+=== PAGE 6 ===
 guests as delineated above in 4.4.d and 4.4.e as well as quantitative data on equity, diversity 
 and (non-)discrimination at the University. 
 
@@ -310,9 +297,7 @@ documents previously mentioned. Before undertaking any legal steps, the Anti-Dis
 Officer and the Honor Committee shall determine whether the occurrence can be solved by 
 mediation.
 
-
-===== PAGE 7 =====
-7 | P a g e 
+=== PAGE 7 ===
 e. The University acknowledges that discrimination and harassment may occur unintentionally and 
 based on internalized and unconscious biases or on misconceptions. If the Anti-Discrimination 
 Officer and the Honor Committee come to the conclusion that this is the case in any occurrence 

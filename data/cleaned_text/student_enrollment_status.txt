@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
+=== PAGE 1 ===
 STUDENT ENROLLMENT STATUS 
  
 Degree Students 
@@ -43,9 +40,7 @@ Non-degree students are given grades for the courses taken at ADA University, re
 according to ADA standards of good academic performance, and provided with academic 
 records.
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 • 
 In case of admission to ADA University degree programs, non-degree students may transfer 
 earned credits according to ADA University credit transfer policy. Such credits can be used for 

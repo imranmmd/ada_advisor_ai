@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
+=== PAGE 1 ===
 3.4.1 STATEMENT ON RESEARCH 
 
 1. Purpose 
@@ -46,9 +43,7 @@ the latest developments in the field (or fields) of research.
 plan. Both the research plan and the outcomes of a project are subject to (internal and/or external) 
 peer review.
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 4.9 Innovation: Research outcomes are substantial and serve to advance knowledge within one or 
 more academic disciplines. 
 4.10 Impact: Research results are published in high impact journals (articles) or with recognized 

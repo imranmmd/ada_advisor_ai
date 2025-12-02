@@ -1,6 +1,4 @@
-
-
-===== PAGE 1 =====
+=== PAGE 1 ===
 ADA University No. 1230 Rev.: 8 
 Policy and Procedures Effective date: July 30, 2018 
 
@@ -13,13 +11,10 @@ Deans of Academic Units ........................................................
 3. 
 Program Director...................................................................................................1
 
-
-===== PAGE 2 =====
 ADA University 
-Policy and Procedures Academic Unit Governance 
- 
-1 | P a g e 
- 
+Policy and Procedures Academic Unit Governance
+
+=== PAGE 2 ===
 1. Faculty Council 
  
  Each academic unit must have at least one faculty council for governance. The faculty of each 

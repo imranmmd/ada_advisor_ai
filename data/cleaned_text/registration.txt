@@ -1,6 +1,4 @@
-
-
-===== PAGE 1 =====
+=== PAGE 1 ===
 Page | 1 
  
 ADA University No. 2900 Rev.: 10 
@@ -35,8 +33,6 @@ Discontinuation of attendance at a class or notification to the instructor is no
 constitute an official drop from all courses. Occupied University housing must be vacated promptly 
 by students who drop all classes.
 
-
-===== PAGE 2 =====
 Page | 2 
  
 ADA University Registration 

@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
+=== PAGE 1 ===
 1.4.4 STATEMENT OF STUDENT 
 OUTCOME IMAGES 
 
@@ -47,9 +44,7 @@ citizens who feel responsible for their country and who contribute to its well-b
 is more, they are professionals who are able and willing to apply their knowledge and skills creatively 
 and in a responsible manner in order to solve problems and develop new and creative ideas. The
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 academic programs at ADA University are designed to allow for a student-centered and project-based 
 teaching and learning process that fosters the professional and civic competencies required for a student 
 to become a high-impact graduate. 

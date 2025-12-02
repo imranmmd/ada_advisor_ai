@@ -1,10 +1,4 @@
-
-
-===== PAGE 1 =====
-Doc No: QA-QAA-08 
-Version: 02.00 
-Date Effective: 01 Nov 2024 
- 
+=== PAGE 1 ===
 CORE COMPETENCE AND LEARNING 
 OUTCOME SPECIFICATION POLICY 
 
@@ -53,9 +47,7 @@ assessed.
 Assessment Criteria delineate precise requirements for the achievement of learning outcomes. 
 These requirements are clearly defined statements of what a student is expected to demonstrate
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 during or at the end of a process of learning in order to have partly or fully achieved a specific 
 learning outcome. They thus provide detailed guidelines for the evaluation of assessment tasks. 
  
@@ -108,9 +100,7 @@ sity’s Degree Program Development and Modification Policy. In the case of dual
 grams, and as set forth in chapters 8.3 and 8.4 of the latter policy, the external perspective will 
 be provided by one or more member(s) of the partner institution.
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 4.8 It is the responsibility of Deans, Associate Deans and Program Directors to ensure that the 
 procedures delineated in this policy are fully implemented and that program objectives, learning 
 outcomes, assessment criteria and grade descriptions are phrased adequately and based on 
@@ -163,9 +153,7 @@ h. If required, the Office of Quality Assurance and Accreditation will support f
 relevant accrediting agencies. Should no such agency exist, learning outcomes for a pro-
 gram will be developed by faculty in close collaboration with the Office.
 
-
-===== PAGE 4 =====
-4 | P a g e 
+=== PAGE 4 ===
 i. Program learning outcomes must be specified in a manner that aligns with the Qualifications 
 Framework for the European Higher Education Area (QF-EHEA) revised in 2018, and the 
 National Qualifications Framework for Lifelong Learning of the Republic of Azerbaijan 
@@ -219,9 +207,7 @@ closely with faculty members from the partner institution. While learning outcom
 programs (including dual degree programs) need to form a well-structured and coherent 
 whole, ADA University, at the same time, acknowledges differences between institutions in
 
-
-===== PAGE 5 =====
-5 | P a g e 
+=== PAGE 5 ===
 terms of their approaches to learning outcomes. As a result, faculty need to be flexible when 
 specifying learning outcomes for dual degree programs. They may need to define relations 
 of equivalence while trying to ensure that the University’s core competencies are fully cov-
@@ -272,9 +258,7 @@ c. Courses may incorporate learning outcomes beyond those defined for the progra
 also means that not all course learning outcomes need to be reflected on the level of the 
 program.
 
-
-===== PAGE 6 =====
-6 | P a g e 
+=== PAGE 6 ===
 d. When developing course learning outcomes throughout a program, faculty must find an ad-
 equate balance between fundamental knowledge-related learning outcomes (that are re-
 quired for the achievement of more advanced learning outcomes), and more advanced 
@@ -327,9 +311,7 @@ c. A School mission is thus a broad statement of the School’s purposes and of 
 nificant competencies that its graduates are expected to acquire during their studies of any 
 of the School’s (degree) programs.
 
-
-===== PAGE 7 =====
-7 | P a g e 
+=== PAGE 7 ===
 d. School missions must also provide further information relevant to students, the general pub-
 lic, and other interested parties. This must at least include information on the School’s scope 
 of program offerings, on School and/or program accreditation (if applicable), and on mem-

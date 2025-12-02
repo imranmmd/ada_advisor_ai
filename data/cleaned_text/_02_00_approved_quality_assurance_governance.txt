@@ -1,10 +1,4 @@
-
-
-===== PAGE 1 =====
-Doc No: QA-QAA-03 
-Version: 02.00 
-Date Effective: 29 May 2025 
- 
+=== PAGE 1 ===
 QUALITY ASSURANCE GOVERNANCE 
 
 1. Purpose 
@@ -51,9 +45,7 @@ mittee of Faculty Affairs, (3) the Deans’ Council, and (4) the University Sena
 come effective. If accepted by the Senate and approved by the Rector, the amended document 
 comes into effect at the date determined by the Senate.
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 5. Organizational Structure 
  
 5.1 Quality Assurance Committee 
@@ -107,9 +99,7 @@ bers of the respective School.
 c. Schools are recommended to include students in their Curriculum and Quality Assurance 
 Committee(s). The latter may also involve external members.
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 d. The procedures for the selection of Curriculum and Quality Assurance Committee members 
 shall be specified by each School. The latter are expected to ensure that the composition of 
 these Committees is assessed at regular and reasonable intervals. 
@@ -162,9 +152,7 @@ uate member of the Committee may only vote on matters related to the undergradua
 dent experience, the graduate member of the Committee only on matters related to the 
 graduate student experience at the University.
 
-
-===== PAGE 4 =====
-4 | P a g e 
+=== PAGE 4 ===
 6.2 Curriculum and Quality Assurance Committees 
 a. All Curriculum and Quality Assurance Committees shall meet as often as the fulfillment of 
 their duties may require. It is the Chairpersons’ responsibility to call meetings whenever 
@@ -217,9 +205,7 @@ University Senate for the current document’s improvement (if any) to facilitat
 sessment of the University’s quality assurance structures and processes as outlined in 
 chapter 8 below.
 
-
-===== PAGE 5 =====
-5 | P a g e 
+=== PAGE 5 ===
 (3) It shall oversee the development and/or modification of degree programs (as outlined 
 in chapters 4.3 and 5.1 of the University’s Degree Program Development and Modifi-
 cation Policy), of curricula and courses (see chapter 4.1 of the Curriculum and Course 
@@ -272,9 +258,7 @@ troduce concerns and propositions arising from these areas. They furthermore rep
 sent the perspective of the University’s leadership and shall ensure that the work of the 
 Committee is aligned with the strategic goals and development of the University.
 
-
-===== PAGE 6 =====
-6 | P a g e 
+=== PAGE 6 ===
 (5) The Director of Quality Assurance and Accreditation contributes the perspective and 
 interests of internal and external quality assurance. He/she is responsible to ensure 
 that the activities of the Quality Assurance Committee and the Office of Quality Assur-
@@ -328,9 +312,7 @@ be allocated the tasks of designing and developing curricula and courses (see ch
 level of programs and courses (see chapter 4.2 of the Core Competence and Learning 
 Outcome Specification Policy), and of developing and modifying degree programs (see
 
-
-===== PAGE 7 =====
-7 | P a g e 
+=== PAGE 7 ===
 chapters 4.3 and 5.1 of the Degree Program Development and Modification Policy). 
 This includes the Foundation Program (see chapter 4.1 of the Foundation Program 
 Regulations) and the EAPP Program (see chapter 5.1 of the English for Academic and 
@@ -382,9 +364,7 @@ it is responsible to keep track of and file documents and ensure their publicati
 bution as required by the Document Development and Modification Regulations and the 
 Document Format and Control Regulations.
 
-
-===== PAGE 8 =====
-8 | P a g e 
+=== PAGE 8 ===
 d. The Office ensures that the University’s quality assurance mechanisms are aligned with 
 relevant international and national frameworks defining standards for academic quality, in-
 cluding the Standards and Guidelines for Quality Assurance in the European Higher Educa-
@@ -437,9 +417,7 @@ Academic Affairs and to the Quality Assurance Committee.
 8.1 Assessing the appropriateness and effectiveness of the University’s quality assurance struc-
 tures and processes is the responsibility of the University Senate.
 
-
-===== PAGE 9 =====
-9 | P a g e 
+=== PAGE 9 ===
 8.2 The Senate shall furthermore evaluate the annual report received from the Quality Assurance 
 Committee as outlined above in chapter 7.1.k. The Senate reserves the right to make recom-
 mendations on the Committee’s activities.

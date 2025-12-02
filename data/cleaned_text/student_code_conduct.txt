@@ -1,8 +1,4 @@
-
-
-===== PAGE 1 =====
-1 
-
+=== PAGE 1 ===
 Student  Code  of  Conduct  
   
 ADA  University  as  an  educational  institution  has  a  set  of  standards,  attributes  and  
@@ -37,9 +33,7 @@ national  law,  and  if  student’s  misconduct  negatively  affects  p
 image.  The  University  will  take  any  breach  of  the  Code  of  Conduct  seriously  and  exercise  
 disciplinary  measures  when  required.
 
-
-===== PAGE 2 =====
-2 
+=== PAGE 2 ===
 I. 
 Expected  behavior  
  
@@ -85,9 +79,7 @@ and  whenever  requested  by  the  Security  team;
 bring  in  visitor(s)  to  the  Campus.  All  visitors  and  guests  must  register  in  accordance  with  
 the  Guest  Policy  and  General  Administrative  rules  of  the  University  in  advance  and
 
-
-===== PAGE 3 =====
-3 
+=== PAGE 3 ===
 obtain  a  visitor  pass  at  the  Welcome  Center  before  they  may  enter  the  Campus  (Student  
 Guest  Request  Form  is  available  under  Policies  section  on  the  official  website  of  ADA  
 University);  
@@ -141,9 +133,7 @@ email  accounts)  or  of  the  University;
 2.13. Invasion  and  abuse  of  fellow  students’,  faculty,  staff  and  University  administration  email  
 accounts  and  personal  social  media  accounts;
 
-
-===== PAGE 4 =====
-4 
+=== PAGE 4 ===
 2.14. Damaging  and  attempting  to  destroy  property  of  University,  including  learning  devices,  
 furniture,  equipment,  other  devices  and  services;  
 2.15. Invasion  and  abuse  of  University’s  or  its  partner  organizations’  confidential  materials,  
@@ -187,9 +177,7 @@ body  or  organization  is  expected  to  report  the  case  to  the 
 Services  with  the  utmost  urgency.  This  should  be  done  in  writing,  providing  as  many  
 details  as  possible;
 
-
-===== PAGE 5 =====
-5 
+=== PAGE 5 ===
 2. Such  reports  to  the  Student  Services  are  normally  adequate  for  reporting  purposes.  If  
 taking  reporting  actions,  any  student,  staff  or  faculty  member  should  take  appropriate  
 account  of  the  circumstances  at  the  time;  
@@ -234,9 +222,7 @@ program);  Associate  Vice  Rector  for  Student  Services;  one  studen
 appointed  from  each  currently  serving  Undergraduate  and  Graduate  Student  
 Governments;
 
-
-===== PAGE 6 =====
-6 
+=== PAGE 6 ===
 3. Chair  of  the  Conduct  Committee  ensures  smooth  and  fare  processing  of  hearing  and  
 investigation  procedures  with  no  right  of  voting;  
 4. Each  member  of  the  Conduct  Committee  is  required  to  pledge  to  keep  the  matter  under  

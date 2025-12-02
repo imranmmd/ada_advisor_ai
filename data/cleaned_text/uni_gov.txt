@@ -1,6 +1,4 @@
-
-
-===== PAGE 1 =====
+=== PAGE 1 ===
 ADA University No. 1200 Rev.: 8 
 Policy and Procedures Effective date: July 30, 2018 
 
@@ -19,13 +17,10 @@ Deans Council ..................................................................
 6. 
 Committee on Faculty Affairs ...................................................................................................... 2
 
-
-===== PAGE 2 =====
 ADA University 
-Policy and Procedures University Governance 
- 
-1 | P a g e 
- 
+Policy and Procedures University Governance
+
+=== PAGE 2 ===
 1. Board of Trustees 
 
 The Board of Trustees includes prominent and renowned people. The Board of Trustees 
@@ -63,13 +58,10 @@ members of the Senate include:
 2. Vice Rectors 
 3. Deans
 
-
-===== PAGE 3 =====
 ADA University 
-Policy and Procedures University Governance 
- 
-2 | P a g e 
- 
+Policy and Procedures University Governance
+
+=== PAGE 3 ===
 4. Director of Library 
 5. Director of Admissions and Student Records 
  

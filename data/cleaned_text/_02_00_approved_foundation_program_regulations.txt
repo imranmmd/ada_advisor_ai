@@ -1,10 +1,4 @@
-
-
-===== PAGE 1 =====
-Doc No: QA-QAA-11 
-Version: 02.00 
-Date Effective: 29 May 2025 
- 
+=== PAGE 1 ===
 FOUNDATION PROGRAM REGULATIONS 
 
 1. Purpose 
@@ -54,9 +48,7 @@ d. The development and modification of the Foundation Program and of its curricu
 courses is the responsibility of faculty. It may be delegated to the Curriculum Committee of 
 the Foundation Program.
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 e. Detailed procedures for the development, modification and approval of programs, curricula 
 and courses are outlined in the University’s Degree Program Development and Modification 
 Policy and in its Curriculum and Course Development Policy. 

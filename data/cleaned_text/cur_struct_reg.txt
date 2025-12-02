@@ -1,7 +1,4 @@
-
-
-===== PAGE 1 =====
-1 | P a g e 
+=== PAGE 1 ===
 1.4.6 CURRICULUM STRUCTURE 
 AND REGULATIONS 
 
@@ -44,9 +41,7 @@ program offered at ADA University.
 Functional Enablers: These are courses that aim to develop core study- and work-related skills. 
 Functional Enablers cover IT skills, but also internships and career strategies.
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 4. Curriculum Regulations 
  
 4.1 Undergraduate Curriculum Regulations 
@@ -96,9 +91,7 @@ across Schools and programs.
 b. Curricula must adhere to the regulations delineated in 4.1 or 4.2 respectively. They must be 
 structured coherently and provide for a logical sequence of courses.
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 c. The following charts exemplify the typical curriculum structure of most of ADA University’s 
 undergraduate and graduate degree programs. 
  
@@ -110,47 +103,42 @@ Course 1
 Course 2 
 Course 3 
 Course 4 
-Course 5 
-1 
-1 
+Course 5
+
 MC 
 MC 
 GE 
 GE 
-GE 
-2 
+GE
+
 MC 
 MC 
 GE 
 GE 
 GE 
  
-Summer 
- 
-2 
-3 
+Summer
+
 MC 
 MC 
 MC 
 GE 
-GE 
-4 
+GE
+
 MC 
 MC 
 MC 
 GE 
 GE 
  
-Summer 
- 
-3 
-5 
+Summer
+
 MC 
 MC 
 MC 
 FE 
-EN 
-6 
+EN
+
 MC 
 MC 
 MC 
@@ -159,16 +147,14 @@ EN
  
 Summer 
  
-Internship 
- 
-4 
-7 
+Internship
+
 MC 
 MC 
 TE 
 TE 
-FE 
-8 
+FE
+
 MC 
 MC 
 TE 
@@ -179,24 +165,22 @@ Component
 Code 
 Credit Hours 
 General Education 
-GE 
-60 
+GE
+
 Major Core 
-MC 
-120 
+MC
+
 Technical Elective 
-TE 
-24 
+TE
+
 Free Elective 
-FE 
-24 
+FE
+
 Functional Enabler 
-EN 
-12 
-Total 
- 
-240 
- 
+EN
+
+Total
+
 5.3 Graduate Curriculum Structure 
  
 Year 
@@ -204,27 +188,24 @@ Semester
 Course 1 
 Course 2 
 Course 3 
-Course 4 
-1 
-1 
+Course 4
+
 MC 
 MC 
-MC 
- 
-2 
+MC
+
 MC 
 MC 
 MC 
 
 Summer 
 TE
-2 
-3 
+
 MC 
 MC 
 MC 
-IS 
-4 
+IS
+
 TE 
 TE 
 IS 
@@ -233,14 +214,12 @@ Component
 Code 
 Credit Hours 
 Major Core 
-MC 
-54 
+MC
+
 Technical Elective 
-TE 
-18 
+TE
+
 Independent Study 
-IS 
-18 
-Total 
- 
-90
+IS
+
+Total

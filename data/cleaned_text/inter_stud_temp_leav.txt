@@ -1,6 +1,4 @@
-
-
-===== PAGE 1 =====
+=== PAGE 1 ===
 ADA University 
  No. 3000 
 Rev.: 10 
@@ -39,12 +37,9 @@ granted. Students must request the leave no later than the end of add/drop perio
 which the leave will begin. 
 The Temporary Leave becomes void if the student attends any domestic or foreign college or 
 university during the period of leave, unless the student obtains a Permit to Study at Another 
-Institution or a Medical Permit to Study from the academic unit. 
+Institution or a Medical Permit to Study from the academic unit.
 
-1 | P a g e
-
-
-===== PAGE 2 =====
+=== PAGE 2 ===
 ADA University 
  Policy and Procedures 
 Interruption of Studies Due to Temporary Leaves 
@@ -73,5 +68,4 @@ In the event of a personal tragedy or trauma, students may need to coordinate al
 arrangements to complete coursework. Students or their authorized representative may contact the 
 academic unit. If students think it is not in their best interest to complete the semester or to return to 
 campus the next semester, they may elect to take a Temporary Leave or separate from the 
-University. 
-2 | P a g e
+University.

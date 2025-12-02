@@ -1,6 +1,4 @@
-
-
-===== PAGE 1 =====
+=== PAGE 1 ===
 ADA University No. 1010 Rev.: 5 
 Policy and Procedures Effective date: July 21, 2017 
 
@@ -10,13 +8,10 @@ Subject: The University’s Name, Identification and Symbols
 3. ADA Logo ............................................................................................................................................. 2 
 4. ADA Anthem ......................................................................................................................................... 2
 
-
-===== PAGE 2 =====
 ADA University 
-Policy and Procedures The University’s Name, Identification and Symbols 
- 
-1 | P a g e 
- 
+Policy and Procedures The University’s Name, Identification and Symbols
+
+=== PAGE 2 ===
 1. Name 
 The name of the university is ADA University. 
 The name of the university shall not be used in the name of any other corporation, association, 
@@ -45,13 +40,10 @@ The four lines of blue represent Four Pillars of ADA: Global Citizenship, Innova
 Social Responsibility and Thriving Location. Standing tall on top of these four pillars, ADA thrives and 
 reinvents itself in perpetuity.
 
-
-===== PAGE 3 =====
 ADA University 
-Policy and Procedures The University’s Name, Identification and Symbols 
- 
-2 | P a g e 
- 
+Policy and Procedures The University’s Name, Identification and Symbols
+
+=== PAGE 3 ===
 3. ADA Logo 
 Symbol of The Truth, Knowledge, Innovation, Loyalty and Communication 
 ADA logo embodies a reflection of memory in innovation. Inspiration has come from a belief in 
@@ -81,13 +73,10 @@ Together, we will find the truth, master the knowledge and evolve with innovatio
 ADA-nın varlığı 
 Biz elmi, təhsili uca tutmuşuq,
 
-
-===== PAGE 4 =====
 ADA University 
-Policy and Procedures The University’s Name, Identification and Symbols 
- 
-3 | P a g e 
- 
+Policy and Procedures The University’s Name, Identification and Symbols
+
+=== PAGE 4 ===
 Yorulmaq sözünü tam unutmuşuq. 
 Gör neçə ölkəyə körpü qurmuşuq?! 
 Tükənməz gəncliyin əzmkarlığı, 
@@ -121,13 +110,10 @@ At the crossroads of East and West,
 United we stand, strong we emerge 
 Breaking barriers on the way to the best,
 
-
-===== PAGE 5 =====
 ADA University 
-Policy and Procedures The University’s Name, Identification and Symbols 
- 
-4 | P a g e 
- 
+Policy and Procedures The University’s Name, Identification and Symbols
+
+=== PAGE 5 ===
 Out pours love of life, we surge 
 Toward passion for learning at ADA! 
 Lyrics of ADA United are written by Elnur Imanbayli, BA 2016 student. The music was composed 

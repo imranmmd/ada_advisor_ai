@@ -1,10 +1,4 @@
-
-
-===== PAGE 1 =====
-Doc No: QA-QAA-04 
-Version: 02.00 
-Date Effective: 29 May 2025 
- 
+=== PAGE 1 ===
 ACADEMIC QUALITY ASSURANCE POLICY 
 
 1. Purpose 
@@ -54,9 +48,7 @@ hancement that is completed within a predefined timeframe and that is regularly 
  
 A Quality Standard is an established norm that outlines general criteria for excellence.
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 Quality Requirements are clearly specified criteria that must be met in order to achieve excellence. 
 
 4. General Provisions 
@@ -106,9 +98,7 @@ quality assurance are regulated in chapter 8 of its Quality Assurance Governance
 6.1 This area of the current policy provides requirements that need to be met by ADA University’s 
 framework for internal quality assurance as well as requirements for external quality assurance.
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 6.2 Quality Standards: 
 a. Quality assurance at ADA University serves its mission and vision. The University has a 
 comprehensive quality assurance policy that aligns with its strategic plan and goals. This 
@@ -162,9 +152,7 @@ systematically implemented. They feed into the University’s activities and the
 cess of internal quality assurance. The University annually reports to TKTA on the progress 
 made in terms of improvements and the implementation of recommendations. This progress
 
-
-===== PAGE 4 =====
-4 | P a g e 
+=== PAGE 4 ===
 is taken into consideration when preparing for the following process of institutional (re-)ac-
 creditation. 
 b. The University systematically works towards fulfilling the standards and requirements de-
@@ -216,9 +204,7 @@ and the labor market, and they are up to date and serve the personal, academic a
 fessional development of students. Core competencies are comprehensively covered by all 
 degree programs.
 
-
-===== PAGE 5 =====
-5 | P a g e 
+=== PAGE 5 ===
 d. The University’s Foundation Program and its English for Academic and Professional Pur-
 poses (EAPP) Program are systematically structured. The subjects covered by the Founda-
 tion Program serve to prepare undergraduate students for the further study of their degree 
@@ -272,9 +258,7 @@ Criteria for Institutional Accreditation of Higher Education Institutions (Ali t
 müəssisəsinin institusional akkreditasiyası üzrə qiymətləndirmə meyarları) as defined in cri-
 terion 3 “Teaching and Learning” (“Təlim və Tədris”).
 
-
-===== PAGE 6 =====
-6 | P a g e 
+=== PAGE 6 ===
 l. All programs clearly specify the credits awarded for the completion of a program and its 
 individual courses. 
 m. All programs are designed based on an integrated and coherent course structure that allows 
@@ -327,9 +311,7 @@ faculty input, including at least one annual meeting with students. Schools act 
 back and make suggestions to the Quality Assurance Committee for improvements in terms of 
 student and faculty involvement (if applicable).
 
-
-===== PAGE 7 =====
-7 | P a g e 
+=== PAGE 7 ===
 8. Teaching, Learning and Assessment 
  
 8.1 The area Teaching, Learning and Assessment provides the University’s educational framework. 
@@ -383,9 +365,7 @@ program objectives and program learning outcomes.
 programs and courses. Teachers are generally familiar with existing and relevant teaching, 
 learning and assessment methods.
 
-
-===== PAGE 8 =====
-8 | P a g e 
+=== PAGE 8 ===
 8.13 All courses delivered at the University employ innovative technology where appropriate. This 
 applies to courses offered in the blended or online mode in particular. 
 8.14 Assessment tasks are conducted in a manner that prevents violations of the principle of aca-
@@ -438,9 +418,7 @@ publishers and/or indexed academic journals, and it contributes both to the adva
 knowledge and to the promotion of the University’s reputation. 
 9.11 Research and scholarly activities inform teaching practice at the University.
 
-
-===== PAGE 9 =====
-9 | P a g e 
+=== PAGE 9 ===
 9.12 No mechanism provided by the University that serves to encourage and support faculty in doing 
 research restricts their free pursuit of knowledge. 
 9.13 No faculty member of the University violates the principle of academic integrity. All potential 
@@ -493,9 +471,7 @@ enrollment status at ADA University, covering degree and non-degree as well as f
 and part-time requirements. They sufficiently specify the conditions under which students 
 may take an overload.
 
-
-===== PAGE 10 =====
-10 | P a g e 
+=== PAGE 10 ===
 b. The requirements outlined in the document mentioned above are appropriate and provide a 
 framework that successfully guides students towards the completion of their studies and 
 degree programs. 
@@ -548,9 +524,7 @@ were treated in a fair and transparent manner.
 e. Requirements for the certification of students are clearly outlined in the University’s Degree 
 Audit and Certification Regulations.
 
-
-===== PAGE 11 =====
-11 | P a g e 
+=== PAGE 11 ===
 f. All students of the University who successfully completed all the requirements of their re-
 spective degree program are informed of the completion of the program. They receive a 
 degree certificate (diploma) issued by the Ministry of Science and Education of the Republic 
@@ -602,9 +576,7 @@ professional development of faculty and supporting staff members.
 11.2 Quality Standard: ADA University has a sufficient number of adequately qualified faculty and 
 supporting staff members for all its programs. The recruitment of faculty and supporting staff is
 
-
-===== PAGE 12 =====
-12 | P a g e 
+=== PAGE 12 ===
 based on fair and transparent procedures, and there are effective mechanisms for the regular 
 evaluation and continuous professional development of both faculty and staff members. 
 11.3 Recruitment of Teachers and Supporting Staff: 
@@ -656,9 +628,7 @@ sessed at the end of each academic year (for details, see the University’s Dat
 and Reporting Regulations), and the results of these assessments feed into the overall eval-
 uation of teachers.
 
-
-===== PAGE 13 =====
-13 | P a g e 
+=== PAGE 13 ===
 11.5 Faculty and Staff Development and Support: 
 a. The University has mechanisms that effectively encourage faculty to be innovative in their 
 teaching (including using new technologies when appropriate) and to be actively engaged 
@@ -710,9 +680,7 @@ d. All known cases of discrimination and harassment that may have occurred are a
 addressed and resolved at the University. Appropriate measures were taken to prevent fur-
 ther such instances (as far as is possible).
 
-
-===== PAGE 14 =====
-14 | P a g e 
+=== PAGE 14 ===
 e. The University regularly and systematically gathers anonymized information on the state of 
 equity, diversity and non-discrimination at the University and acts upon this information. 
 f. The University’s Anti-Discrimination Officer is effective in the fulfillment of his/her responsi-

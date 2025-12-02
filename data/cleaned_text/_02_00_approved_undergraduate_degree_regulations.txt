@@ -1,10 +1,4 @@
-
-
-===== PAGE 1 =====
-Doc No: QA-QAA-14 
-Version: 02.00 
-Date Effective: 29 May 2025 
- 
+=== PAGE 1 ===
 UNDERGRADUATE DEGREE REGULATIONS 
 
 1. Purpose 
@@ -54,9 +48,7 @@ for an undergraduate degree.
 b. Students must graduate under the Academic Catalogue in effect at the time of their first 
 enrollment for a specific undergraduate degree program at ADA University. Students may
 
-
-===== PAGE 2 =====
-2 | P a g e 
+=== PAGE 2 ===
 not tailor-make their own degree requirements by selecting and combining requirements 
 from different catalogues. 
 c. Depending on a student’s English language level upon admission, he/she may need to suc-
@@ -110,9 +102,7 @@ a. Undergraduate students may pursue a second career track.
 b. Several second career tracks are available across different degree programs at ADA Uni-
 versity, all of which consist of a predefined set of six courses.
 
-
-===== PAGE 3 =====
-3 | P a g e 
+=== PAGE 3 ===
 c. Students who wish to pursue a second career track must consult with their Academic Advi-
 sor to plan their second career track (i.e., their Free Electives and course overloads). 
  
