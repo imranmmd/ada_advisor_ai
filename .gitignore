@@ -4,3 +4,4 @@ config.py
 __pycache__
 embedding_batch_*.json
 .env
+data/faiss_index/

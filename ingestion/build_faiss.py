@@ -1,0 +1,119 @@
+import os
+import json
+import numpy as np
+import faiss
+from storage.db.connection import get_connection
+import ast
+
+
+# ===============================================================
+# 1. LOAD EMBEDDINGS FROM POSTGRES
+# ===============================================================
+def load_embeddings_from_db():
+    conn = get_connection()
+    cur = conn.cursor()
+
+    cur.execute("""
+        SELECT chunk_id, embedding
+        FROM chunk_embeddings
+        ORDER BY chunk_id;
+    """)
+
+    rows = cur.fetchall()
+    conn.close()
+
+    chunk_ids = []
+    vectors = []
+
+    for chunk_id, embedding in rows:
+        chunk_ids.append(chunk_id)
+
+        # --- FIX: convert string "[0.1, 0.2, ...]" → Python list ---
+        if isinstance(embedding, str):
+            embedding = ast.literal_eval(embedding)
+
+        vectors.append(np.array(embedding, dtype=np.float32))
+
+    vectors = np.vstack(vectors)
+    print(f"Loaded {vectors.shape[0]} vectors (dim = {vectors.shape[1]})")
+    return chunk_ids, vectors
+
+
+# ===============================================================
+# 2. BUILD FAISS INDEX - FlatIP
+# ===============================================================
+def build_faiss_flatip(dim):
+    print("Building FAISS IndexFlatIP...")
+    index = faiss.IndexFlatIP(dim)
+    return index
+
+
+# ===============================================================
+# 3. BUILD FAISS INDEX - HNSW
+# ===============================================================
+def build_faiss_hnsw(dim, M=64, efConstruction=200):
+    print("Building FAISS IndexHNSWFlat...")
+    index = faiss.IndexHNSWFlat(dim, M)
+    index.hnsw.efConstruction = efConstruction
+    index.hnsw.efSearch = 128
+    return index
+
+
+# ===============================================================
+# 4. ADD VECTORS TO INDEX
+# ===============================================================
+def add_vectors(index, vectors):
+    print(f"Adding {vectors.shape[0]} vectors to index...")
+    index.add(vectors)
+    print("Vectors added successfully.")
+
+
+# ===============================================================
+# 5. SAVE INDEX + CHUNK IDS
+# ===============================================================
+def save_index(index, chunk_ids, file_name):
+    os.makedirs("data/faiss_index", exist_ok=True)
+
+    index_path = f"data/faiss_index/{file_name}.bin"
+    ids_path = f"data/faiss_index/{file_name}_chunk_ids.json"
+
+    faiss.write_index(index, index_path)
+    print(f"Saved FAISS index → {index_path}")
+
+    with open(ids_path, "w") as f:
+        json.dump(chunk_ids, f, indent=2)
+
+    print(f"Saved chunk_ids mapping → {ids_path}")
+
+
+# ===============================================================
+# 6. MAIN PIPELINE
+# ===============================================================
+def build_faiss_indexes():
+    print("Loading embeddings from PostgreSQL...")
+    chunk_ids, vectors = load_embeddings_from_db()
+
+    dim = vectors.shape[1]
+
+    # ------------------------------
+    # Build FlatIP index
+    # ------------------------------
+    flat_index = build_faiss_flatip(dim)
+    add_vectors(flat_index, vectors)
+    save_index(flat_index, chunk_ids, "faiss_flat")
+
+    # ------------------------------
+    # Build HNSW index
+    # ------------------------------
+    hnsw_index = build_faiss_hnsw(dim)
+    add_vectors(hnsw_index, vectors)
+    save_index(hnsw_index, chunk_ids, "faiss_hnsw")
+
+    print("\n✅ All FAISS indexes built and saved successfully!")
+
+
+# ===============================================================
+# ENTRY POINT
+# ===============================================================
+if __name__ == "__main__":
+    build_faiss_indexes()
