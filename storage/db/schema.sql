@@ -25,8 +25,8 @@ CREATE TABLE IF NOT EXISTS chunks (
     created_at TIMESTAMPTZ DEFAULT NOW()
 );
 CREATE TABLE IF NOT EXISTS chunk_embeddings (
-    chunk_id        VARCHAR PRIMARY KEY,
-    doc_id          VARCHAR,
+    chunk_id        TEXT PRIMARY KEY REFERENCES chunks(chunk_id) ON DELETE CASCADE,
+    doc_id          TEXT REFERENCES documents(doc_id) ON DELETE CASCADE,
     order_index     INT,
     page_number     INT,
     header          TEXT,

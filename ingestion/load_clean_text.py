@@ -1,4 +1,13 @@
-import fitz  # PyMuPDF
+try:
+    import pymupdf as fitz  # Prefer canonical package name
+except ImportError:  # pragma: no cover - fallback for environments exposing only `fitz`
+    import fitz  # type: ignore
+
+if not hasattr(fitz, "open"):
+    raise ImportError(
+        "PyMuPDF is required. Install it with `pip install PyMuPDF` "
+        "(ensure the old `fitz` package is not installed)."
+    )
 import os
 import re
 
@@ -110,9 +119,23 @@ def pdf_to_clean_txt(pdf_path, txt_path):
 # --------------------------------------------
 
 def convert_all_pdfs(
-    documents_folder="/Users/macbook/Desktop/RAG Documents/All (Newest of each document)",
+    documents_folder=None,
     output_folder="data/cleaned_text/"
 ):
+    if documents_folder is None:
+        documents_folder = os.getenv("ADA_PDF_SOURCE_DIR")
+
+    if not documents_folder:
+        raise RuntimeError(
+            "Set ADA_PDF_SOURCE_DIR to the directory containing PDFs to process."
+        )
+
+    documents_folder = os.path.abspath(documents_folder)
+    if not os.path.isdir(documents_folder):
+        raise FileNotFoundError(
+            f"Documents folder does not exist or is not a directory: {documents_folder}"
+        )
+
     os.makedirs(output_folder, exist_ok=True)
 
     pdf_files = [f for f in os.listdir(documents_folder) if f.lower().endswith(".pdf")]
@@ -134,4 +157,5 @@ def convert_all_pdfs(
 # RUN
 # --------------------------------------------
 
-convert_all_pdfs()
+if __name__ == "__main__":
+    convert_all_pdfs()

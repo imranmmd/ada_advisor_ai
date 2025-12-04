@@ -1,7 +1,7 @@
 === PAGE 1 ===
 ADA UNIVERSITY 
 Honor Code
-=== PAGE 2 ===
+
 I. 
 Mission 
 The ADA University is a community of students, staff, faculty and administrators united by 
@@ -46,7 +46,7 @@ e. Do Not Help Others Violate These Principles
 III. 
 Reporting Violations of the ADA Honor Code 
 a. Students, staff and faculty who have become aware of possible violations of the ADA University
-=== PAGE 3 ===
+
 Honor Code are expected to report these cases to the Dean/Director of the school/program offering 
 the course with the utmost urgency. This should be done orally or in writing, providing as many 
 details as possible. 
@@ -95,7 +95,7 @@ composed as follows: The Dean of the appropriate school (1), three (3) faculty m
 (2) senior administrators. Hearings of alleged violations by students are chaired by the Vice Rector 
 of Academic Affairs, whose task it is to ensure that proper procedures are adhered to. At no point, 
 shall the Vice Rector of Academic Affairs express his/her views of the merits of the case. The
-=== PAGE 4 ===
+
 Vice Rector has a casting vote right in cases when the Committee is tied. 
  
 f. Each member of the Honor Committee is required to pledge to keep the matter under investigation 
@@ -146,7 +146,7 @@ f. The relevant faculty member and the dean shall invite the alleged offender to
 of the allegation. The faculty and the dean shall invite the student to admit the allegation. In case 
 the student admits the allegations of the Honor Code violation, he/she shall sign the “Honor Code 
 Violation Form” attesting to the fact of violation. The faculty member and the dean subsequently
-=== PAGE 5 ===
+
 will decide on the applicable sanction, as outlined in Article 5.g below. If a student rejects the 
 allegations, the faculty member and the dean must forthwith refer the case for investigation by the 
 Honor Committee. 
@@ -191,7 +191,7 @@ b. All students, staff and faculty must be prepared to take the following pledge
 will violate the Honor Code, nor will I tolerate others doing so. I will do everything in 
 my power to uphold an atmosphere of honesty and integrity at ADA University and will 
 encourage others to behave likewise.”
-=== PAGE 6 ===
+
 VIII. 
 The Honor Code Agreement 
 Having read the ADA University Honor Code, I understand and accept my responsibility to 

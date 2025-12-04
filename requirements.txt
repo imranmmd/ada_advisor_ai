@@ -1,0 +1,9 @@
+openai
+faiss-cpu
+numpy
+psycopg2-binary
+python-dotenv
+tiktoken
+nltk
+PyMuPDF
+pytest

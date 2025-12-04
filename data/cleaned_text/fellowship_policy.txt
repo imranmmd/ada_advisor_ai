@@ -13,7 +13,7 @@ NO. 4240 FELLOWSHIPS
 ADA University 
 Policy and Procedures 
 Fellowships 
-=== PAGE 2 ===
+
 4241. Alimardan Bay Topchubashov International Fellowship 
 1.1. Alimardan Bay Topchubashov International Fellowship is open to all international 
 (non-Azerbaijani citizens) undergraduate and graduate applicants who have been 
@@ -53,7 +53,7 @@ University.
 ADA University 
 Policy and Procedures 
 Fellowships 
-=== PAGE 3 ===
+
 1.6. Students who do not meet the requirements 1.5.1 and 1.5.2 are subject to fellowship 
 probation for the following semester without losing the benefits of the fellowship. 
 Students will lose the fellowship benefits only if they do not meet the requirements 
@@ -68,7 +68,7 @@ fellowship.
 ADA University 
 Policy and Procedures 
 Fellowships 
-=== PAGE 4 ===
+
 4242. International Fellowship for the School of Education 
  
 International Fellowship is open to citizens of Georgia who have been admitted to one of the degree 

@@ -105,12 +105,14 @@ Course 3
 Course 4 
 Course 5
 
+=== PAGE 4 ===
 MC 
 MC 
 GE 
 GE 
 GE
 
+=== PAGE 5 ===
 MC 
 MC 
 GE 
@@ -119,12 +121,14 @@ GE
  
 Summer
 
+=== PAGE 6 ===
 MC 
 MC 
 MC 
 GE 
 GE
 
+=== PAGE 7 ===
 MC 
 MC 
 MC 
@@ -133,12 +137,14 @@ GE
  
 Summer
 
+=== PAGE 8 ===
 MC 
 MC 
 MC 
 FE 
 EN
 
+=== PAGE 9 ===
 MC 
 MC 
 MC 
@@ -149,12 +155,14 @@ Summer
  
 Internship
 
+=== PAGE 10 ===
 MC 
 MC 
 TE 
 TE 
 FE
 
+=== PAGE 11 ===
 MC 
 MC 
 TE 
@@ -167,20 +175,26 @@ Credit Hours
 General Education 
 GE
 
+=== PAGE 12 ===
 Major Core 
 MC
 
+=== PAGE 13 ===
 Technical Elective 
 TE
 
+=== PAGE 14 ===
 Free Elective 
 FE
 
+=== PAGE 15 ===
 Functional Enabler 
 EN
 
+=== PAGE 16 ===
 Total
 
+=== PAGE 17 ===
 5.3 Graduate Curriculum Structure 
  
 Year 
@@ -190,10 +204,12 @@ Course 2
 Course 3 
 Course 4
 
+=== PAGE 18 ===
 MC 
 MC 
 MC
 
+=== PAGE 19 ===
 MC 
 MC 
 MC 
@@ -201,11 +217,13 @@ MC
 Summer 
 TE
 
+=== PAGE 20 ===
 MC 
 MC 
 MC 
 IS
 
+=== PAGE 21 ===
 TE 
 TE 
 IS 
@@ -216,10 +234,13 @@ Credit Hours
 Major Core 
 MC
 
+=== PAGE 22 ===
 Technical Elective 
 TE
 
+=== PAGE 23 ===
 Independent Study 
 IS
 
+=== PAGE 24 ===
 Total

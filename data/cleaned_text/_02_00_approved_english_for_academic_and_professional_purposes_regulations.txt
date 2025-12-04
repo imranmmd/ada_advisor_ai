@@ -63,18 +63,22 @@ Group
 
 Elementary (A1)
 
+=== PAGE 3 ===
 A 
 
 Pre-Intermediate (A2)
 
+=== PAGE 4 ===
 B 
 
 Intermediate (B1)
 
+=== PAGE 5 ===
 C 
 
 Upper-Intermediate (B2)
 
+=== PAGE 6 ===
 D 
  
 d. The number of sessions and classes students need to attend in order to complete the EAPP 
@@ -88,21 +92,26 @@ Classes per Week
 A 
 4 x 7.5 Weeks
 
+=== PAGE 7 ===
 B 
 2 x 7.5 Weeks
 
+=== PAGE 8 ===
 1 x 15 Weeks
 
+=== PAGE 9 ===
 13 – 14 
 
 C 
 2 x 15 Weeks
 
+=== PAGE 10 ===
 13 – 14 
 
 D 
 1 x 15 Weeks
 
+=== PAGE 11 ===
 13 – 14 
  
 e. Each session consists of 3 different courses (Listening and Speaking, Reading and Writing, 
@@ -125,7 +134,7 @@ demic years are dismissed from the University. Following their dismissal, and af
 mester or term, they may reapply for admission to ADA University by submitting one of the 
 following minimum English language proficiency test results: IELTS (6.0), TOEFL iBT (75),
 
-=== PAGE 3 ===
+=== PAGE 12 ===
 PTE (50), or Duolingo (105). A student who is readmitted is governed by the academic and 
 financial requirements as well as by the Academic Catalogue in effect at the time of read-
 mission. 

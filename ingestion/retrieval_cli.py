@@ -93,6 +93,10 @@ def fetch_chunk_texts(chunk_ids: List[str]) -> Dict[str, Dict[str, str]]:
 def search(index, chunk_ids: List[str], query: str, top_k: int = TOP_K):
     """Embed the query and search the FAISS index."""
     vector = embed(query)
+    norm = np.linalg.norm(vector)
+    if norm == 0:
+        raise ValueError("Embedding norm is zero; cannot normalize query vector.")
+    vector = vector / norm
 
     if vector.shape[0] != index.d:
         raise ValueError(

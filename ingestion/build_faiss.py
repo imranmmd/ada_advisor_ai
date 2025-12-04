@@ -22,6 +22,9 @@ def load_embeddings_from_db():
     rows = cur.fetchall()
     conn.close()
 
+    if not rows:
+        raise RuntimeError("No embeddings found in chunk_embeddings; build embeddings first.")
+
     chunk_ids = []
     vectors = []
 
@@ -64,7 +67,10 @@ def build_faiss_hnsw(dim, M=64, efConstruction=200):
 # ===============================================================
 def add_vectors(index, vectors):
     print(f"Adding {vectors.shape[0]} vectors to index...")
-    index.add(vectors)
+    norms = np.linalg.norm(vectors, axis=1, keepdims=True)
+    norms[norms == 0] = 1.0
+    normalized = vectors / norms
+    index.add(normalized)
     print("Vectors added successfully.")
 
 

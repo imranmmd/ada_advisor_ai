@@ -1,15 +1,25 @@
 import os
 import re
 import json
-import tiktoken
+
+try:
+    import tiktoken
+except ImportError:
+    tiktoken = None
+
 import nltk
-nltk.download("punkt")
+from nltk.data import find as nltk_find
 
 # -----------------------------------------------------------
 # Utility: token counter
 # -----------------------------------------------------------
 def count_tokens(text, model="gpt-4o-mini"):
-    enc = tiktoken.encoding_for_model(model)
+    if tiktoken is None:
+        return len(text.split())
+    try:
+        enc = tiktoken.encoding_for_model(model)
+    except Exception:
+        enc = tiktoken.get_encoding("cl100k_base")
     return len(enc.encode(text))
 
 
@@ -86,6 +96,14 @@ def paragraph_split(text: str):
 # Sentence split
 # -----------------------------------------------------------
 def split_sentences(paragraph):
+    try:
+        nltk_find("tokenizers/punkt")
+    except LookupError:
+        try:
+            nltk.download("punkt", quiet=True)
+        except Exception:
+            # Fallback to naive split if download is unavailable (e.g., offline)
+            return re.split(r"(?<=[.!?])\s+", paragraph)
     return nltk.sent_tokenize(paragraph)
 
 
@@ -202,14 +220,12 @@ def semantic_chunker_to_json_with_pages(file_path: str, max_tokens=350, model="g
 
 
 
-# ---------------------
-# RUN
-# ---------------------
-txt_folder = "data/cleaned_text"
+if __name__ == "__main__":
+    txt_folder = "data/cleaned_text"
 
-for filename in os.listdir(txt_folder):
-    if filename.lower().endswith(".txt"):
-        txt_path = os.path.join(txt_folder, filename)
+    for filename in os.listdir(txt_folder):
+        if filename.lower().endswith(".txt"):
+            txt_path = os.path.join(txt_folder, filename)
 
-        print(f"\n📄 Chunking: {txt_path}")
-        semantic_chunker_to_json_with_pages(txt_path)
+            print(f"\n📄 Chunking: {txt_path}")
+            semantic_chunker_to_json_with_pages(txt_path)

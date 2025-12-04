@@ -6,3 +6,5 @@ embedding_batch_*.json
 .env
 data/faiss_index/
 __init__.py
+data/chunks
+data/metadata

@@ -5,6 +5,30 @@ from storage.db.connection import get_connection
 EMBEDDINGS_DIR = "data/embeddings/"  # folder with embedding_batch_*.json files
 
 
+def _to_vector_literal(embedding):
+    """
+    Ensure embeddings are sent in a pgvector-friendly literal format.
+    Accepts list/tuple or preformatted string.
+    """
+    if isinstance(embedding, str):
+        # Strings may come from JSON dumps; ensure they represent a numeric list
+        try:
+            parsed = json.loads(embedding)
+        except Exception:
+            raise TypeError("Embedding string is not valid JSON.")
+        return _to_vector_literal(parsed)
+
+    if isinstance(embedding, (list, tuple)):
+        sanitized = []
+        for x in embedding:
+            if not isinstance(x, (int, float)):
+                raise TypeError("Embedding must contain only numbers.")
+            sanitized.append(float(x))
+        return "[" + ",".join(str(x) for x in sanitized) + "]"
+
+    raise TypeError(f"Unsupported embedding type: {type(embedding)}")
+
+
 def insert_row(cur, row):
     cur.execute(
         """
@@ -14,7 +38,7 @@ def insert_row(cur, row):
         )
         VALUES (
             %(chunk_id)s, %(doc_id)s, %(order_index)s, %(page_number)s,
-            %(header)s, %(token_count)s, %(text)s, %(embedding)s
+            %(header)s, %(token_count)s, %(text)s, %(embedding)s::vector
         )
         ON CONFLICT (chunk_id) DO UPDATE
         SET embedding = EXCLUDED.embedding;
@@ -44,11 +68,22 @@ def import_embeddings():
 
         print(f"   {len(batch)} embeddings found")
 
+        inserted = 0
         for record in batch:
-            insert_row(cur, record)
+            try:
+                safe_record = {
+                    **record,
+                    "embedding": _to_vector_literal(record.get("embedding")),
+                }
+                insert_row(cur, safe_record)
+                inserted += 1
+            except Exception as exc:
+                conn.rollback()
+                print(f"   ⚠️ Skipping record {record.get('chunk_id')}: {exc}")
+                cur = conn.cursor()
 
         conn.commit()
-        print(f"   ✔ Imported {len(batch)} embeddings into PostgreSQL")
+        print(f"   ✔ Imported {inserted} embeddings into PostgreSQL from {filename}")
 
     cur.close()
     conn.close()
