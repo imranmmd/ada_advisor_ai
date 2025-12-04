@@ -1,201 +1,128 @@
-import os
+import argparse
 import json
-import numpy as np
-from rank_bm25 import BM25Okapi
+import pickle
 from pathlib import Path
-import time
+from typing import Dict, List, Tuple
+
+from rank_bm25 import BM25Okapi
+
+EMBEDDING_DIR = Path("data/embeddings")
+OUTPUT_DIR = Path("data/bm25_index")
+INDEX_NAME = "bm25"
 
 
-# ===============================================================
-# 1. LOAD EMBEDDING BATCHES FROM JSON
-# ===============================================================
-def load_embedding_batches(batch_files):
+def load_chunks(embedding_dir: Path) -> Tuple[List[str], List[str], Dict[str, Dict]]:
     """
-    Load multiple embedding batch JSON files
-    batch_files: list of file paths to JSON files
-    Returns: combined chunks and chunk_ids
+    Load chunk text and ids from embedding batch JSON files.
+    Returns raw texts, chunk_ids, and lightweight metadata for fallback lookup.
     """
-    all_chunks = []
-    chunk_ids = []
-    
+    batch_files = sorted(embedding_dir.glob("embedding_batch_*.json"))
+    if not batch_files:
+        raise FileNotFoundError(f"No embedding batches found in {embedding_dir}")
+
+    texts: List[str] = []
+    chunk_ids: List[str] = []
+    metadata: Dict[str, Dict] = {}
+
     for batch_file in batch_files:
-        print(f"Loading batch from {batch_file}...")
-        
-        with open(batch_file, 'r', encoding='utf-8') as f:
-            batch_data = json.load(f)
-        
-        # Assuming structure: {"chunks": [{"chunk_id": "...", "text": "..."}]}
-        if isinstance(batch_data, dict) and 'chunks' in batch_data:
-            chunks = batch_data['chunks']
-        elif isinstance(batch_data, list):
-            chunks = batch_data
-        else:
-            raise ValueError(f"Unexpected JSON structure in {batch_file}")
-        
-        for chunk in chunks:
-            chunk_id = chunk.get('chunk_id', chunk.get('id', f'chunk_{len(chunk_ids)}'))
-            text = chunk.get('text', '')
-            
-            all_chunks.append(chunk)
+        with batch_file.open("r", encoding="utf-8") as f:
+            batch = json.load(f)
+
+        if not isinstance(batch, list):
+            raise ValueError(f"Unexpected structure in {batch_file}, expected a list")
+
+        for item in batch:
+            chunk_id = item.get("chunk_id")
+            text = (item.get("text") or "").strip()
+            page_number = item.get("page_number")
+            if not chunk_id or not text:
+                continue
+
             chunk_ids.append(chunk_id)
-        
-        print(f"  Loaded {len(chunks)} chunks from {batch_file}")
-    
-    print(f"\nTotal chunks loaded: {len(chunk_ids)}\n")
-    
-    return all_chunks, chunk_ids
+            texts.append(text)
+            metadata[chunk_id] = {"text": text, "page_number": page_number}
+
+        print(f"Loaded {len(batch)} chunks from {batch_file.name}")
+
+    if not chunk_ids:
+        raise ValueError("No valid chunks were found to index.")
+
+    print(f"Total chunks loaded: {len(chunk_ids)}")
+    return texts, chunk_ids, metadata
 
 
-# ===============================================================
-# 2. BUILD BM25 INDEX
-# ===============================================================
-def build_bm25_index(all_chunks, k1=1.5, b=0.75):
-    """
-    Build BM25 index from text chunks
-    k1, b: BM25 hyperparameters
-    """
-    print("Building BM25 index...")
-    
-    # Tokenize documents
-    tokenized_docs = []
-    for chunk in all_chunks:
-        text = chunk.get('text', '').lower()
-        tokens = text.split()  # Simple whitespace tokenization
-        tokenized_docs.append(tokens)
-    
-    # Create BM25 index
+def build_bm25_index(texts: List[str], k1: float, b: float) -> BM25Okapi:
+    """Tokenize text and build BM25 index."""
+    tokenized_docs = [text.lower().split() for text in texts]
     bm25 = BM25Okapi(tokenized_docs, k1=k1, b=b)
-    
-    print(f"✅ BM25 index built with {len(tokenized_docs)} documents\n")
-    return bm25, tokenized_docs
+    print(f"Built BM25 index with {len(tokenized_docs)} documents")
+    return bm25
 
 
-# ===============================================================
-# 3. SEARCH WITH BM25
-# ===============================================================
-def search_bm25(bm25, tokenized_docs, query, top_k=5):
-    """
-    Search using BM25
-    Returns: list of (doc_index, score) tuples
-    """
-    query_tokens = query.lower().split()
-    scores = bm25.get_scores(query_tokens)
-    
-    # Get top-k results
-    top_indices = np.argsort(scores)[::-1][:top_k]
-    results = [(int(idx), float(scores[idx])) for idx in top_indices]
-    
-    return results
+def save_index(
+    bm25: BM25Okapi,
+    chunk_ids: List[str],
+    metadata: Dict[str, Dict],
+    output_dir: Path,
+    name: str,
+) -> None:
+    """Persist BM25 index, chunk ids, and lightweight metadata."""
+    output_dir.mkdir(parents=True, exist_ok=True)
 
+    index_path = output_dir / f"{name}.pkl"
+    ids_path = output_dir / f"{name}_chunk_ids.json"
+    metadata_path = output_dir / f"{name}_chunks.json"
 
-# ===============================================================
-# 4. TEST RETRIEVAL
-# ===============================================================
-def test_retrieval(all_chunks, bm25, tokenized_docs):
-    """
-    Test BM25 retrieval with interactive mode
-    """
-    print("="*70)
-    print("BM25 SEARCH - INTERACTIVE MODE")
-    print("="*70)
-    print("Type your queries to search (type 'quit' to exit):\n")
-    
-    while True:
-        user_query = input("📝 Enter query: ").strip()
-        
-        if user_query.lower() == 'quit':
-            print("Exiting...")
-            break
-        
-        if not user_query:
-            print("⚠️  Query cannot be empty. Try again.\n")
-            continue
-        
-        print(f"\n{'─'*70}")
-        print(f"Query: '{user_query}'")
-        print(f"{'─'*70}")
-        
-        bm25_results = search_bm25(bm25, tokenized_docs, user_query, top_k=5)
-        
-        if not bm25_results or bm25_results[0][1] == 0:
-            print("❌ No relevant results found.")
-        else:
-            for rank, (idx, score) in enumerate(bm25_results, 1):
-                chunk = all_chunks[idx]
-                text = chunk.get('text', '')[:150]
-                if len(chunk.get('text', '')) > 150:
-                    text += "..."
-                print(f"  {rank}. [Score: {score:.4f}] {text}")
-        
-        print()
-
-
-# ===============================================================
-# 5. SAVE BM25 INDEX
-# ===============================================================
-def save_bm25_index(bm25, chunk_ids, file_name="bm25"):
-    """
-    Save BM25 index and chunk IDs (similar to FAISS structure)
-    """
-    os.makedirs("data/bm25_index", exist_ok=True)
-    
-    # Save BM25 (using pickle)
-    import pickle
-    index_path = f"data/bm25_index/{file_name}.pkl"
-    with open(index_path, 'wb') as f:
+    with index_path.open("wb") as f:
         pickle.dump(bm25, f)
-    print(f"✅ Saved BM25 index → {index_path}")
-    
-    # Save chunk IDs mapping
-    ids_path = f"data/bm25_index/{file_name}_chunk_ids.json"
-    with open(ids_path, 'w') as f:
+    with ids_path.open("w", encoding="utf-8") as f:
         json.dump(chunk_ids, f, indent=2)
-    print(f"✅ Saved chunk_ids mapping → {ids_path}")
+    with metadata_path.open("w", encoding="utf-8") as f:
+        json.dump(metadata, f, indent=2, ensure_ascii=False)
+
+    print(f"Saved BM25 index to {index_path}")
+    print(f"Saved chunk ids to {ids_path}")
+    print(f"Saved chunk metadata to {metadata_path}")
 
 
-# ===============================================================
-# 6. MAIN PIPELINE
-# ===============================================================
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Build BM25 index from embedding batches.")
+    parser.add_argument(
+        "--embedding-dir",
+        type=Path,
+        default=EMBEDDING_DIR,
+        help="Directory containing embedding_batch_*.json files.",
+    )
+    parser.add_argument(
+        "--output-dir",
+        type=Path,
+        default=OUTPUT_DIR,
+        help="Where to write the BM25 index artifacts.",
+    )
+    parser.add_argument(
+        "--name",
+        type=str,
+        default=INDEX_NAME,
+        help="Base filename for the index (e.g., bm25 -> bm25.pkl).",
+    )
+    parser.add_argument("--k1", type=float, default=1.5, help="BM25 k1 hyperparameter.")
+    parser.add_argument("--b", type=float, default=0.75, help="BM25 b hyperparameter.")
+    return parser.parse_args()
+
+
 def main():
-    print("\n" + "="*70)
-    print("BM25 INDEX BUILDER & TESTER")
-    print("="*70 + "\n")
-    
-    # Specify your embedding batch files here
-    batch_files = [
-        r"BM25\embedding_batch_001.json",  # Replace with your file paths
-        r"BM25\embedding_batch_002.json"
-    ]
-    
-    # Check if files exist
-    missing_files = [f for f in batch_files if not os.path.exists(f)]
-    if missing_files:
-        print(f"❌ Missing files: {missing_files}")
-        print("Please ensure the embedding batch JSON files exist.")
-        return
-    
-    # Load embeddings from batches
-    all_chunks, chunk_ids = load_embedding_batches(batch_files)
-    
-    # Build BM25 index
-    bm25, tokenized_docs = build_bm25_index(all_chunks)
-    
-    # Build BM25 index
-    bm25, tokenized_docs = build_bm25_index(all_chunks)
-    
-    # Save index
-    save_bm25_index(bm25, chunk_ids, file_name="bm25")
-    
-    print("\n" + "="*70)
-    print("✅ BM25 index built and saved successfully!")
-    print("="*70 + "\n")
-    
-    # Test retrieval
-    test_retrieval(all_chunks, bm25, tokenized_docs)
+    args = parse_args()
+    print("Loading chunks...")
+    texts, chunk_ids, metadata = load_chunks(args.embedding_dir)
+
+    print("Building BM25 index...")
+    bm25 = build_bm25_index(texts, k1=args.k1, b=args.b)
+
+    print("Saving index artifacts...")
+    save_index(bm25, chunk_ids, metadata, args.output_dir, args.name)
+
+    print("Done.")
 
 
-# ===============================================================
-# ENTRY POINT
-# ===============================================================
 if __name__ == "__main__":
     main()

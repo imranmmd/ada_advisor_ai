@@ -1,6 +1,7 @@
 openai
 faiss-cpu
 numpy
+rank-bm25
 psycopg2-binary
 python-dotenv
 tiktoken
