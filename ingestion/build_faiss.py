@@ -1,9 +1,18 @@
 import os
+import sys
 import json
+import ast
+from pathlib import Path
+
 import numpy as np
 import faiss
+
+# Ensure project root is importable when running as a script
+ROOT_DIR = Path(__file__).resolve().parents[1]
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+
 from storage.db.connection import get_connection
-import ast
 
 
 # ===============================================================

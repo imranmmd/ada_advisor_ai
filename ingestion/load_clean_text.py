@@ -10,6 +10,11 @@ if not hasattr(fitz, "open"):
     )
 import os
 import re
+from dotenv import load_dotenv
+
+# Load environment variables from project .env for CLI execution
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
+load_dotenv(os.path.join(PROJECT_ROOT, ".env"))
 
 
 # --------------------------------------------

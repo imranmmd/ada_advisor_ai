@@ -1,55 +1,7 @@
 import json
 import os
 from storage.db.connection import get_connection
-
-
-# ============================================================
-# 4.2 Insert Document
-# ============================================================
-def insert_document(conn, doc):
-    sql = """
-        INSERT INTO documents (doc_id, title, file_name, file_path, page_count, version, ingested_at)
-        VALUES (%s, %s, %s, %s, %s, %s, %s)
-        ON CONFLICT (doc_id) DO NOTHING;
-    """
-    values = (
-        doc["doc_id"],
-        doc["title"],
-        doc["file_name"],
-        doc["file_path"],
-        doc["page_count"],
-        doc.get("version", 1),
-        doc["ingested_at"],
-    )
-
-    with conn.cursor() as cur:
-        cur.execute(sql, values)
-
-
-
-# ============================================================
-# 4.3 Insert Chunk
-# ============================================================
-def insert_chunk(conn, chunk):
-    sql = """
-        INSERT INTO chunks (chunk_id, doc_id, order_index, page_number, header, text, token_count)
-        VALUES (%s, %s, %s, %s, %s, %s, %s)
-        ON CONFLICT (chunk_id) DO NOTHING;
-    """
-
-    values = (
-        chunk["chunk_id"],
-        chunk["doc_id"],
-        chunk["order_index"],
-        chunk.get("page_number"),
-        chunk.get("header"),
-        chunk["text"],
-        chunk["token_count"],
-    )
-
-    with conn.cursor() as cur:
-        cur.execute(sql, values)
-
+from storage.repositories import DocumentRepository, ChunkRepository
 
 
 # ============================================================
@@ -126,13 +78,15 @@ def save_metadata_to_postgres(documents_path="documents.json", chunks_path="chun
 
     # 3. Insert into Postgres
     conn = get_connection()
+    doc_repo = DocumentRepository()
+    chunk_repo = ChunkRepository()
 
     try:
         for d in documents:
-            insert_document(conn, d)
+            doc_repo.upsert(d, conn=conn)
 
         for c in chunks:
-            insert_chunk(conn, c)
+            chunk_repo.upsert(c, conn=conn)
 
         conn.commit()
         print("✅ Successfully saved metadata to Postgres.")

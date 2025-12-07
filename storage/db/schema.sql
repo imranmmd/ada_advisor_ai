@@ -34,3 +34,26 @@ CREATE TABLE IF NOT EXISTS chunk_embeddings (
     text            TEXT,
     embedding       vector(3072)        -- if using pgvector
 );
+-- ================================
+-- RETRIEVAL EVENTS TABLE
+-- ================================
+CREATE TABLE IF NOT EXISTS retrieval_events (
+    event_id        TEXT PRIMARY KEY,
+    query_text      TEXT NOT NULL,
+    query_embedding vector(3072),                 -- optional: store query embedding
+    retrieved_chunk_ids TEXT[],                   -- array of chunk_ids in ranked order
+    top_k           INTEGER,
+    scores          FLOAT8[],                     -- cosine similarity scores
+    created_at      TIMESTAMPTZ DEFAULT NOW()
+);
+-- ================================
+-- CHAT HISTORY TABLE
+-- ================================
+CREATE TABLE IF NOT EXISTS chat_history (
+    message_id      TEXT PRIMARY KEY,
+    session_id      TEXT NOT NULL,                 -- group messages into a session
+    role            TEXT CHECK (role IN ('user', 'assistant', 'system')),
+    content         TEXT NOT NULL,
+    retrieval_event_id TEXT REFERENCES retrieval_events(event_id) ON DELETE SET NULL,
+    created_at      TIMESTAMPTZ DEFAULT NOW()
+);

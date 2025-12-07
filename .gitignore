@@ -11,3 +11,4 @@ data/metadata
 data/bm25_index/*.json
 data/bm25_index/
 data/bm25_index/bm25.pkl
+data/

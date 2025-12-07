@@ -13,6 +13,7 @@ import pickle
 import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
+from uuid import uuid4
 
 import faiss
 import numpy as np
@@ -21,10 +22,20 @@ from rank_bm25 import BM25Okapi
 
 from config.settings import OPENAI_API_KEY
 
+try:
+    from storage.repositories import (
+        RetrievalEventRepository,
+        ChatHistoryRepository,
+    )
+except Exception:
+    RetrievalEventRepository = None  # type: ignore
+    ChatHistoryRepository = None  # type: ignore
+
 # ------------------------------------------------------------
 # Configuration
 # ------------------------------------------------------------
 FAISS_INDEX_DIR = Path("data/faiss_index")
+INDEX_DIR = FAISS_INDEX_DIR  # kept for compatibility with existing callers/tests
 BM25_INDEX_DIR = Path("data/bm25_index")
 FAISS_INDEX_NAME = "faiss_hnsw"  # change to "faiss_flat" if you prefer
 BM25_INDEX_NAME = "bm25"
@@ -39,8 +50,9 @@ client = OpenAI(api_key=OPENAI_API_KEY)
 
 def load_faiss_index(index_name: str = FAISS_INDEX_NAME):
     """Load FAISS index file and the parallel chunk_id list."""
-    index_path = FAISS_INDEX_DIR / f"{index_name}.bin"
-    ids_path = FAISS_INDEX_DIR / f"{index_name}_chunk_ids.json"
+    index_dir = INDEX_DIR
+    index_path = index_dir / f"{index_name}.bin"
+    ids_path = index_dir / f"{index_name}_chunk_ids.json"
 
     if not index_path.exists() or not ids_path.exists():
         raise FileNotFoundError(
@@ -223,6 +235,24 @@ def merge_results(
     return combined
 
 
+def search(
+    index,
+    chunk_ids: List[str],
+    query: str,
+    top_k: int = FAISS_TOP_K,
+    cached_metadata: Optional[Dict[str, Dict]] = None,
+):
+    """
+    Search a FAISS index and hydrate results with metadata.
+
+    - Embeds and normalizes the query once via `embed`.
+    - Returns the top_k results sorted by score (as produced by FAISS).
+    - Attaches `text` and `page_number` using `fetch_chunk_texts` or cached metadata.
+    """
+    faiss_results = search_faiss(index, chunk_ids, query, top_k=top_k)
+    return hydrate_metadata(faiss_results, cached_metadata)
+
+
 def pick_best_answer(query: str, results: List[Dict[str, str]]) -> Dict[str, str]:
     """
     Ask the chat model to pick the best answer from the retrieved chunks.
@@ -276,7 +306,60 @@ def pick_best_answer(query: str, results: List[Dict[str, str]]) -> Dict[str, str
     }
 
 
+def _safe_log_retrieval(query: str, results: List[Dict[str, object]]) -> Optional[str]:
+    """Persist retrieval event if repository and DB are available."""
+    if not RetrievalEventRepository:
+        return None
+    try:
+        repo = RetrievalEventRepository()
+        event_id = str(uuid4())
+        repo.log_event(
+            {
+                "event_id": event_id,
+                "query_text": query,
+                "query_embedding": None,
+                "retrieved_chunk_ids": [r["chunk_id"] for r in results],
+                "top_k": len(results),
+                "scores": [r.get("score") for r in results],
+            }
+        )
+        return event_id
+    except Exception:
+        return None
+
+
+def _safe_log_chat(
+    session_id: str, query: str, answer: str, retrieval_event_id: Optional[str]
+):
+    """Persist chat history for the session if repository and DB are available."""
+    if not ChatHistoryRepository:
+        return
+    try:
+        repo = ChatHistoryRepository()
+        repo.add_message(
+            {
+                "message_id": str(uuid4()),
+                "session_id": session_id,
+                "role": "user",
+                "content": query,
+                "retrieval_event_id": retrieval_event_id,
+            }
+        )
+        repo.add_message(
+            {
+                "message_id": str(uuid4()),
+                "session_id": session_id,
+                "role": "assistant",
+                "content": answer,
+                "retrieval_event_id": retrieval_event_id,
+            }
+        )
+    except Exception:
+        return
+
+
 def main():
+    session_id = str(uuid4())
     try:
         faiss_index, faiss_chunk_ids = load_faiss_index()
         bm25_index, bm25_chunk_ids, bm25_metadata = load_bm25_index()
@@ -349,6 +432,9 @@ def main():
         page_label = f"p.{chosen_page}" if chosen_page else "p.unknown"
         chunk_label = chosen_chunk_id or "unknown_chunk"
         print(f"[{answer}] [{page_label}] [{chunk_label}]")
+
+        event_id = _safe_log_retrieval(query, results)
+        _safe_log_chat(session_id, query, answer, event_id)
 
 
 if __name__ == "__main__":
