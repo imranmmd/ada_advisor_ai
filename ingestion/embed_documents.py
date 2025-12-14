@@ -3,7 +3,7 @@ import json
 from openai import OpenAI
 from config.settings import OPENAI_API_KEY
 # ----------------------------------------------------------
-# CONFIG
+# |                     CONFIGURATION                      |
 # ----------------------------------------------------------
 CHUNKS_PATH = "data/metadata/chunks.json"
 EMBEDDINGS_DIR = "data/embeddings/"
@@ -15,23 +15,26 @@ client = OpenAI()
 client.api_key = OPENAI_API_KEY
 
 # ----------------------------------------------------------
-# LOAD CHUNKS
+# |                       LOAD CHUNKS                      |
 # ----------------------------------------------------------
 def load_chunks():
+    """Load chunks from JSON file."""
     with open(CHUNKS_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
 
 # ----------------------------------------------------------
-# BATCH SPLITTER
+# |                BATCH SPLITTER                          |
 # ----------------------------------------------------------
 def batch(iterable, batch_size):
+    """Yield successive batches from iterable."""
     for i in range(0, len(iterable), batch_size):
         yield i, iterable[i : i + batch_size]
 
 # ----------------------------------------------------------
-# MAIN PIPELINE
+# |                     MAIN PIPELINE                      |
 # ----------------------------------------------------------
 def create_embeddings():
+    """Create embeddings for document chunks and save in batches."""
     chunks = load_chunks()
     total = len(chunks)
 
@@ -77,7 +80,7 @@ def create_embeddings():
                 "page_number": meta["page_number"],
                 "header": meta["header"],
                 "token_count": meta["token_count"],
-                "text": meta["text"],     # remove if you want a lighter file
+                "text": meta["text"],
                 "embedding": emb
             })
 
@@ -102,7 +105,7 @@ def create_embeddings():
 
 
 # ----------------------------------------------------------
-# ENTRY POINT
+# |                   ENTRY POINT                          |
 # ----------------------------------------------------------
 if __name__ == "__main__":
     create_embeddings()

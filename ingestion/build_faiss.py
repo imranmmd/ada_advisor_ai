@@ -16,9 +16,10 @@ from storage.db.connection import get_connection
 
 
 # ===============================================================
-# 1. LOAD EMBEDDINGS FROM POSTGRES
+# |           LOAD EMBEDDINGS FROM POSTGRES DB                  |
 # ===============================================================
 def load_embeddings_from_db():
+    """Load embeddings and their chunk IDs from PostgreSQL."""
     conn = get_connection()
     cur = conn.cursor()
 
@@ -40,7 +41,6 @@ def load_embeddings_from_db():
     for chunk_id, embedding in rows:
         chunk_ids.append(chunk_id)
 
-        # --- FIX: convert string "[0.1, 0.2, ...]" → Python list ---
         if isinstance(embedding, str):
             embedding = ast.literal_eval(embedding)
 
@@ -52,18 +52,22 @@ def load_embeddings_from_db():
 
 
 # ===============================================================
-# 2. BUILD FAISS INDEX - FlatIP
+# |          BUILD FAISS INDEX - FlatIP                         |
 # ===============================================================
 def build_faiss_flatip(dim):
+    """Build a FAISS IndexFlatIP index.
+    """
     print("Building FAISS IndexFlatIP...")
     index = faiss.IndexFlatIP(dim)
     return index
 
 
 # ===============================================================
-# 3. BUILD FAISS INDEX - HNSW
+# |          BUILD FAISS INDEX - HNSW                           |
 # ===============================================================
 def build_faiss_hnsw(dim, M=64, efConstruction=200):
+    """Build a FAISS IndexHNSWFlat index.
+    """
     print("Building FAISS IndexHNSWFlat...")
     index = faiss.IndexHNSWFlat(dim, M)
     index.hnsw.efConstruction = efConstruction
@@ -72,9 +76,11 @@ def build_faiss_hnsw(dim, M=64, efConstruction=200):
 
 
 # ===============================================================
-# 4. ADD VECTORS TO INDEX
+# |                   ADD VECTORS TO INDEX                      |
 # ===============================================================
 def add_vectors(index, vectors):
+    """Add vectors to the FAISS index with normalization.
+    """
     print(f"Adding {vectors.shape[0]} vectors to index...")
     norms = np.linalg.norm(vectors, axis=1, keepdims=True)
     norms[norms == 0] = 1.0
@@ -84,9 +90,11 @@ def add_vectors(index, vectors):
 
 
 # ===============================================================
-# 5. SAVE INDEX + CHUNK IDS
+# |                 SAVE INDEX + CHUNK IDS                      |
 # ===============================================================
 def save_index(index, chunk_ids, file_name):
+    """Save FAISS index and chunk_ids mapping to disk.
+    """
     os.makedirs("data/faiss_index", exist_ok=True)
 
     index_path = f"data/faiss_index/{file_name}.bin"
@@ -102,9 +110,11 @@ def save_index(index, chunk_ids, file_name):
 
 
 # ===============================================================
-# 6. MAIN PIPELINE
+# |                      MAIN PIPELINE                          |
 # ===============================================================
 def build_faiss_indexes():
+    """Build FAISS indexes from embeddings stored in PostgreSQL.
+    """
     print("Loading embeddings from PostgreSQL...")
     chunk_ids, vectors = load_embeddings_from_db()
 
@@ -128,7 +138,7 @@ def build_faiss_indexes():
 
 
 # ===============================================================
-# ENTRY POINT
+# |                        ENTRY POINT                          |
 # ===============================================================
 if __name__ == "__main__":
     build_faiss_indexes()

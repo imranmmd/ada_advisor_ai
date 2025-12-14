@@ -5,6 +5,7 @@ import os
 SCHEMA_PATH = os.path.join(os.path.dirname(__file__), "schema.sql")
 
 def init_schema():
+    """Initialize the database schema by executing the SQL in schema.sql."""
     conn = get_connection()
     with conn.cursor() as cur:
         with open(SCHEMA_PATH, "r", encoding="utf-8") as f:

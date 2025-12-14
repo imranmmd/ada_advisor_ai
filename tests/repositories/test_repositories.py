@@ -166,9 +166,9 @@ def test_chat_history_recent_messages_limits_results():
     conn = FakeConnection(cursor)
     repo = ChatHistoryRepository(lambda: conn)
 
-    messages = repo.recent_messages("s-1", limit=2)
+    messages = repo.recent_messages("s-1", limit=2, days=10)
 
     assert [m["message_id"] for m in messages] == ["m-2", "m-1"]
     sql, params = cursor.executed[0]
-    assert "FROM chat_history" in sql and "LIMIT" in sql
-    assert params == ("s-1", 2)
+    assert "FROM chat_history" in sql and "LIMIT" in sql and "created_at" in sql
+    assert params == ("s-1", 10, 2)

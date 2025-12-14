@@ -10,6 +10,10 @@ class ChunkRepository:
         self._connection_factory = connection_factory
 
     def upsert(self, chunk: Dict, conn=None) -> str:
+        """""
+        Insert or update a chunk.
+        Returns the chunk id that was written.
+        """
         payload = {
             "chunk_id": chunk["chunk_id"],
             "doc_id": chunk["doc_id"],
@@ -50,6 +54,10 @@ class ChunkRepository:
         return row[0] if row else payload["chunk_id"]
 
     def get(self, chunk_id: str, conn=None) -> Optional[Dict]:
+        """
+        Get a chunk by its id.
+        Returns None if not found.
+        """
         sql = """
         SELECT chunk_id, doc_id, order_index, page_number,
                header, text, token_count, created_at
@@ -67,6 +75,9 @@ class ChunkRepository:
         return self._row_to_dict(row) if row else None
 
     def list_by_document(self, doc_id: str, conn=None) -> List[Dict]:
+        """
+        List all chunks for a given document id.
+        """
         sql = """
         SELECT chunk_id, doc_id, order_index, page_number,
                header, text, token_count, created_at
@@ -85,6 +96,10 @@ class ChunkRepository:
         return [self._row_to_dict(r) for r in rows]
 
     def bulk_upsert(self, chunks: Sequence[Dict], conn=None) -> List[str]:
+        """
+        Bulk insert or update chunks.
+        Returns the list of chunk ids that were written.
+        """
         inserted_ids = []
         for chunk in chunks:
             inserted_ids.append(self.upsert(chunk, conn=conn))
@@ -92,6 +107,9 @@ class ChunkRepository:
 
     @staticmethod
     def _row_to_dict(row) -> Dict:
+        """
+        Convert a DB row to a dictionary.
+        """
         return {
             "chunk_id": row[0],
             "doc_id": row[1],

@@ -30,6 +30,7 @@ def _to_vector_literal(embedding):
 
 
 def insert_row(cur, row):
+    """Insert a single embedding row into the database."""
     cur.execute(
         """
         INSERT INTO chunk_embeddings (
@@ -48,6 +49,7 @@ def insert_row(cur, row):
 
 
 def import_embeddings():
+    """Import embeddings from JSON files into PostgreSQL."""
     files = [f for f in os.listdir(EMBEDDINGS_DIR) if f.startswith("embedding_batch_")]
 
     if not files:

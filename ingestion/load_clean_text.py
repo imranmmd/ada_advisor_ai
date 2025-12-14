@@ -1,7 +1,7 @@
 try:
-    import pymupdf as fitz  # Prefer canonical package name
-except ImportError:  # pragma: no cover - fallback for environments exposing only `fitz`
-    import fitz  # type: ignore
+    import pymupdf as fitz
+except ImportError:
+    import fitz
 
 if not hasattr(fitz, "open"):
     raise ImportError(
@@ -18,7 +18,7 @@ load_dotenv(os.path.join(PROJECT_ROOT, ".env"))
 
 
 # --------------------------------------------
-# TEXT CLEANING HELPERS
+# |          TEXT CLEANING TOOLS             |
 # --------------------------------------------
 
 def clean_text(text: str) -> str:
@@ -83,7 +83,7 @@ def normalize_pages(text: str) -> str:
 
 
 # --------------------------------------------
-# PDF → TXT CONVERSION + NORMALIZATION
+# | PDF → TXT CONVERSION + NORMALIZATION     |
 # --------------------------------------------
 
 def pdf_to_clean_txt(pdf_path, txt_path):
@@ -120,13 +120,16 @@ def pdf_to_clean_txt(pdf_path, txt_path):
 
 
 # --------------------------------------------
-# PROCESS ALL PDF FILES
+# | PROCESS ALL PDF FILES                    |
 # --------------------------------------------
 
 def convert_all_pdfs(
     documents_folder=None,
     output_folder="data/cleaned_text/"
 ):
+    """
+    Convert all PDFs in the documents_folder to cleaned TXT files in output_folder.
+    """
     if documents_folder is None:
         documents_folder = os.getenv("ADA_PDF_SOURCE_DIR")
 
@@ -159,7 +162,7 @@ def convert_all_pdfs(
 
 
 # --------------------------------------------
-# RUN
+# |                     RUN                  |
 # --------------------------------------------
 
 if __name__ == "__main__":

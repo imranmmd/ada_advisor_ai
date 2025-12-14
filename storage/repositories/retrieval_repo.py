@@ -10,6 +10,10 @@ class RetrievalEventRepository:
         self._connection_factory = connection_factory
 
     def log_event(self, event: Dict, conn=None) -> str:
+        """
+        Insert or update a retrieval event.
+        Returns the event id that was written.
+        """
         payload = {
             "event_id": event["event_id"],
             "query_text": event["query_text"],
@@ -48,6 +52,9 @@ class RetrievalEventRepository:
         return row[0] if row else payload["event_id"]
 
     def get(self, event_id: str, conn=None) -> Optional[Dict]:
+        """
+        Retrieve a retrieval event by its ID.
+        """
         sql = """
         SELECT event_id, query_text, query_embedding,
                retrieved_chunk_ids, top_k, scores, created_at
@@ -65,6 +72,9 @@ class RetrievalEventRepository:
         return self._row_to_dict(row) if row else None
 
     def list_recent(self, limit: int = 20, conn=None) -> List[Dict]:
+        """
+        List recent retrieval events, ordered by creation time descending.
+        """
         sql = """
         SELECT event_id, query_text, query_embedding,
                retrieved_chunk_ids, top_k, scores, created_at
@@ -84,6 +94,7 @@ class RetrievalEventRepository:
 
     @staticmethod
     def _row_to_dict(row) -> Dict:
+        """Convert a DB row to a dictionary."""
         return {
             "event_id": row[0],
             "query_text": row[1],

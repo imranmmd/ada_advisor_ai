@@ -22,14 +22,19 @@ PAGE_MARKER_PATTERN = re.compile(
 
 
 def slugify(value: str) -> str:
-    """Create a filesystem/ID friendly slug."""
+    """Create a filesystem/ID friendly slug.
+    
+    Converts to lowercase, removes non-alphanumeric characters,
+    and converts spaces to underscores."""
     value = value.lower().strip()
     value = re.sub(r"[^a-z0-9]+", "_", value)
     return value.strip("_") or "untitled"
 
 
 def title_from_filename(base_name: str) -> str:
-    """Derive a human-friendly title from a filename stem."""
+    """Derive a human-friendly title from a filename stem.
+    
+    Converts underscores/hyphens to spaces and capitalizes words."""
     spaced = re.sub(r"[_-]+", " ", base_name).strip()
     return spaced.title() if spaced else base_name
 
@@ -54,6 +59,7 @@ def token_count(text: str, model: str = "gpt-4o-mini") -> int:
 
 
 def build_document_metadata(cleaned_dir: str = CLEANED_TEXT_DIR) -> List[Dict[str, Any]]:
+    """Build metadata for all cleaned text documents."""
     documents = []
 
     if not os.path.isdir(cleaned_dir):
@@ -85,6 +91,7 @@ def build_document_metadata(cleaned_dir: str = CLEANED_TEXT_DIR) -> List[Dict[st
 
 
 def build_chunk_metadata(chunks_dir: str = CHUNKS_DIR) -> List[Dict[str, Any]]:
+    """Build metadata for all chunks from chunk JSON files."""
     chunks_metadata = []
 
     if not os.path.isdir(chunks_dir):
@@ -122,6 +129,7 @@ def build_chunk_metadata(chunks_dir: str = CHUNKS_DIR) -> List[Dict[str, Any]]:
 
 
 def write_json(path: str, payload) -> None:
+    """Write the given payload as JSON to the specified path."""
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)

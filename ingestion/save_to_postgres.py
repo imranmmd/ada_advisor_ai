@@ -5,7 +5,7 @@ from storage.repositories import DocumentRepository, ChunkRepository
 
 
 # ============================================================
-# 4.4 Validate Metadata Integrity
+# |           Validate Metadata Integrity                    |
 # ============================================================
 def validate_metadata(documents, chunks):
     """
@@ -59,9 +59,13 @@ def validate_metadata(documents, chunks):
 
 
 # ============================================================
-# Main Function: Save All Metadata
+# |          Main Function: Save All Metadata                |
 # ============================================================
 def save_metadata_to_postgres(documents_path="documents.json", chunks_path="chunks.json"):
+    """
+    Load document and chunk metadata from JSON files,
+    validate integrity, and save to Postgres.
+    """
     # 1. Load JSONs
     with open(documents_path, "r", encoding="utf-8") as f:
         documents = json.load(f)

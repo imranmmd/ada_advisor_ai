@@ -3,6 +3,7 @@ from .config import DB_HOST, DB_PORT, DB_NAME, DB_USER, DB_PASSWORD
 
 
 def _ensure_credentials():
+    """Ensure that required DB credentials are set."""
     missing = [name for name, value in {
         "DB_USER": DB_USER,
         "DB_PASSWORD": DB_PASSWORD,

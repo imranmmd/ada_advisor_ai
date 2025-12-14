@@ -57,6 +57,11 @@ class DocumentRepository:
         return row[0] if row else payload["doc_id"]
 
     def get(self, doc_id: str, conn=None) -> Optional[Dict]:
+        """
+        Get a document by its id.
+        Returns None if not found.
+        """
+
         sql = """
         SELECT doc_id, title, file_name, file_path,
                page_count, version, ingested_at
@@ -74,6 +79,9 @@ class DocumentRepository:
         return self._row_to_dict(row) if row else None
 
     def list_all(self, conn=None) -> List[Dict]:
+        """
+        List all documents.
+        """
         sql = """
         SELECT doc_id, title, file_name, file_path,
                page_count, version, ingested_at
@@ -92,6 +100,9 @@ class DocumentRepository:
 
     @staticmethod
     def _row_to_dict(row) -> Dict:
+        """
+        Convert a DB row to a dictionary.
+        """
         return {
             "doc_id": row[0],
             "title": row[1],

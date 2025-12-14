@@ -15,7 +15,8 @@ os.environ.setdefault("OPENAI_API_KEY", "test-key")
 ROOT_DIR = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT_DIR))
 
-from ingestion import retrieval_cli as retrieval
+from storage import faiss_loader
+import retrieval_cli
 
 
 class DummyChatResponse:
@@ -54,7 +55,8 @@ def stub_openai_client(monkeypatch):
             )
         ),
     )
-    monkeypatch.setattr(retrieval, "client", dummy_client)
+    monkeypatch.setattr(faiss_loader, "client", dummy_client)
+    monkeypatch.setattr(retrieval_cli, "client", dummy_client)
 
 
 def test_load_faiss_index_reads_index_and_ids(tmp_path, monkeypatch):
@@ -67,9 +69,9 @@ def test_load_faiss_index_reads_index_and_ids(tmp_path, monkeypatch):
         json.dumps(chunk_ids), encoding="utf-8"
     )
 
-    monkeypatch.setattr(retrieval, "INDEX_DIR", Path(tmp_path))
-
-    loaded_index, loaded_ids = retrieval.load_faiss_index(index_name)
+    loaded_index, loaded_ids = faiss_loader.load_faiss_index(
+        index_name, index_dir=tmp_path
+    )
     assert loaded_index.ntotal == len(chunk_ids)
     assert loaded_ids == chunk_ids
 
@@ -88,16 +90,16 @@ def test_search_returns_top_k_in_score_order(monkeypatch):
         observed_queries.append(text)
         return np.array([1.0, 0.0], dtype=np.float32)
 
-    monkeypatch.setattr(retrieval, "embed", fake_embed)
+    monkeypatch.setattr(faiss_loader, "embed", fake_embed)
     monkeypatch.setattr(
-        retrieval,
+        faiss_loader,
         "fetch_chunk_texts",
         lambda ids: {
             cid: {"text": f"text for {cid}", "page_number": 1} for cid in ids
         },
     )
 
-    results = retrieval.search(index, chunk_ids, "best vector", top_k=2)
+    results = faiss_loader.search(index, chunk_ids, "best vector", top_k=2)
 
     assert observed_queries == ["best vector"]
     assert [r["chunk_id"] for r in results] == ["chunk_1", "chunk_2"]
@@ -109,7 +111,7 @@ def test_pick_best_answer_respects_chat_choice(monkeypatch):
         return DummyChatResponse('{"answer": "use chunk_2", "chunk_id": "chunk_2"}')
 
     monkeypatch.setattr(
-        retrieval,
+        retrieval_cli,
         "client",
         types.SimpleNamespace(
             chat=types.SimpleNamespace(
@@ -123,7 +125,7 @@ def test_pick_best_answer_respects_chat_choice(monkeypatch):
         {"chunk_id": "chunk_2", "score": 0.8, "text": "second", "page_number": 2},
     ]
 
-    payload = retrieval.pick_best_answer("Which chunk?", results)
+    payload = retrieval_cli.pick_best_answer("Which chunk?", results)
 
     assert payload["chunk_id"] == "chunk_2"
     assert "chunk_2" in payload["answer"]
@@ -146,14 +148,57 @@ def test_recall_at_five_and_ten(monkeypatch):
     index = build_index(vectors)
 
     monkeypatch.setattr(
-        retrieval, "embed", lambda _: np.array([1.0, 0.0], dtype=np.float32)
+        faiss_loader, "embed", lambda _: np.array([1.0, 0.0], dtype=np.float32)
     )
-    monkeypatch.setattr(retrieval, "fetch_chunk_texts", lambda ids: {})
+    monkeypatch.setattr(faiss_loader, "fetch_chunk_texts", lambda ids: {})
 
-    results = retrieval.search(index, chunk_ids, "query", top_k=10)
+    results = faiss_loader.search(index, chunk_ids, "query", top_k=10)
 
     recall_5 = recall_at_k(results, {"chunk_6"}, k=5)
     recall_10 = recall_at_k(results, {"chunk_6"}, k=10)
 
     assert recall_5 == 0.0
     assert recall_10 == 1.0
+
+
+def test_rewrite_query_with_history_uses_model(monkeypatch):
+    def fake_create(**kwargs):
+        return DummyChatResponse("rewritten question")
+
+    monkeypatch.setattr(
+        retrieval_cli,
+        "client",
+        types.SimpleNamespace(
+            chat=types.SimpleNamespace(
+                completions=types.SimpleNamespace(create=fake_create)
+            )
+        ),
+    )
+
+    history = [{"role": "assistant", "content": "You asked about circles."}]
+    rewritten = retrieval_cli.rewrite_query_with_history(
+        "What about that?", history
+    )
+
+    assert rewritten == "rewritten question"
+
+
+def test_build_history_memory_chunk_handles_none(monkeypatch):
+    def fake_create(**kwargs):
+        return DummyChatResponse("NONE")
+
+    monkeypatch.setattr(
+        retrieval_cli,
+        "client",
+        types.SimpleNamespace(
+            chat=types.SimpleNamespace(
+                completions=types.SimpleNamespace(create=fake_create)
+            )
+        ),
+    )
+
+    chunk = retrieval_cli.build_history_memory_chunk(
+        "Remind me", [{"role": "user", "content": "Earlier context"}]
+    )
+
+    assert chunk is None

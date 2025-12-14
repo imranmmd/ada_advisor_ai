@@ -4,12 +4,18 @@ from storage.db.connection import get_connection
 
 
 class ChatHistoryRepository:
-    """Repository for the `chat_history` table."""
+    """Repository for the `chat_history` table.
+    Uses a connection factory so it can be mocked in tests.
+    """
 
     def __init__(self, connection_factory: Callable = get_connection):
         self._connection_factory = connection_factory
 
     def add_message(self, message: Dict, conn=None) -> str:
+        """
+        Insert or update a chat message.
+        Returns the message id that was written.
+        """
         payload = {
             "message_id": message["message_id"],
             "session_id": message["session_id"],
@@ -43,26 +49,42 @@ class ChatHistoryRepository:
                 row = cur.fetchone()
         return row[0] if row else payload["message_id"]
 
-    def recent_messages(self, session_id: str, limit: int = 20, conn=None) -> List[Dict]:
+    def recent_messages(
+        self, session_id: str, limit: int = 20, days: Optional[int] = None, conn=None
+    ) -> List[Dict]:
+        """
+        List recent chat messages for a session, ordered by creation time descending.
+        """
         sql = """
         SELECT message_id, session_id, role, content,
                retrieval_event_id, created_at
         FROM chat_history
         WHERE session_id = %s
-        ORDER BY created_at DESC
-        LIMIT %s;
         """
+        params = [session_id]
+
+        if days is not None:
+            sql += " AND created_at >= NOW() - (%s || ' days')::interval"
+            params.append(days)
+
+        sql += " ORDER BY created_at DESC LIMIT %s;"
+        params.append(limit)
+
         if conn is None:
             with self._connection_factory() as conn, conn.cursor() as cur:
-                cur.execute(sql, (session_id, limit))
+                cur.execute(sql, tuple(params))
                 rows = cur.fetchall()
         else:
             with conn.cursor() as cur:
-                cur.execute(sql, (session_id, limit))
+                cur.execute(sql, tuple(params))
                 rows = cur.fetchall()
         return [self._row_to_dict(r) for r in rows]
 
     def get(self, message_id: str, conn=None) -> Optional[Dict]:
+        """
+        Get a chat message by its id.
+        Returns None if not found.
+        """
         sql = """
         SELECT message_id, session_id, role, content,
                retrieval_event_id, created_at
@@ -81,6 +103,7 @@ class ChatHistoryRepository:
 
     @staticmethod
     def _row_to_dict(row) -> Dict:
+        """Convert a DB row to a dictionary."""
         return {
             "message_id": row[0],
             "session_id": row[1],

@@ -11,9 +11,10 @@ import nltk
 from nltk.data import find as nltk_find
 
 # -----------------------------------------------------------
-# Utility: token counter
+# |                   Utility: token counter                |
 # -----------------------------------------------------------
 def count_tokens(text, model="gpt-4o-mini"):
+    """Count the number of tokens in a given text for a specific model."""
     if tiktoken is None:
         return len(text.split())
     try:
@@ -24,7 +25,7 @@ def count_tokens(text, model="gpt-4o-mini"):
 
 
 # -----------------------------------------------------------
-# Detect headers and subheaders
+# |               Detect headers and subheaders             |
 # -----------------------------------------------------------
 HEADER_PATTERN = re.compile(
     r"""
@@ -40,6 +41,7 @@ HEADER_PATTERN = re.compile(
 )
 
 def is_header(line: str) -> bool:
+    """Detect if a line is a header based on formatting patterns."""
     line = line.strip()
     if not line:
         return False
@@ -47,7 +49,7 @@ def is_header(line: str) -> bool:
 
 
 # -----------------------------------------------------------
-# Detect page number markers
+# |                 Detect page number markers              |
 # -----------------------------------------------------------
 PAGE_PATTERN = re.compile(
     r"""(?ix)                              # ignore case, verbose
@@ -64,6 +66,7 @@ PAGE_PATTERN = re.compile(
 )
 
 def detect_page(line: str):
+    """Detect page number from a line, if any."""
     normalized = line.strip()
     if not normalized:
         return None
@@ -86,16 +89,18 @@ def detect_page(line: str):
 
 
 # -----------------------------------------------------------
-# Split paragraphs
+# |                       Split paragraphs                  |
 # -----------------------------------------------------------
 def paragraph_split(text: str):
+    """Split text into paragraphs."""
     return [p.strip() for p in text.split("\n") if p.strip()]
 
 
 # -----------------------------------------------------------
-# Sentence split
+# |                            Sentence split               |
 # -----------------------------------------------------------
 def split_sentences(paragraph):
+    """Split a paragraph into sentences using NLTK, with fallback."""
     try:
         nltk_find("tokenizers/punkt")
     except LookupError:
@@ -108,9 +113,13 @@ def split_sentences(paragraph):
 
 
 # -----------------------------------------------------------
-# MAIN: SEMANTIC CHUNKER TO JSON (with page numbers)
+# |      MAIN: SEMANTIC CHUNKER TO JSON (with page numbers) |
 # -----------------------------------------------------------
 def semantic_chunker_to_json_with_pages(file_path: str, max_tokens=350, model="gpt-4o-mini", output_dir="data/chunks"):
+    """
+    Chunk a text document into semantic chunks with page numbers and headers.
+    Saves the chunks as a JSON file in the specified output directory.
+    """
 
     def append_chunk(parts):
         """Append a chunk built from the given parts and advance the index."""
@@ -201,7 +210,7 @@ def semantic_chunker_to_json_with_pages(file_path: str, max_tokens=350, model="g
         append_chunk(current_chunk)
 
     # ----------------------------------------------------------
-    # SAVE JSON FILE
+    # |                        SAVE JSON FILE                  |
     # ----------------------------------------------------------
     final_json = {
         "source_file": file_path,

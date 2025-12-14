@@ -86,6 +86,7 @@ def save_index(
 
 
 def parse_args() -> argparse.Namespace:
+    """Parse command-line arguments."""
     parser = argparse.ArgumentParser(description="Build BM25 index from embedding batches.")
     parser.add_argument(
         "--embedding-dir",
