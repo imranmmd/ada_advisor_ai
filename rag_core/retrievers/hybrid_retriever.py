@@ -1,6 +1,10 @@
 """
 Hybrid retrieval with weighted fusion or Reciprocal Rank Fusion (RRF).
 Combines semantic (FAISS) and lexical (BM25) results, deduplicates, and returns ranked hits.
+
+To improve recall, we over-fetch from each retriever (prefetch_factor) before
+trimming to the requested limit. This helps pull in relevant chunks that sit
+just outside the naive top-k cut-off.
 """
 
 from typing import Dict, List, Optional
@@ -110,6 +114,7 @@ class HybridRetriever:
         w_faiss: float = 0.6,
         w_bm25: float = 0.4,
         limit: int = 10,
+        prefetch_factor: float = 2.0,
     ) -> None:
         self.semantic = semantic or SemanticRetriever()
         self.bm25 = bm25 or BM25Retriever()
@@ -117,14 +122,22 @@ class HybridRetriever:
         self.w_faiss = w_faiss
         self.w_bm25 = w_bm25
         self.limit = limit
+        self.prefetch_factor = prefetch_factor
 
     def search(self, query: str) -> List[Dict[str, object]]:
-        faiss_results = self.semantic.search(query, top_k=self.limit)
-        bm25_results = self.bm25.search(query, top_k=self.limit)
+        # Over-fetch candidates from each retriever to avoid missing near-miss hits.
+        search_k = max(self.limit, int(self.limit * self.prefetch_factor))
+
+        faiss_results = self.semantic.search(query, top_k=search_k)
+        bm25_results = self.bm25.search(query, top_k=search_k)
 
         if self.fusion == "weighted":
             fused = weighted_fusion(
-                faiss_results, bm25_results, w_faiss=self.w_faiss, w_bm25=self.w_bm25, limit=self.limit
+                faiss_results,
+                bm25_results,
+                w_faiss=self.w_faiss,
+                w_bm25=self.w_bm25,
+                limit=self.limit,
             )
         else:
             fused = reciprocal_rank_fusion(faiss_results, bm25_results, limit=self.limit)
@@ -138,9 +151,16 @@ def hybrid_search(
     fusion: str = "rrf",
     w_faiss: float = 0.6,
     w_bm25: float = 0.4,
+    prefetch_factor: float = 2.0,
 ) -> List[Dict[str, object]]:
     """Convenience functional API for hybrid retrieval."""
-    retriever = HybridRetriever(fusion=fusion, w_faiss=w_faiss, w_bm25=w_bm25, limit=limit)
+    retriever = HybridRetriever(
+        fusion=fusion,
+        w_faiss=w_faiss,
+        w_bm25=w_bm25,
+        limit=limit,
+        prefetch_factor=prefetch_factor,
+    )
     try:
         return retriever.search(query)
     except Exception:

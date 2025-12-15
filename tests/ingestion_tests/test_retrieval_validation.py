@@ -17,6 +17,7 @@ sys.path.insert(0, str(ROOT_DIR))
 
 from storage import faiss_loader
 import retrieval_cli
+from rag_core.retrievers.hybrid_retriever import HybridRetriever
 
 
 class DummyChatResponse:
@@ -202,3 +203,40 @@ def test_build_history_memory_chunk_handles_none(monkeypatch):
     )
 
     assert chunk is None
+
+
+def test_hybrid_retriever_prefetches_to_improve_recall():
+    class DummyRetriever:
+        def __init__(self, label: str):
+            self.label = label
+            self.calls = []
+            # Only the tail item carries the strong score; it should appear
+            # in the fused top-k once we over-fetch.
+            self.pool = [
+                {"chunk_id": f"{label}_{i}", "score": score, "text": None, "page_number": None}
+                for i, score in enumerate([0.1, 0.2, 0.3, 0.4, 0.5, 10.0])
+            ]
+
+        def search(self, query: str, top_k: int):
+            self.calls.append(top_k)
+            return [dict(self.pool[i], source=self.label) for i in range(min(top_k, len(self.pool)))]
+
+    semantic = DummyRetriever("faiss")
+    bm25 = DummyRetriever("bm25")
+    retriever = HybridRetriever(
+        semantic=semantic,
+        bm25=bm25,
+        fusion="weighted",
+        w_faiss=1.0,
+        w_bm25=0.0,
+        limit=3,
+        prefetch_factor=2.0,
+    )
+
+    results = retriever.search("query")
+
+    assert semantic.calls == [6]
+    assert bm25.calls == [6]
+    assert len(results) == 3
+    # The high-scoring tail item should surface because we over-fetched.
+    assert results[0]["chunk_id"] == "faiss_5"
