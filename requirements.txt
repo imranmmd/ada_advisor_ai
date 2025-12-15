@@ -8,3 +8,4 @@ tiktoken
 nltk
 PyMuPDF
 pytest
+python-telegram-bot
