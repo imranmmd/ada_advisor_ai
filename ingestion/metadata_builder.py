@@ -1,6 +1,7 @@
 import json
 import os
 import re
+from dataclasses import dataclass
 from datetime import datetime
 from typing import List, Dict, Any
 
@@ -9,11 +10,15 @@ try:
 except ImportError:  # pragma: no cover - fallback if tiktoken is unavailable
     tiktoken = None
 
-CLEANED_TEXT_DIR = "data/cleaned_text"
-CHUNKS_DIR = "data/chunks"
-METADATA_DIR = "data/metadata"
-DOCUMENT_METADATA_PATH = os.path.join(METADATA_DIR, "documents.json")
-CHUNK_METADATA_PATH = os.path.join(METADATA_DIR, "chunks.json")
+from ingestion.models import ChunkMetadata, DocumentMetadata
+
+@dataclass(frozen=True)
+class MetadataConfig:
+    cleaned_text_dir: str = "data/cleaned_text"
+    chunks_dir: str = "data/chunks"
+    metadata_dir: str = "data/metadata"
+    document_metadata_path: str = os.path.join("data/metadata", "documents.json")
+    chunk_metadata_path: str = os.path.join("data/metadata", "chunks.json")
 
 PAGE_MARKER_PATTERN = re.compile(
     r"^===\s*PAGE\s+(\d+)\s*===\s*$",
@@ -22,19 +27,14 @@ PAGE_MARKER_PATTERN = re.compile(
 
 
 def slugify(value: str) -> str:
-    """Create a filesystem/ID friendly slug.
-    
-    Converts to lowercase, removes non-alphanumeric characters,
-    and converts spaces to underscores."""
+    """Create a filesystem/ID friendly slug."""
     value = value.lower().strip()
     value = re.sub(r"[^a-z0-9]+", "_", value)
     return value.strip("_") or "untitled"
 
 
 def title_from_filename(base_name: str) -> str:
-    """Derive a human-friendly title from a filename stem.
-    
-    Converts underscores/hyphens to spaces and capitalizes words."""
+    """Derive a human-friendly title from a filename stem."""
     spaced = re.sub(r"[_-]+", " ", base_name).strip()
     return spaced.title() if spaced else base_name
 
@@ -58,92 +58,104 @@ def token_count(text: str, model: str = "gpt-4o-mini") -> int:
     return len(enc.encode(text))
 
 
-def build_document_metadata(cleaned_dir: str = CLEANED_TEXT_DIR) -> List[Dict[str, Any]]:
-    """Build metadata for all cleaned text documents."""
-    documents = []
+class MetadataBuilder:
+    """Builds document and chunk metadata as descriptive objects."""
 
-    if not os.path.isdir(cleaned_dir):
-        print(f"⚠️ Cleaned text directory not found: {cleaned_dir}")
+    def __init__(self, config: MetadataConfig = MetadataConfig()) -> None:
+        self.config = config
+
+    def build_documents(self, cleaned_dir: str | None = None) -> List[DocumentMetadata]:
+        cleaned_dir = cleaned_dir or self.config.cleaned_text_dir
+        documents: List[DocumentMetadata] = []
+        if not os.path.isdir(cleaned_dir):
+            print(f"⚠️ Cleaned text directory not found: {cleaned_dir}")
+            return documents
+
+        for filename in sorted(os.listdir(cleaned_dir)):
+            if not filename.lower().endswith(".txt"):
+                continue
+
+            file_path = os.path.join(cleaned_dir, filename)
+            with open(file_path, "r", encoding="utf-8") as f:
+                text = f.read()
+
+            base = os.path.splitext(filename)[0]
+            slug = slugify(base)
+            documents.append(
+                DocumentMetadata(
+                    doc_id=f"doc_{slug}",
+                    title=title_from_filename(base),
+                    file_name=filename,
+                    file_path=file_path,
+                    page_count=count_pages_from_text(text),
+                    version=1,
+                    ingested_at=datetime.utcnow().replace(microsecond=0).isoformat() + "Z",
+                )
+            )
+
         return documents
 
-    for filename in sorted(os.listdir(cleaned_dir)):
-        if not filename.lower().endswith(".txt"):
-            continue
+    def build_chunks(self, chunks_dir: str | None = None) -> List[ChunkMetadata]:
+        chunks_dir = chunks_dir or self.config.chunks_dir
+        chunks_metadata: List[ChunkMetadata] = []
 
-        file_path = os.path.join(cleaned_dir, filename)
-        with open(file_path, "r", encoding="utf-8") as f:
-            text = f.read()
+        if not os.path.isdir(chunks_dir):
+            print(f"⚠️ Chunk directory not found: {chunks_dir}")
+            return chunks_metadata
 
-        base = os.path.splitext(filename)[0]
-        slug = slugify(base)
+        for filename in sorted(os.listdir(chunks_dir)):
+            if not filename.endswith("_chunks.json"):
+                continue
 
-        documents.append({
-            "doc_id": f"doc_{slug}",
-            "title": title_from_filename(base),
-            "file_name": filename,
-            "file_path": file_path,
-            "page_count": count_pages_from_text(text),
-            "version": 1,
-            "ingested_at": datetime.utcnow().replace(microsecond=0).isoformat() + "Z",
-        })
+            chunk_file_path = os.path.join(chunks_dir, filename)
+            with open(chunk_file_path, "r", encoding="utf-8") as f:
+                chunk_payload = json.load(f)
 
-    return documents
+            base = re.sub(r"_chunks$", "", os.path.splitext(filename)[0])
+            slug = slugify(base)
+            doc_id = f"doc_{slug}"
 
+            for idx, chunk in enumerate(chunk_payload.get("chunks", []), start=1):
+                chunk_text = chunk.get("text", "")
+                token_cnt = chunk.get("token_count") or token_count(chunk_text)
+                order_index = chunk.get("order_index", idx)
 
-def build_chunk_metadata(chunks_dir: str = CHUNKS_DIR) -> List[Dict[str, Any]]:
-    """Build metadata for all chunks from chunk JSON files."""
-    chunks_metadata = []
+                chunks_metadata.append(
+                    ChunkMetadata(
+                        chunk_id=f"chunk_{slug}_{idx:04d}",
+                        doc_id=doc_id,
+                        order_index=order_index,
+                        page_number=chunk.get("page_number"),
+                        header=chunk.get("header"),
+                        text=chunk_text,
+                        token_count=token_cnt,
+                    )
+                )
 
-    if not os.path.isdir(chunks_dir):
-        print(f"⚠️ Chunk directory not found: {chunks_dir}")
         return chunks_metadata
 
-    for filename in sorted(os.listdir(chunks_dir)):
-        if not filename.endswith("_chunks.json"):
-            continue
-
-        chunk_file_path = os.path.join(chunks_dir, filename)
-        with open(chunk_file_path, "r", encoding="utf-8") as f:
-            chunk_payload = json.load(f)
-
-        base = re.sub(r"_chunks$", "", os.path.splitext(filename)[0])
-        slug = slugify(base)
-        doc_id = f"doc_{slug}"
-
-        for idx, chunk in enumerate(chunk_payload.get("chunks", []), start=1):
-            chunk_text = chunk.get("text", "")
-            token_cnt = chunk.get("token_count") or token_count(chunk_text)
-            order_index = chunk.get("order_index", idx)
-
-            chunks_metadata.append({
-                "chunk_id": f"chunk_{slug}_{idx:04d}",
-                "doc_id": doc_id,
-                "order_index": order_index,
-                "page_number": chunk.get("page_number"),
-                "header": chunk.get("header"),
-                "text": chunk_text,
-                "token_count": token_cnt,
-            })
-
-    return chunks_metadata
-
-
-def write_json(path: str, payload) -> None:
-    """Write the given payload as JSON to the specified path."""
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(payload, f, indent=2, ensure_ascii=False)
+    @staticmethod
+    def write_json(path: str, payload) -> None:
+        """Write the given payload as JSON to the specified path."""
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(payload, f, indent=2, ensure_ascii=False)
 
 
 def main():
-    documents = build_document_metadata()
-    chunk_metadata = build_chunk_metadata()
+    builder = MetadataBuilder()
+    documents = builder.build_documents()
+    chunk_metadata = builder.build_chunks()
 
-    write_json(DOCUMENT_METADATA_PATH, documents)
-    write_json(CHUNK_METADATA_PATH, chunk_metadata)
+    MetadataBuilder.write_json(
+        builder.config.document_metadata_path, [doc.to_dict() for doc in documents]
+    )
+    MetadataBuilder.write_json(
+        builder.config.chunk_metadata_path, [chunk.to_dict() for chunk in chunk_metadata]
+    )
 
-    print(f"✅ Saved {len(documents)} documents → {DOCUMENT_METADATA_PATH}")
-    print(f"✅ Saved {len(chunk_metadata)} chunks → {CHUNK_METADATA_PATH}")
+    print(f"✅ Saved {len(documents)} documents → {builder.config.document_metadata_path}")
+    print(f"✅ Saved {len(chunk_metadata)} chunks → {builder.config.chunk_metadata_path}")
 
 
 if __name__ == "__main__":
