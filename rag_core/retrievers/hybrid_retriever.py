@@ -124,9 +124,10 @@ class HybridRetriever:
         self.limit = limit
         self.prefetch_factor = prefetch_factor
 
-    def search(self, query: str) -> List[Dict[str, object]]:
+    def search(self, query: str, limit: Optional[int] = None) -> List[Dict[str, object]]:
         # Over-fetch candidates from each retriever to avoid missing near-miss hits.
-        search_k = max(self.limit, int(self.limit * self.prefetch_factor))
+        search_limit = limit or self.limit
+        search_k = max(search_limit, int(search_limit * self.prefetch_factor))
 
         faiss_results = self.semantic.search(query, top_k=search_k)
         bm25_results = self.bm25.search(query, top_k=search_k)
@@ -137,10 +138,10 @@ class HybridRetriever:
                 bm25_results,
                 w_faiss=self.w_faiss,
                 w_bm25=self.w_bm25,
-                limit=self.limit,
+                limit=search_limit,
             )
         else:
-            fused = reciprocal_rank_fusion(faiss_results, bm25_results, limit=self.limit)
+            fused = reciprocal_rank_fusion(faiss_results, bm25_results, limit=search_limit)
 
         return _dedupe_preserve_order(fused)
 
@@ -162,6 +163,6 @@ def hybrid_search(
         prefetch_factor=prefetch_factor,
     )
     try:
-        return retriever.search(query)
+        return retriever.search(query, limit=limit)
     except Exception:
         return []
