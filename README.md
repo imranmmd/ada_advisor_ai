@@ -132,15 +132,7 @@ This enables testing, mocking, and future replacement.
 
 ---
 
-## Design Outcome
-- High cohesion and low coupling
-- Clear traceability from documents to answers
-- Testable and replaceable components
-- Architecture suitable for academic and production evaluation
-
-
-
-## Telegram bot
+### How to run?
 - Set environment: `OPENAI_API_KEY` (existing RAG flow) and `TELEGRAM_BOT_TOKEN`.
 - Optional: `TELEGRAM_WEBHOOK_URL`/`TELEGRAM_WEBHOOK_PATH` to enable webhooks (defaults to polling), `TELEGRAM_ADMIN_CHAT_ID` for error alerts, `TELEGRAM_RAG_TOP_K` to override retrieval depth.
 - Run locally with polling: `python -m rag_core.bot.main`.
